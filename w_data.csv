@@ -1,0 +1,862 @@
+place,place_short,placeLabel,location,osm,gnd,topostext,pleiades,oclc,getty,dare,arachne,archinform,mibact,iccd,iccdcf,geonames,inception,wikimedia,wikipedia
+http://www.wikidata.org/entity/Q1329671,Q1329671,Pigna,Point(12.48333333 41.9),5452758,,,,,,,,,,,,6545151,1300-01-01T00:00:00Z,Rione IX - Pigna,https://it.wikipedia.org/wiki/Pigna_(rione_di_Roma)
+http://www.wikidata.org/entity/Q1342766,Q1342766,chiesa delle Santissime Stimmate di San Francesco,Point(12.477777777 41.896388888),,7678417-4,,,,,,,,,,,,1721-01-01T00:00:00Z,Stimmate di San Francesco (Rome),https://it.wikipedia.org/wiki/Chiesa_delle_Santissime_Stimmate_di_San_Francesco
+http://www.wikidata.org/entity/Q1347047,Q1347047,Ministero della Cultura,Point(12.480447222 41.897836111),,5541509-X,,,,,,,,,,,,1974-01-01T00:00:00Z,Ministry of Culture (Italy),https://it.wikipedia.org/wiki/Ministero_della_cultura
+http://www.wikidata.org/entity/Q1362663,Q1362663,Villa Medici,Point(12.48252 41.90827),,4305695-7,,,,,,,,,,,8015094,,Villa Medici (Rome),https://it.wikipedia.org/wiki/Villa_Medici
+http://www.wikidata.org/entity/Q1364594,Q1364594,Villa di Lucullo,Point(12.4834 41.9065),,,,418356677,,,,,,,,,,,,https://it.wikipedia.org/wiki/Villa_di_Lucullo
+http://www.wikidata.org/entity/Q1423813,Q1423813,chiesa di Santa Maria in Trivio,Point(12.4825 41.901111111),,,,,,,,,,,,,,1675-03-25T00:00:00Z,Santa Maria in Trivio (Rome),https://it.wikipedia.org/wiki/Chiesa_di_Santa_Maria_in_Trivio
+http://www.wikidata.org/entity/Q1465674,Q1465674,chiesa di Sant'Ignazio di Loyola in Campo Marzio,Point(12.480072 41.899248),,4468814-3,,,,,,,,,15417,1467362637708,8015141,1624-01-01T00:00:00Z,Sant'Ignazio (Rome),https://it.wikipedia.org/wiki/Chiesa_di_Sant%27Ignazio_di_Loyola_in_Campo_Marzio
+http://www.wikidata.org/entity/Q185382,Q185382,Fontana di Trevi,Point(12.483166666 41.900875),,4217965-8,,,,,,,10072,,,,6619448,1735-01-01T00:00:00Z,Trevi fountain,https://it.wikipedia.org/wiki/Fontana_di_Trevi
+http://www.wikidata.org/entity/Q190353,Q190353,Sovrano Militare Ordine Ospedaliero di San Giovanni di Gerusalemme di Rodi e di Malta,Point(12.48061 41.90541),,43583-1,,,,,,,,,,,,1961-06-27T00:00:00Z,Sovereign Military Order of Malta,https://it.wikipedia.org/wiki/Sovrano_Militare_Ordine_di_Malta
+http://www.wikidata.org/entity/Q3348567,Q3348567,Obelisco del Pincio,Point(12.4797 41.9108),,,419125AOAn,,,,,,,,,,,0200-01-01T00:00:00Z,Antinous obelisk,https://it.wikipedia.org/wiki/Obelisco_del_Pincio
+http://www.wikidata.org/entity/Q3348569,Q3348569,Obelisco del Pantheon,Point(12.4767315 41.8993045),,,419125AOPn,,,,,,,,,,,-1300-01-01T00:00:00Z,Macuteo obelisk (Rome),https://it.wikipedia.org/wiki/Obelisco_del_Pantheon
+http://www.wikidata.org/entity/Q3360871,Q3360871,Palazzo Gabrielli-Borromeo,Point(12.47888889 41.89916667),,,,,,,,,,,,,,,Palazzo Gabrielli Borromeo (Rome),https://it.wikipedia.org/wiki/Palazzo_Gabrielli-Borromeo
+http://www.wikidata.org/entity/Q3360875,Q3360875,Palazzo Grazioli,Point(12.48055556 41.89666667),,,,,,,,,,,,,,,Palazzo Grazioli (Rome),https://it.wikipedia.org/wiki/Palazzo_Grazioli
+http://www.wikidata.org/entity/Q3360896,Q3360896,Palazzo Mancini,Point(12.48194444 41.8975),,,,,,,,,,,,,,,Palazzo Mancini (Rome),https://it.wikipedia.org/wiki/Palazzo_Mancini
+http://www.wikidata.org/entity/Q3360903,Q3360903,Palazzo Muti,Point(12.482722222 41.898527777),,,,,,,,,,,,,,1644-01-01T00:00:00Z,Palazzo Muti,https://it.wikipedia.org/wiki/Palazzo_Muti
+http://www.wikidata.org/entity/Q3457157,Q3457157,piazza della Rotonda,Point(12.47675 41.89930556),,4846556-2,,,,,,,,,,,,,Piazza della Rotonda (Rome),https://it.wikipedia.org/wiki/Piazza_della_Rotonda
+http://www.wikidata.org/entity/Q3472907,Q3472907,Santissimi Nomi di Gesù e Maria in via Lata,Point(12.477609 41.908009),,,,,,,,,,,,,,,Gesù e Maria (Rome),https://it.wikipedia.org/wiki/Santissimi_Nomi_di_Ges%C3%B9_e_Maria_in_via_Lata_(diaconia)
+http://www.wikidata.org/entity/Q3584709,Q3584709,chiesa di Sant'Ivo dei Bretoni,Point(12.47477778 41.90258333),,,,,,,,,,,,,,1875-01-01T00:00:00Z,Sant'Ivo dei Bretoni,https://it.wikipedia.org/wiki/Chiesa_di_Sant%27Ivo_dei_Bretoni
+http://www.wikidata.org/entity/Q3585427,Q3585427,chiesa di Santa Maria del Carmine alle Tre Cannelle,Point(12.4848 41.8969),,,,,,,,,,,,,,1623-01-01T00:00:00Z,Santa Maria del Carmine alle Tre Cannelle (Rome),https://it.wikipedia.org/wiki/Chiesa_di_Santa_Maria_del_Carmine_alle_Tre_Cannelle
+http://www.wikidata.org/entity/Q3585438,Q3585438,chiesa di Santa Maria in Publicolis,Point(12.476375 41.89383),,4795428-0,,,,,,,,,,1467355008624,,1643-01-01T00:00:00Z,Santa Maria in Publicolis (Rome),https://it.wikipedia.org/wiki/Chiesa_di_Santa_Maria_in_Publicolis
+http://www.wikidata.org/entity/Q3585438,Q3585438,chiesa di Santa Maria in Publicolis,Point(12.47622 41.89379),,4795428-0,,,,,,,,,,1467355008624,,1643-01-01T00:00:00Z,Santa Maria in Publicolis (Rome),https://it.wikipedia.org/wiki/Chiesa_di_Santa_Maria_in_Publicolis
+http://www.wikidata.org/entity/Q3585441,Q3585441,chiesa di Santa Rita da Cascia alle Vergini,Point(12.4829 41.8998),,,,,,,,,,,,,,1689-01-01T00:00:00Z,Santa Rita da Cascia alle Vergini (Rome),https://it.wikipedia.org/wiki/Chiesa_di_Santa_Rita_da_Cascia_alle_Vergini
+http://www.wikidata.org/entity/Q1473122,Q1473122,palazzo di Propaganda Fide,Point(12.483305555 41.904166666),,,,,,,,,10028,,,,,,Palazzo di Propaganda Fide (Rome),https://it.wikipedia.org/wiki/Palazzo_di_Propaganda_Fide
+http://www.wikidata.org/entity/Q1479910,Q1479910,basilica di San Marco Evangelista al Campidoglio,Point(12.481448 41.895724),,4765082-5,,,,,,,10917,,15228,1467404680674,8015147,1750-01-01T00:00:00Z,San Marco (Rome),https://it.wikipedia.org/wiki/Basilica_di_San_Marco_Evangelista_al_Campidoglio
+http://www.wikidata.org/entity/Q1498203,Q1498203,Palazzo Vidoni Caffarelli,Point(12.47511111 41.89619444),,,,,,,,,10041,,,,,,Palazzo Vidoni Caffarelli (Rome),https://it.wikipedia.org/wiki/Palazzo_Vidoni_Caffarelli
+http://www.wikidata.org/entity/Q1515300,Q1515300,basilica dei Santi XII Apostoli,Point(12.483205555 41.898105555),,4365697-3,,,,,,,,,15354,1467398906765,,0501-01-01T00:00:00Z,Basilica dei Santi Apostoli (Rome),https://it.wikipedia.org/wiki/Basilica_dei_Santi_XII_Apostoli
+http://www.wikidata.org/entity/Q1515316,Q1515316,basilica di San Lorenzo in Lucina,Point(12.478694444 41.903416666),,4357179-7,,,,,,,,,15425,1467348346842,,,San Lorenzo in Lucina (Rome),https://it.wikipedia.org/wiki/Basilica_di_San_Lorenzo_in_Lucina
+http://www.wikidata.org/entity/Q1523718,Q1523718,oratorio di San Francesco Saverio,Point(12.48075 41.899138888),,7687253-1,,,,,,,,,15694,,,1633-01-01T00:00:00Z,Oratorio del Caravita (Rome),https://it.wikipedia.org/wiki/Oratorio_di_San_Francesco_Saverio
+http://www.wikidata.org/entity/Q99309,Q99309,Pantheon,Point(12.47685 41.898561),,4115786-2,419125SPan,128044615,,,,,78,20173,,,6619450,0128-01-01T00:00:00Z,Pantheon (Rome),https://it.wikipedia.org/wiki/Pantheon_(Roma)
+http://www.wikidata.org/entity/Q129150,Q129150,Palazzo Scanderbeg,Point(12.4849 41.9007),,,,,,,,,,,,,,,Palazzo Scanderbeg (Rome),https://it.wikipedia.org/wiki/Palazzo_Scanderbeg
+http://www.wikidata.org/entity/Q323726,Q323726,Casa museo di Giorgio de Chirico,Point(12.4825087 41.9055396),,,,,,,,,,101519,,,,1998-01-01T00:00:00Z,,https://it.wikipedia.org/wiki/Casa_museo_di_Giorgio_de_Chirico
+http://www.wikidata.org/entity/Q337494,Q337494,Académie de France à Rome,Point(12.4825 41.908333333),,16287815-1,,,,,,,,,,,,1666-01-01T00:00:00Z,Académie de France à Rome,https://it.wikipedia.org/wiki/Accademia_di_Francia_a_Roma
+http://www.wikidata.org/entity/Q337494,Q337494,Académie de France à Rome,Point(12.4825 41.908333333),,1039862-4,,,,,,,,,,,,1666-01-01T00:00:00Z,Académie de France à Rome,https://it.wikipedia.org/wiki/Accademia_di_Francia_a_Roma
+http://www.wikidata.org/entity/Q338481,Q338481,Accademia di belle arti di Roma,Point(12.4756 41.9075),,5077572-8,,,,,,,,,,,,1870-01-01T00:00:00Z,,https://it.wikipedia.org/wiki/Accademia_di_belle_arti_di_Roma
+http://www.wikidata.org/entity/Q338523,Q338523,Accademia nazionale di San Luca,Point(12.483586 41.90166),,,,,,,,,,105269,15215,,,1577-01-01T00:00:00Z,"Accademia di San Luca, Rome",https://it.wikipedia.org/wiki/Accademia_nazionale_di_San_Luca
+http://www.wikidata.org/entity/Q339759,Q339759,Bibliotheca Hertziana,Point(12.48414 41.90534),,1001520-6,,,,,,,,,,,,1913-01-01T00:00:00Z,Bibliotheca Hertziana,https://it.wikipedia.org/wiki/Bibliotheca_Hertziana
+http://www.wikidata.org/entity/Q339759,Q339759,Bibliotheca Hertziana,Point(12.48414 41.90534),,1001520-6,,,,,,,,,,,,1912-01-01T00:00:00Z,Bibliotheca Hertziana,https://it.wikipedia.org/wiki/Bibliotheca_Hertziana
+http://www.wikidata.org/entity/Q385387,Q385387,Palazzo Doria-Pamphili,Point(12.48138056 41.89779167),,4580180-0,,,,,,,,,,,,,Palazzo Doria Pamphilj (Rome),https://it.wikipedia.org/wiki/Palazzo_Doria-Pamphili
+http://www.wikidata.org/entity/Q429103,Q429103,Colonna dell'Immacolata,Point(12.48294167 41.90498333),,,,,,,,,,,,,,,Colonna dell'Immacolata (Rome),https://it.wikipedia.org/wiki/Colonna_dell%27Immacolata_(Roma)
+http://www.wikidata.org/entity/Q431062,Q431062,Tempio di Adriano,Point(12.479444444 41.899722222),,4224551-5,419125SHad,,,,,2100073,,,,,8015140,,Temple of Hadrian (Rome),https://it.wikipedia.org/wiki/Tempio_di_Adriano
+http://www.wikidata.org/entity/Q7231817,Q7231817,Portico degli Argonauti,Point(12.47722222 41.89833333),,,,,,,,,,,,,,,,https://it.wikipedia.org/wiki/Portico_degli_Argonauti
+http://www.wikidata.org/entity/Q7232177,Q7232177,porto di Ripetta,Point(12.47504 41.905108),,4785308-6,,,,,,,,,,,,,Porto di Ripetta (Rome),https://it.wikipedia.org/wiki/Porto_di_Ripetta
+http://www.wikidata.org/entity/Q7604478,Q7604478,Busto di Papa Clemente X,Point(12.479 41.8963),,,,,,,,,,,,,,,,https://it.wikipedia.org/wiki/Busto_di_papa_Clemente_X
+http://www.wikidata.org/entity/Q7698744,Q7698744,Tempio di Marco Aurelio,Point(12.47986111 41.90083333),,,,,,,,,,,,,,,,https://it.wikipedia.org/wiki/Tempio_di_Marco_Aurelio
+http://www.wikidata.org/entity/Q11954579,Q11954579,Via Tiberina,Point(12.479444444 41.903888888),,,,759079303,,,,,,,,,,,,https://it.wikipedia.org/wiki/Via_Tiberina
+http://www.wikidata.org/entity/Q13055336,Q13055336,via Frattina,Point(12.481347 41.904232),,,,,,,,,,,,,,,Via Frattina (Rome),https://it.wikipedia.org/wiki/Via_Frattina
+http://www.wikidata.org/entity/Q14514634,Q14514634,via Quattro Novembre,Point(12.48547 41.89646),,,,,,,,,,,,,,,Via Quattro Novembre (Rome),https://it.wikipedia.org/wiki/Via_Quattro_Novembre
+http://www.wikidata.org/entity/Q14514634,Q14514634,via Quattro Novembre,Point(12.485257 41.896868),,,,,,,,,,,,,,,Via Quattro Novembre (Rome),https://it.wikipedia.org/wiki/Via_Quattro_Novembre
+http://www.wikidata.org/entity/Q15124814,Q15124814,piazza di Spagna,Point(12.48205833 41.90595),,4260131-9,,,,,,,,,,,6954110,,Piazza di Spagna (Rome),https://it.wikipedia.org/wiki/Piazza_di_Spagna
+http://www.wikidata.org/entity/Q16060292,Q16060292,Busto di Gabriele Fonseca,Point(12.478694444 41.903416666),,,,,,,,,,,,,,1668-01-01T00:00:00Z,Gabriele Fonseca,https://it.wikipedia.org/wiki/Busto_di_Gabriele_Fonseca
+http://www.wikidata.org/entity/Q676902,Q676902,chiesa di San Macuto,Point(12.47923 41.89931),,,,,,,,,,,15433,,,1192-01-01T00:00:00Z,San Macuto (Rome),https://it.wikipedia.org/wiki/Chiesa_di_San_Macuto
+http://www.wikidata.org/entity/Q719794,Q719794,chiesa del Gesù,Point(12.479722222 41.895833333),,4388553-6,,,,,,,1160,,15397,,8015148,1568-01-01T00:00:00Z,Chiesa del Gesù (Rome),https://it.wikipedia.org/wiki/Chiesa_del_Ges%C3%B9
+http://www.wikidata.org/entity/Q740755,Q740755,Obelisco di Montecitorio,Point(12.4787 41.9006),,1184320535,419125AOMn,,,,,,,,,,,-0600-01-01T00:00:00Z,Montecitorio obelisk,https://it.wikipedia.org/wiki/Obelisco_di_Montecitorio
+http://www.wikidata.org/entity/Q746102,Q746102,Cloaca Massima,Point(12.4848 41.8957),,1073930718,419125BClM,,,,,2100366,,,,,,,Cloaca Maxima,https://it.wikipedia.org/wiki/Cloaca_Massima
+http://www.wikidata.org/entity/Q751105,Q751105,Palazzo Valentini,Point(12.485203 41.897048),,,,,,,,,,,,1467387158244,,,Palazzo Valentini,https://it.wikipedia.org/wiki/Palazzo_Valentini
+http://www.wikidata.org/entity/Q751105,Q751105,Palazzo Valentini,Point(12.48388889 41.89666667),,,,,,,,,,,,1467387158244,,,Palazzo Valentini,https://it.wikipedia.org/wiki/Palazzo_Valentini
+http://www.wikidata.org/entity/Q638283,Q638283,chiesa di San Luigi dei Francesi,Point(12.474666666 41.899583333),,4199094-8,,,,,,,7420,,,,6621063,1518-01-01T00:00:00Z,Chiesa di San Luigi dei Francesi (Rome),https://it.wikipedia.org/wiki/Chiesa_di_San_Luigi_dei_Francesi
+http://www.wikidata.org/entity/Q647919,Q647919,Palazzo Borghese,Point(12.47649444 41.90388611),,7618166-2,,,,,,,,,,,,,Palazzo Borghese (Rome),https://it.wikipedia.org/wiki/Palazzo_Borghese
+http://www.wikidata.org/entity/Q669281,Q669281,via Sistina,Point(12.48595 41.90469),,,,,,,,,,,,,,,Via Sistina (Rome),https://it.wikipedia.org/wiki/Via_Sistina
+http://www.wikidata.org/entity/Q672752,Q672752,Saepta Iulia,Point(12.478 41.8983),,,419125BSJu,,,,,,,,,,,,Saepta Iulia,https://it.wikipedia.org/wiki/Saepta_Iulia
+http://www.wikidata.org/entity/Q2194126,Q2194126,Forum Suarium,Point(12.4839 41.8992),,,,571005605,,,,,,,,,,,,https://it.wikipedia.org/wiki/Forum_Suarium
+http://www.wikidata.org/entity/Q2198565,Q2198565,Alta Semita,Point(12.4847335 41.8958875),,,,208084576,,,,,,,,,,,,https://it.wikipedia.org/wiki/Alta_Semita
+http://www.wikidata.org/entity/Q2219288,Q2219288,chiesa dei Santi Benedetto e Scolastica all'Argentina,Point(12.476334171 41.89685318),,,,,,,,,,,,,,1625-01-01T00:00:00Z,Santi Benedetto e Scolastica (Rome),https://it.wikipedia.org/wiki/Chiesa_dei_Santi_Benedetto_e_Scolastica_all%27Argentina
+http://www.wikidata.org/entity/Q2219582,Q2219582,chiesa di San Giacomo in Augusta,Point(12.47730556 41.90772222),,4815695-4,,,,,,,,,15400,,,1602-01-01T00:00:00Z,San Giacomo in Augusta (Rome),https://it.wikipedia.org/wiki/Chiesa_di_San_Giacomo_in_Augusta
+http://www.wikidata.org/entity/Q2220033,Q2220033,chiesa di San Salvatore alle Coppelle,Point(12.476049 41.900635),,4599641-6,,,,,,,,,,,,1750-01-01T00:00:00Z,San Salvatore alle Coppelle (Rome),https://it.wikipedia.org/wiki/Chiesa_di_San_Salvatore_alle_Coppelle
+http://www.wikidata.org/entity/Q2222819,Q2222819,chiesa di Santa Chiara,Point(12.47652778 41.89733333),,7680143-3,,,,,,,,,,,,1883-01-01T00:00:00Z,Santa Chiara (Rome),https://it.wikipedia.org/wiki/Chiesa_di_Santa_Chiara_(Roma)
+http://www.wikidata.org/entity/Q2222865,Q2222865,chiesa di Santa Croce e San Bonaventura dei Lucchesi,Point(12.4845 41.89969444),,7678256-6,,,,,,,,,15382,,,1695-01-01T00:00:00Z,Santa Croce e San Bonaventura dei Lucchesi (Rome),https://it.wikipedia.org/wiki/Chiesa_di_Santa_Croce_e_San_Bonaventura_dei_Lucchesi
+http://www.wikidata.org/entity/Q2223154,Q2223154,chiesa di Santa Maria d'Itria,Point(12.48594444 41.90308333),,7599816-6,,,,,,,,,,,,1594-01-01T00:00:00Z,Santa Maria Odigitria (Rome),https://it.wikipedia.org/wiki/Chiesa_di_Santa_Maria_Odigitria_(Roma)
+http://www.wikidata.org/entity/Q2223178,Q2223178,chiesa di Santa Maria in Monterone,Point(12.475671701 41.896835817),,1025898680,,,,,,,,,,,,1682-01-01T00:00:00Z,Santa Maria in Monterone (Rome),https://it.wikipedia.org/wiki/Chiesa_di_Santa_Maria_in_Monterone
+http://www.wikidata.org/entity/Q2223693,Q2223693,chiesa di Santo Stefano del Cacco,Point(12.479324399 41.897253308),,7566670-4,,,,,,,,,,,,1607-01-01T00:00:00Z,Santo Stefano del Cacco (Rome),https://it.wikipedia.org/wiki/Chiesa_di_Santo_Stefano_del_Cacco
+http://www.wikidata.org/entity/Q2223960,Q2223960,Sant'Eustachio,Point(12.47555556 41.89833333),5452746,,,,,,,,,,,,8951706,1300-01-01T00:00:00Z,Rione VIII - Sant'Eustachio,https://it.wikipedia.org/wiki/Sant%27Eustachio_(rione_di_Roma)
+http://www.wikidata.org/entity/Q2249182,Q2249182,Insula dell'Ara Coeli,Point(12.4823 41.8941),,,,,,,,,,,,,,,Ara Coeli Insula,https://it.wikipedia.org/wiki/Insula_dell%27Ara_Coeli
+http://www.wikidata.org/entity/Q2254049,Q2254049,Garante per la Protezione dei Dati Personali,Point(12.4828732 41.8964516),,10089030-1,,,,,,,,,,,,1996-12-31T00:00:00Z,,https://it.wikipedia.org/wiki/Garante_per_la_protezione_dei_dati_personali
+http://www.wikidata.org/entity/Q2277048,Q2277048,Palazzo Gabrielli-Mignanelli,Point(12.483606 41.905196),,,,,,,,,,,,,,,Palazzo Gabrielli-Mignanelli,https://it.wikipedia.org/wiki/Palazzo_Gabrielli-Mignanelli
+http://www.wikidata.org/entity/Q2288275,Q2288275,Tempio di Iside al Campo Marzio,Point(12.4791 41.89721),,4365484-8,,,,,,,,,,,,,Iseo Campense (Rome),https://it.wikipedia.org/wiki/Tempio_di_Iside_al_Campo_Marzio
+http://www.wikidata.org/entity/Q2288627,Q2288627,Tempio di Serapide,Point(12.4855 41.8983),,1173912320,,,,,,,,,,,,,"Temples of Serapis, Rome",https://it.wikipedia.org/wiki/Tempio_di_Serapide_(Quirinale)
+http://www.wikidata.org/entity/Q2313394,Q2313394,chiesa dei Santi Vincenzo e Anastasio a Trevi,Point(12.4839 41.9007),,,,,,,,,,,,,,1650-01-01T00:00:00Z,Santi Vincenzo e Anastasio a Trevi,https://it.wikipedia.org/wiki/Chiesa_dei_Santi_Vincenzo_e_Anastasio_a_Trevi
+http://www.wikidata.org/entity/Q2329591,Q2329591,Palazzo Magistrale,Point(12.480555555 41.905277777),,,,,,,,,,,,,,,Palazzo di Malta,https://it.wikipedia.org/wiki/Palazzo_Magistrale
+http://www.wikidata.org/entity/Q2366679,Q2366679,Clivus Argentarius,Point(12.48450556 41.89365556),,,,,,,,,,,,,,,Clivus Argentarius,https://it.wikipedia.org/wiki/Clivus_Argentarius
+http://www.wikidata.org/entity/Q2391818,Q2391818,Tempio di Matidia,Point(12.47799 41.89955),,,,,,,,,,,,,,,Temple of Matidia (Rome),https://it.wikipedia.org/wiki/Tempio_di_Matidia
+http://www.wikidata.org/entity/Q2391818,Q2391818,Tempio di Matidia,Point(12.47777778 41.89972222),,,,,,,,,,,,,,,Temple of Matidia (Rome),https://it.wikipedia.org/wiki/Tempio_di_Matidia
+http://www.wikidata.org/entity/Q3673248,Q3673248,chiesa di Santa Maria Annunziata a Tor de' Specchi,Point(12.480414125 41.893457342),,,,,,,,,,,,,,,Convento Oblate di santa Francesca Romana (Rome),https://it.wikipedia.org/wiki/Chiesa_di_Santa_Maria_Annunziata_a_Tor_de%27_Specchi
+http://www.wikidata.org/entity/Q3673514,Q3673514,chiesa di Santa Maria Portae Paradisi,Point(12.47595 41.90743),,,,,,,,,,,,,,,Santa Maria Portae Paradisi (Rome),https://it.wikipedia.org/wiki/Chiesa_di_Santa_Maria_Portae_Paradisi
+http://www.wikidata.org/entity/Q3673670,Q3673670,chiesa di Santa Maria dei Calderari,Point(12.475694444 41.893388888),,,,,,,,,,,,,,,Santa Maria dei Calderari,https://it.wikipedia.org/wiki/Chiesa_di_Santa_Maria_dei_Calderari
+http://www.wikidata.org/entity/Q3673814,Q3673814,chiesa di Santa Maria dell'Umiltà,Point(12.483444444 41.899861111),,,,,,,,,,,,,,1601-01-01T00:00:00Z,Santa Maria dell'Umiltà (Rome),https://it.wikipedia.org/wiki/Chiesa_di_Santa_Maria_dell%27Umilt%C3%A0_(Roma)
+http://www.wikidata.org/entity/Q3673825,Q3673825,chiesa di Santa Maria della Concezione in Campo Marzio,Point(12.4764 41.9014),,,,,,,,,,,,,,1685-01-01T00:00:00Z,Church of Santa Maria della Concezione in Campo Marzio,https://it.wikipedia.org/wiki/Chiesa_di_Santa_Maria_della_Concezione_in_Campo_Marzio
+http://www.wikidata.org/entity/Q3674173,Q3674173,chiesa di Santa Marta al Collegio Romano,Point(12.479895253 41.897681156),,,,,,,,,,,,,,1542-01-01T00:00:00Z,Santa Marta al Collegio Romano,https://it.wikipedia.org/wiki/Chiesa_di_Santa_Marta_al_Collegio_Romano
+http://www.wikidata.org/entity/Q3674416,Q3674416,chiesa evangelica valdese in Trevi,Point(12.48475 41.897083333),,,,,,,,,,,,,,1883-01-01T00:00:00Z,Chiesa Evangelica Valdese in Rione Trevi (Rome),https://it.wikipedia.org/wiki/Chiesa_evangelica_valdese_in_Trevi
+http://www.wikidata.org/entity/Q3682949,Q3682949,Collegio Clementino,Point(12.475 41.903),,7729769-6,,,,,,,,,,,,1595-01-01T00:00:00Z,Collegio Clementino,https://it.wikipedia.org/wiki/Collegio_Clementino
+http://www.wikidata.org/entity/Q3682949,Q3682949,Collegio Clementino,Point(12.475 41.903),,16033497-4,,,,,,,,,,,,1595-01-01T00:00:00Z,Collegio Clementino,https://it.wikipedia.org/wiki/Collegio_Clementino
+http://www.wikidata.org/entity/Q3682963,Q3682963,Liceo Classico S. Giuseppe De Merode,Point(12.4819 41.9073),,,,,,,,,,,,,,1850-01-01T00:00:00Z,,https://it.wikipedia.org/wiki/Collegio_San_Giuseppe_-_Istituto_De_Merode
+http://www.wikidata.org/entity/Q3685231,Q3685231,Complesso di via in Arcione,Point(12.485611 41.901862),,,,,,,,,,,,,,,,https://it.wikipedia.org/wiki/Complesso_di_via_in_Arcione
+http://www.wikidata.org/entity/Q3687231,Q3687231,Conservatorio Santa Cecilia,Point(12.47865 41.90679),,6046162-7,,,,,,,,,,,,,Conservatorio Santa Cecilia,https://it.wikipedia.org/wiki/Conservatorio_Santa_Cecilia
+http://www.wikidata.org/entity/Q3693417,Q3693417,cordonata,Point(12.482222222 41.893611111),,,,,,,,,,,,,,,,https://it.wikipedia.org/wiki/Cordonata
+http://www.wikidata.org/entity/Q3747369,Q3747369,Fontana del porto di Ripetta,Point(12.475139 41.904611),,,,,,,,,,,,,,,Fontana del Porto di Ripetta (Rome),https://it.wikipedia.org/wiki/Fontana_del_porto_di_Ripetta
+http://www.wikidata.org/entity/Q3747429,Q3747429,Fontana di piazza Colonna,Point(12.48027778 41.90083333),,,,,,,,,,,,,,,Fontana di Piazza Colonna (Rome),https://it.wikipedia.org/wiki/Fontana_di_piazza_Colonna
+http://www.wikidata.org/entity/Q3747442,Q3747442,Fontana di piazza dell'Aracoeli,Point(12.48102778 41.89440278),,,,,,,,,,,,,,1589-01-01T00:00:00Z,Fontana di Bacco (Rome),https://it.wikipedia.org/wiki/Fontana_di_piazza_d%27Aracoeli
+http://www.wikidata.org/entity/Q3747445,Q3747445,fontana di piazza della Rotonda,Point(12.47666667 41.89920833),,,,,,,,,,,,,,,Fontana di piazza della Rotonda (Rome),https://it.wikipedia.org/wiki/Fontana_di_piazza_della_Rotonda
+http://www.wikidata.org/entity/Q3757697,Q3757697,Galleria Sciarra,Point(12.48212624 41.89981079),,,,,,,,,,,15766,,,,Galleria Sciarra (Rome),https://it.wikipedia.org/wiki/Galleria_Sciarra
+http://www.wikidata.org/entity/Q3757712,Q3757712,Galleria comunale d'arte moderna e contemporanea,Point(12.485766122 41.903840871),,,,,,,,,,105519,,,,1883-01-01T00:00:00Z,Galleria comunale d'arte moderna e contemporanea (Rome),https://it.wikipedia.org/wiki/Galleria_d%27arte_moderna_di_Roma_Capitale
+http://www.wikidata.org/entity/Q3803706,Q3803706,Istituto centrale per i beni sonori ed audiovisivi,Point(12.478293 41.894035),,1027680445,,,,,,,,116975,,,,1928-01-01T00:00:00Z,Istituto centrale per i beni sonori ed audiovisivi,https://it.wikipedia.org/wiki/Istituto_centrale_per_i_beni_sonori_ed_audiovisivi
+http://www.wikidata.org/entity/Q3803706,Q3803706,Istituto centrale per i beni sonori ed audiovisivi,Point(12.478293 41.894035),,1016825-4,,,,,,,,116975,,,,1928-01-01T00:00:00Z,Istituto centrale per i beni sonori ed audiovisivi,https://it.wikipedia.org/wiki/Istituto_centrale_per_i_beni_sonori_ed_audiovisivi
+http://www.wikidata.org/entity/Q3803778,Q3803778,Istituto nazionale per la grafica,Point(12.4831 41.9011),,1053119-1,,,,,,,,,,,,1975-01-01T00:00:00Z,"Istituto Nazionale per la Grafica, Rome",https://it.wikipedia.org/wiki/Istituto_nazionale_per_la_grafica
+http://www.wikidata.org/entity/Q4010632,Q4010632,via Gregoriana,Point(12.48435833 41.90509167),,,,,,,,,,,,,,,Via Gregoriana (Rome),https://it.wikipedia.org/wiki/Via_Gregoriana
+http://www.wikidata.org/entity/Q4010823,Q4010823,via del Tritone,Point(12.485128 41.902717),,,,,,,,,,,,,,,Via del Tritone (Rome),https://it.wikipedia.org/wiki/Via_del_Tritone
+http://www.wikidata.org/entity/Q4010851,Q4010851,via delle Botteghe Oscure,Point(12.478777 41.894971),,,,,,,,,,,,,,,Via delle Botteghe Oscure (Rome),https://it.wikipedia.org/wiki/Via_delle_Botteghe_Oscure
+http://www.wikidata.org/entity/Q4536138,Q4536138,Tempio del Sole,Point(12.48112 41.90256),,,,,,,,,,,,,,0274-12-25T00:00:00Z,,https://it.wikipedia.org/wiki/Tempio_del_Sole_(Roma)
+http://www.wikidata.org/entity/Q4762350,Q4762350,Angelo con la corona di spine,Point(12.48352778 41.90361111),,,,,,,,,,,,,,1660-01-01T00:00:00Z,Angel with the Crown of Thorns (Bernini),https://it.wikipedia.org/wiki/Angelo_con_la_corona_di_spine
+http://www.wikidata.org/entity/Q5002069,Q5002069,Busto di Giovanni Vigevano,Point(12.47833333 41.89805556),,,,,,,,,,,,,,1618-01-01T00:00:00Z,Bust of Giovanni Vigevano,https://it.wikipedia.org/wiki/Busto_di_Giovanni_Vigevano
+http://www.wikidata.org/entity/Q5063707,Q5063707,cappella Cerasi,Point(12.476655555 41.911502777),,,,,,,,,,,,,,1606-01-01T00:00:00Z,Santa Maria del Popolo (Rome) - Cappella Cerasi,https://it.wikipedia.org/wiki/Cappella_Cerasi
+http://www.wikidata.org/entity/Q5465141,Q5465141,Fontana di piazza Nicosia,Point(12.474625 41.90308333),,,,,,,,,,,,,,,Fontana del Trullo (Rome),https://it.wikipedia.org/wiki/Fontana_del_Trullo
+http://www.wikidata.org/entity/Q6786490,Q6786490,Mater admirabilis,Point(12.483668167 41.906400303),,,,,,,,,,,,,,1844-01-01T00:00:00Z,Mater admirabilis,https://it.wikipedia.org/wiki/Mater_admirabilis
+http://www.wikidata.org/entity/Q6815569,Q6815569,Memoria a Maria Raggi,Point(12.4783 41.898),,,,,,,,,,,,,,1647-01-01T00:00:00Z,Memorial of Maria Raggi,https://it.wikipedia.org/wiki/Memoria_a_Maria_Raggi
+http://www.wikidata.org/entity/Q7126977,Q7126977,Palazzo Bolognetti-Torlonia,Point(12.48311111 41.89647222),,,,,,,,,,,,,,,Palazzo Bolognetti-Torlonia,https://it.wikipedia.org/wiki/Palazzo_Bolognetti-Torlonia
+http://www.wikidata.org/entity/Q7126985,Q7126985,Palazzo Della Porta Negroni Caffarelli,Point(12.479982 41.905227),,,,,,,,,,,,,,,,https://it.wikipedia.org/wiki/Palazzo_Della_Porta_Negroni_Caffarelli
+http://www.wikidata.org/entity/Q7128846,Q7128846,Palus Caprae,Point(12.47666667 41.89833333),,,,,,,,,,,,,,,,https://it.wikipedia.org/wiki/Palus_Caprae
+http://www.wikidata.org/entity/Q951184,Q951184,Pontificio Istituto Biblico,Point(12.483665 41.898785),,1004896-0,,,,,,,,,,,,1909-01-01T00:00:00Z,Pontifical Biblical Institute,https://it.wikipedia.org/wiki/Pontificio_Istituto_Biblico
+http://www.wikidata.org/entity/Q958299,Q958299,via del Corso,Point(12.478272222 41.906027777),,4605519-8,,,,,,,,,,,6953998,,Via del Corso (Rome),https://it.wikipedia.org/wiki/Via_del_Corso_(Roma)
+http://www.wikidata.org/entity/Q959650,Q959650,Casa di Goethe,Point(12.477078 41.90897),,,,,,,,,,101518,,,,1997-01-01T00:00:00Z,Casa di Goethe,https://it.wikipedia.org/wiki/Casa_di_Goethe
+http://www.wikidata.org/entity/Q959650,Q959650,Casa di Goethe,Point(12.477192 41.90901),,,,,,,,,,101518,,,,1997-01-01T00:00:00Z,Casa di Goethe,https://it.wikipedia.org/wiki/Casa_di_Goethe
+http://www.wikidata.org/entity/Q972881,Q972881,chiesa di San Marcello al Corso,Point(12.481761111 41.898680555),,4458806-9,,,,,,,7896,,15434,1467362908114,,,San Marcello al Corso (Rome),https://it.wikipedia.org/wiki/Chiesa_di_San_Marcello_al_Corso
+http://www.wikidata.org/entity/Q972881,Q972881,chiesa di San Marcello al Corso,Point(12.481567 41.898799),,4458806-9,,,,,,,7896,,15434,1467362908114,,,San Marcello al Corso (Rome),https://it.wikipedia.org/wiki/Chiesa_di_San_Marcello_al_Corso
+http://www.wikidata.org/entity/Q972938,Q972938,Pontificia accademia ecclesiastica,Point(12.47722222 41.89805556),,,,,,,,,,,,,,1701-01-01T00:00:00Z,Pontifical Ecclesiastical Academy,https://it.wikipedia.org/wiki/Pontificia_accademia_ecclesiastica
+http://www.wikidata.org/entity/Q1025466,Q1025466,cesaricidio,Point(12.47694444 41.89527778),,,,,,,,,,,,,,,Death of Julius Caesar,https://it.wikipedia.org/wiki/Cesaricidio
+http://www.wikidata.org/entity/Q1031426,Q1031426,Campo Marzio,Point(12.4770297 41.9084584),5452743,,,,,,,,,,,,3180944,1300-01-01T00:00:00Z,Rione IV - Campo Marzio,https://it.wikipedia.org/wiki/Campo_Marzio
+http://www.wikidata.org/entity/Q1032122,Q1032122,via dei Condotti,Point(12.48046 41.90515),,4220179-2,,,,,,,,,,,6954045,,Via dei Condotti,https://it.wikipedia.org/wiki/Via_dei_Condotti
+http://www.wikidata.org/entity/Q1056799,Q1056799,Palazzo Wedekind,Point(12.479477707 41.900859615),,7678470-8,,,,,,,,,,,,,Palazzo Wedekind (Rome),https://it.wikipedia.org/wiki/Palazzo_Wedekind
+http://www.wikidata.org/entity/Q1060690,Q1060690,via Margutta,Point(12.4792 41.9089),,,,,,,,,,,,,,,Via Margutta (Rome),https://it.wikipedia.org/wiki/Via_Margutta
+http://www.wikidata.org/entity/Q1083422,Q1083422,Santa Chiara a Vigna Clara,Point(12.4765 41.8975),,,,,,,,,,,,,,,,https://it.wikipedia.org/wiki/Santa_Chiara_a_Vigna_Clara_(titolo_cardinalizio)
+http://www.wikidata.org/entity/Q1085738,Q1085738,Babuino,Point(12.479643 41.907771),,,,,,,,,,,,,,1581-01-01T00:00:00Z,Fontana del Babbuino (Rome),https://it.wikipedia.org/wiki/Babuino
+http://www.wikidata.org/entity/Q1098370,Q1098370,Arco di Claudio,Point(12.48109722 41.89931667),,,,,,,,,,,,,,,Arch of Claudius (Rome),https://it.wikipedia.org/wiki/Arco_di_Claudio
+http://www.wikidata.org/entity/Q1106186,Q1106186,chiesa dei Santi Bartolomeo e Alessandro dei Bergamaschi,Point(12.48 41.900555555),,,,,,,,,,,,,,,Santi Bartolomeo e Alessandro (Rome),https://it.wikipedia.org/wiki/Chiesa_dei_Santi_Bartolomeo_e_Alessandro_dei_Bergamaschi
+http://www.wikidata.org/entity/Q1107945,Q1107945,basilica di Sant'Eustachio,Point(12.475756397 41.898490381),,,,,,,,,,,,1467351554344,,0701-01-01T00:00:00Z,Sant'Eustachio (Rome),https://it.wikipedia.org/wiki/Basilica_di_Sant%27Eustachio
+http://www.wikidata.org/entity/Q1109934,Q1109934,Teatro Valle,Point(12.475 41.8975),,,,,,,,,,,15790,,,,Teatro Valle (Rome),https://it.wikipedia.org/wiki/Teatro_Valle
+http://www.wikidata.org/entity/Q1110986,Q1110986,Colonna,Point(12.477777777 41.902222222),5452709,,,,,,,,,,,,,1300-01-01T00:00:00Z,Rione III - Colonna,https://it.wikipedia.org/wiki/Colonna_(rione_di_Roma)
+http://www.wikidata.org/entity/Q1114231,Q1114231,fontana della Barcaccia,Point(12.482212 41.905806),,7687818-1,,,,,,,,,15652,,,1629-01-01T00:00:00Z,Fontana della Barcaccia (Rome),https://it.wikipedia.org/wiki/Fontana_della_Barcaccia
+http://www.wikidata.org/entity/Q1115154,Q1115154,Madama Lucrezia,Point(12.48166667 41.89583333),,,,,,,,,,,,,,,Madama Lucrezia (Rome),https://it.wikipedia.org/wiki/Madama_Lucrezia
+http://www.wikidata.org/entity/Q1120890,Q1120890,piazza Sant'Ignazio,Point(12.47965 41.89931),,,,,,,,,,,,,,,Piazza di Sant'Ignazio (Rome),https://it.wikipedia.org/wiki/Piazza_Sant%27Ignazio
+http://www.wikidata.org/entity/Q1123879,Q1123879,Palazzo Venezia,Point(12.4815 41.8962),,,,,,,,,7656,,,1467318206676,8015145,,Palazzo Venezia (Rome),https://it.wikipedia.org/wiki/Palazzo_Venezia
+http://www.wikidata.org/entity/Q1133966,Q1133966,Keats-Shelley Memorial House,Point(12.482614 41.905756),,1024635-6,,,,,,,,101581,,,,1909-01-01T00:00:00Z,Keats-Shelley Museum (Rome),https://it.wikipedia.org/wiki/Keats-Shelley_Memorial_House
+http://www.wikidata.org/entity/Q1134284,Q1134284,chiesa di Santa Caterina dei Funari,Point(12.478552777 41.893897222),,4735860-9,,,,,,,,,15371,,,1564-01-01T00:00:00Z,Santa Caterina dei Funari (Rome),https://it.wikipedia.org/wiki/Chiesa_di_Santa_Caterina_dei_Funari
+http://www.wikidata.org/entity/Q1143123,Q1143123,chiesa di San Giuliano dei Fiamminghi,Point(12.475755852 41.895966066),,7717956-0,,,,,,,,,,1467308399435,,1675-01-01T00:00:00Z,San Giuliano dei Fiamminghi (Rome),https://it.wikipedia.org/wiki/Chiesa_di_San_Giuliano_dei_Fiamminghi
+http://www.wikidata.org/entity/Q1165017,Q1165017,chiesa dei Santi Claudio e Andrea dei Borgognoni,Point(12.48152778 41.90230556),,7599820-8,,,,,,,,,,,,1731-01-01T00:00:00Z,Santi Andrea e Claudio dei Borgognoni (Rome),https://it.wikipedia.org/wiki/Chiesa_dei_Santi_Claudio_e_Andrea_dei_Borgognoni
+http://www.wikidata.org/entity/Q1165020,Q1165020,oratorio del Crocifisso,Point(12.48198611 41.89961111),,,,,,,,,,,,,,1562-01-01T00:00:00Z,Oratorio del Santissimo Crocifisso (Rome),https://it.wikipedia.org/wiki/Oratorio_del_Crocifisso
+http://www.wikidata.org/entity/Q1203458,Q1203458,Galleria Doria Pamphilj,Point(12.481562 41.897985),,10007120-X,,,,,,,,101528,,,8015143,,Galleria Doria Pamphilj (Rome),https://it.wikipedia.org/wiki/Galleria_Doria_Pamphilj
+http://www.wikidata.org/entity/Q1203458,Q1203458,Galleria Doria Pamphilj,Point(12.481639 41.897915),,10007120-X,,,,,,,,101528,,,8015143,,Galleria Doria Pamphilj (Rome),https://it.wikipedia.org/wiki/Galleria_Doria_Pamphilj
+http://www.wikidata.org/entity/Q1203458,Q1203458,Galleria Doria Pamphilj,Point(12.481145 41.897669),,10007120-X,,,,,,,,101528,,,8015143,,Galleria Doria Pamphilj (Rome),https://it.wikipedia.org/wiki/Galleria_Doria_Pamphilj
+http://www.wikidata.org/entity/Q1277188,Q1277188,Palazzetto Zuccari,Point(12.48388889 41.90566667),,,,,,,,,,,,,,1590-01-01T00:00:00Z,"Palazzo Zuccari, Rome",https://it.wikipedia.org/wiki/Palazzetto_Zuccari
+http://www.wikidata.org/entity/Q1324617,Q1324617,chiesa di Sant'Ivo alla Sapienza,Point(12.474734 41.898221),,4260128-9,,,,,,,7451,,,,,2100-01-01T00:00:00Z,Sant'Ivo alla Sapienza (Rome),https://it.wikipedia.org/wiki/Chiesa_di_Sant%27Ivo_alla_Sapienza
+http://www.wikidata.org/entity/Q1324944,Q1324944,Palazzo Mattei di Giove,Point(12.47822222 41.89402778),,4224558-8,,,,,,,,,,,,,Palazzo Mattei di Giove (Rome),https://it.wikipedia.org/wiki/Palazzo_Mattei_di_Giove
+http://www.wikidata.org/entity/Q63785,Q63785,piazza Colonna,Point(12.479917 41.901056),,7678473-3,,,,,,,,,,,8378875,,Piazza Colonna (Rome),https://it.wikipedia.org/wiki/Piazza_Colonna
+http://www.wikidata.org/entity/Q1241701,Q1241701,Spagna,Point(12.482916 41.906456),,,,,,,,,,,,,,1970-01-01T00:00:00Z,Metropolitana di Roma linea A - Spagna,https://it.wikipedia.org/wiki/Spagna_(metropolitana_di_Roma)
+http://www.wikidata.org/entity/Q1266234,Q1266234,basilica Ulpia,Point(12.484572 41.895556),,7745982-9,419125BBUl,629324739,,,,2100303,,,,,,,Basilica Ulpia (Rome),https://it.wikipedia.org/wiki/Basilica_Ulpia
+http://www.wikidata.org/entity/Q1229008,Q1229008,chiesa della Trinità dei Monti,Point(12.48364 41.905917),,4698300-4,,,,,,,10076,,,1467307967198,,1502-01-01T00:00:00Z,Trinità dei Monti (Rome),https://it.wikipedia.org/wiki/Chiesa_della_Trinit%C3%A0_dei_Monti
+http://www.wikidata.org/entity/Q1233638,Q1233638,Orologio di Augusto,Point(12.478611111 41.900555555),,4224567-9,419125ASoA,986274170,,,,,,,,,,,Horologium Augusti,https://it.wikipedia.org/wiki/Orologio_di_Augusto
+http://www.wikidata.org/entity/Q192784,Q192784,Colonna Traiana,Point(12.484166666 41.895833333),,4076814-4,419125ACTr,783489695,,,,,,,,,,0113-01-01T00:00:00Z,Trajan's Column,https://it.wikipedia.org/wiki/Colonna_Traiana
+http://www.wikidata.org/entity/Q211295,Q211295,Foro di Traiano,Point(12.485869 41.895417),,4436834-3,,,,,,,10044,,15671,,,,Trajan's Forum (Rome),https://it.wikipedia.org/wiki/Foro_di_Traiano
+http://www.wikidata.org/entity/Q216568,Q216568,Fori Imperiali,Point(12.48555556 41.89444444),,,,,,,,,,,,,,,Forums of Rome,https://it.wikipedia.org/wiki/Fori_Imperiali
+http://www.wikidata.org/entity/Q242053,Q242053,chiesa di Sant'Atanasio,Point(12.479437 41.907886),,4583454-4,,,,,,,81694,,,1467349879266,,1580-01-01T00:00:00Z,Sant'Atanasio (Rome),https://it.wikipedia.org/wiki/Chiesa_di_Sant%27Atanasio_(Roma)
+http://www.wikidata.org/entity/Q242839,Q242839,Campo Marzio,Point(12.47722222 41.89777778),,4345492-6,419125SCMa,422863,,,,,,,,,3180944,,Campus Martius,https://it.wikipedia.org/wiki/Campo_Marzio_(antichit%C3%A0)
+http://www.wikidata.org/entity/Q1530830,Q1530830,Museo kircheriano,Point(12.48455833 41.89894722),,1706315-2,,,,,,,,,,,,1651-01-01T00:00:00Z,Kircher Collection,https://it.wikipedia.org/wiki/Museo_kircheriano
+http://www.wikidata.org/entity/Q1541068,Q1541068,largo di Torre Argentina,Point(12.47694 41.89528),,4224554-0,,967215409,,,,,,,,,8504670,,Largo di Torre Argentina,https://it.wikipedia.org/wiki/Largo_di_Torre_Argentina
+http://www.wikidata.org/entity/Q1552500,Q1552500,chiesa di Santa Maria in Aquiro,Point(12.478080555 41.899963888),,4461202-3,,,,,,,,,15439,,,1774-01-01T00:00:00Z,Santa Maria in Aquiro (Rome),https://it.wikipedia.org/wiki/Chiesa_di_Santa_Maria_in_Aquiro
+http://www.wikidata.org/entity/Q1584104,Q1584104,Trevi,Point(12.485952 41.902773),5452710,4458842-2,,,,,,,,,,,6545158,1300-01-01T00:00:00Z,Rione II - Trevi,https://it.wikipedia.org/wiki/Trevi_(rione_di_Roma)
+http://www.wikidata.org/entity/Q1608940,Q1608940,Galleria Alberto Sordi,Point(12.4812 41.90105556),,,,,,,,,,,,,,1922-01-01T00:00:00Z,Galleria Alberto Sordi (Rome),https://it.wikipedia.org/wiki/Galleria_Alberto_Sordi
+http://www.wikidata.org/entity/Q1615030,Q1615030,Porta Fontinalis,Point(12.4843 41.894),,,,54214303,,,,,,,,,,,,https://it.wikipedia.org/wiki/Porta_Fontinalis
+http://www.wikidata.org/entity/Q1625428,Q1625428,chiesa di San Silvestro in Capite,Point(12.480638888 41.903111111),,7600039-4,,,,,,,,,15521,,,0701-01-01T00:00:00Z,San Silvestro in Capite (Rome),https://it.wikipedia.org/wiki/Chiesa_di_San_Silvestro_in_Capite
+http://www.wikidata.org/entity/Q1631620,Q1631620,basilica dei Santi Ambrogio e Carlo al Corso,Point(12.477916666 41.905369444),,4779215-2,,,,,,,4955,,,1467370893351,,1612-01-01T00:00:00Z,San Carlo al Corso (Rome),https://it.wikipedia.org/wiki/Basilica_dei_Santi_Ambrogio_e_Carlo_al_Corso
+http://www.wikidata.org/entity/Q1634609,Q1634609,Caso Moro,Point(12.47843 41.89427),,,,,,,,,,,,,,,Kidnapping of Aldo Moro,https://it.wikipedia.org/wiki/Caso_Moro
+http://www.wikidata.org/entity/Q1643702,Q1643702,Pontificio Collegio Greco di Sant’Atanasio,Point(12.479447 41.908079),,,,,,,,,,,,,,1576-01-01T00:00:00Z,Pontifical Greek College of Saint Athanasius,https://it.wikipedia.org/wiki/Pontificio_collegio_greco_di_Sant%27Atanasio
+http://www.wikidata.org/entity/Q1707479,Q1707479,Porta Ratumena,Point(12.48416667 41.895),,,,,,,,,,,,,,,,https://it.wikipedia.org/wiki/Porta_Ratumena
+http://www.wikidata.org/entity/Q1760057,Q1760057,Porta del Popolo,Point(12.47597222 41.91152778),,7690902-5,419125FPFl,54214302,,,,,10036,,,,8015115,,Porta del Popolo (Rome),https://it.wikipedia.org/wiki/Porta_del_Popolo
+http://www.wikidata.org/entity/Q1785234,Q1785234,chiesa di Santa Maria in Via,Point(12.481666666 41.901666666),,7718572-9,,,,,,,,,,1467350977555,,0901-01-01T00:00:00Z,Santa Maria in Via (Rome),https://it.wikipedia.org/wiki/Chiesa_di_Santa_Maria_in_Via
+http://www.wikidata.org/entity/Q1809115,Q1809115,basilica di Santa Maria in Montesanto,Point(12.476424 41.910043),,4679497-9,,,,,,,9655,,15463,,,1679-01-01T00:00:00Z,Santa Maria in Montesanto (Rome),https://it.wikipedia.org/wiki/Basilica_di_Santa_Maria_in_Montesanto
+http://www.wikidata.org/entity/Q1809794,Q1809794,basilica di Sant'Andrea delle Fratte,Point(12.483552777 41.903627777),,7599685-6,,,,,,,10022,,15345,1467350199634,,1662-01-01T00:00:00Z,Sant'Andrea delle Fratte,https://it.wikipedia.org/wiki/Basilica_di_Sant%27Andrea_delle_Fratte
+http://www.wikidata.org/entity/Q1817386,Q1817386,chiesa di Santa Maria Maddalena,Point(12.476722222 41.900072222),,4478886-1,,,,,,,10936,,,,,1735-01-01T00:00:00Z,Santa Maria Maddalena (Rome),https://it.wikipedia.org/wiki/Chiesa_di_Santa_Maria_Maddalena_(Roma)
+http://www.wikidata.org/entity/Q1844125,Q1844125,Basilica di Nettuno,Point(12.477052 41.898268),,,419125BBNp,,,,,,,,,,,,Basilica of Neptune (Rome),https://it.wikipedia.org/wiki/Basilica_di_Nettuno
+http://www.wikidata.org/entity/Q1844125,Q1844125,Basilica di Nettuno,Point(12.476789 41.898235),,,419125BBNp,,,,,,,,,,,,Basilica of Neptune (Rome),https://it.wikipedia.org/wiki/Basilica_di_Nettuno
+http://www.wikidata.org/entity/Q1844125,Q1844125,Basilica di Nettuno,Point(12.4769 41.8982),,,419125BBNp,,,,,,,,,,,,Basilica of Neptune (Rome),https://it.wikipedia.org/wiki/Basilica_di_Nettuno
+http://www.wikidata.org/entity/Q1851903,Q1851903,Piazza Augusto Imperatore,Point(12.477 41.90528),,4539912-8,,,,,,,,,,,,1938-01-01T00:00:00Z,Piazza Augusto Imperatore (Rome),https://it.wikipedia.org/wiki/Piazza_Augusto_Imperatore
+http://www.wikidata.org/entity/Q1856400,Q1856400,chiesa del Santissimo Nome di Maria al Foro Traiano,Point(12.484556 41.896139),,4825478-2,,,,,,,,,,1467347755839,,1751-01-01T00:00:00Z,Santissimo Nome di Maria (Rome),https://it.wikipedia.org/wiki/Chiesa_del_Santissimo_Nome_di_Maria_al_Foro_Traiano
+http://www.wikidata.org/entity/Q1856400,Q1856400,chiesa del Santissimo Nome di Maria al Foro Traiano,Point(12.48461 41.895969),,4825478-2,,,,,,,,,,1467347755839,,1751-01-01T00:00:00Z,Santissimo Nome di Maria (Rome),https://it.wikipedia.org/wiki/Chiesa_del_Santissimo_Nome_di_Maria_al_Foro_Traiano
+http://www.wikidata.org/entity/Q1857818,Q1857818,statua equestre di Traiano,Point(12.48513 41.89506),,,,,,,,,,,,,,,Equestrian statue of Trajan (Rome),https://it.wikipedia.org/wiki/Statua_equestre_di_Traiano
+http://www.wikidata.org/entity/Q1890176,Q1890176,Terme di Nerone,Point(12.47583333 41.89872222),,,419125BTNe,,,,,,,,,,,,Baths of Nero,https://it.wikipedia.org/wiki/Terme_di_Nerone
+http://www.wikidata.org/entity/Q1949772,Q1949772,piazza di Trevi,Point(12.48333 41.9009),,,,,,,,,,,,,,,Piazza di Trevi,https://it.wikipedia.org/wiki/Piazza_di_Trevi
+http://www.wikidata.org/entity/Q1954305,Q1954305,Museo nazionale del Palazzo di Venezia,Point(12.48156667 41.89618333),,235535-8,,,,,,,,20255,,,,1916-01-01T00:00:00Z,Museo nazionale del Palazzo di Venezia,https://it.wikipedia.org/wiki/Museo_nazionale_del_Palazzo_di_Venezia
+http://www.wikidata.org/entity/Q1954305,Q1954305,Museo nazionale del Palazzo di Venezia,Point(12.480234 41.896366),,235535-8,,,,,,,,20255,,,,1916-01-01T00:00:00Z,Museo nazionale del Palazzo di Venezia,https://it.wikipedia.org/wiki/Museo_nazionale_del_Palazzo_di_Venezia
+http://www.wikidata.org/entity/Q1971299,Q1971299,Palazzo Colonna,Point(12.48421389 41.89763611),,7577503-7,,,,,,,,101527,,,8378877,,Palazzo Colonna (Rome),https://it.wikipedia.org/wiki/Palazzo_Colonna
+http://www.wikidata.org/entity/Q1980093,Q1980093,Basilica Argentaria,Point(12.484411 41.894094),,,419125BBAr,,,,,,,,,,,,Basilica Argentaria,https://it.wikipedia.org/wiki/Basilica_Argentaria
+http://www.wikidata.org/entity/Q2047436,Q2047436,Tomba del Milite Ignoto,Point(12.482945175 41.894902278),,,,,,,,,,,,,,,"Tomb of the Unknown Soldier, Vittoriano (Rome)",https://it.wikipedia.org/wiki/Milite_Ignoto_(Italia)
+http://www.wikidata.org/entity/Q2047548,Q2047548,Palazzo Chigi,Point(12.47983579 41.901199019),,,,,,,,,,,15722,1467314086428,,1580-01-01T00:00:00Z,Palazzo Chigi (Rome),https://it.wikipedia.org/wiki/Palazzo_Chigi
+http://www.wikidata.org/entity/Q2047605,Q2047605,Palazzo Ruspoli,Point(12.47869444 41.90416667),,,,,,,,,,,,,,,Palazzo Ruspoli (Rome),https://it.wikipedia.org/wiki/Palazzo_Ruspoli
+http://www.wikidata.org/entity/Q2053650,Q2053650,Diribitorium di Agrippa,Point(12.478362 41.896368),,,,,,,,,,,,,,,,https://it.wikipedia.org/wiki/Diribitorium_di_Agrippa
+http://www.wikidata.org/entity/Q2120401,Q2120401,Pontificio Seminario Francese,Point(12.4773 41.8977),,4831567-9,,,,,,,,,,,,1853-01-01T00:00:00Z,,https://it.wikipedia.org/wiki/Pontificio_Seminario_Francese
+http://www.wikidata.org/entity/Q2122537,Q2122537,Tempio delle Ninfe,Point(12.47871667 41.89513611),,,,,,,,,,,,,,,,https://it.wikipedia.org/wiki/Tempio_delle_Ninfe
+http://www.wikidata.org/entity/Q2157592,Q2157592,collegio Romano,Point(12.480611111 41.898722222),,,,,,,,,,,,1467377059339,,,Collegio romano (Rome),https://it.wikipedia.org/wiki/Collegio_Romano
+http://www.wikidata.org/entity/Q2161112,Q2161112,San Biagio dell'Anello,Point(12.475 41.89466667),,,,,,,,,,,,,,,,https://it.wikipedia.org/wiki/San_Biagio_dell%27Anello_(titolo_cardinalizio)
+http://www.wikidata.org/entity/Q2182509,Q2182509,Cristo della Minerva,Point(12.47839611 41.89810806),,,,,,,,,,,,,,http://www.wikidata.org/.well-known/genid/0d71554a7d861c9376c2df08b6569f5d,Cristo Redentore by Michelangelo (Rome),https://it.wikipedia.org/wiki/Cristo_della_Minerva
+http://www.wikidata.org/entity/Q3603141,Q3603141,Abate Luigi,Point(12.474555555 41.896055555),,,,,,,,,,,,,,,Abate Luigi (Rome),https://it.wikipedia.org/wiki/Abate_Luigi
+http://www.wikidata.org/entity/Q3606475,Q3606475,Agenzia italiana del farmaco,Point(12.484227 41.902418),,16040123-9,,,,,,,,,,,,2003-01-01T00:00:00Z,Palazzo dell'AIFA (Rome),https://it.wikipedia.org/wiki/Agenzia_italiana_del_farmaco
+http://www.wikidata.org/entity/Q3616668,Q3616668,Anfiteatro Correa,Point(12.4764 41.906),,,,,,,,,,,,,,,,https://it.wikipedia.org/wiki/Anfiteatro_Correa
+http://www.wikidata.org/entity/Q3621783,Q3621783,Arco di Portogallo,Point(12.4796 41.9031),,,,,,,,,,,,,,,Arch of Portugal (Rome),https://it.wikipedia.org/wiki/Arco_di_Portogallo
+http://www.wikidata.org/entity/Q3629036,Q3629036,Atrium Libertatis,Point(12.483805 41.895066),,,,,,,,,,,,,,,,https://it.wikipedia.org/wiki/Atrium_Libertatis
+http://www.wikidata.org/entity/Q3639659,Q3639659,Biblioteca dell'Istituto dell'Enciclopedia Italiana,Point(12.47741111 41.89435278),,,,,,,,,,,,,,1925-01-01T00:00:00Z,,https://it.wikipedia.org/wiki/Biblioteca_dell%27Istituto_dell%27Enciclopedia_Italiana
+http://www.wikidata.org/entity/Q3657325,Q3657325,cappella Basso della Rovere,Point(12.4765 41.9114),,,,,,,,,,,,,,,Santa Maria del Popolo (Rome) - Cappella Basso Della Rovere,https://it.wikipedia.org/wiki/Cappella_Basso_della_Rovere
+http://www.wikidata.org/entity/Q3657331,Q3657331,cappella Bufalini,Point(12.48290556 41.89376944),,7547225-9,,,,,,,,,,,,1486-01-01T00:00:00Z,Santa Maria in Aracoeli (Rome) - Cappella Bufalini,https://it.wikipedia.org/wiki/Cappella_Bufalini
+http://www.wikidata.org/entity/Q3657340,Q3657340,cappella Contarelli,Point(12.47472222 41.89944444),,,,,,,,,,,,,,1600-01-01T00:00:00Z,"Contarelli Chapel, San Luigi dei Francesi, Rome",https://it.wikipedia.org/wiki/Cappella_Contarelli
+http://www.wikidata.org/entity/Q3657414,Q3657414,cappella del Presepio,Point(12.4763 41.9114),,,,,,,,,,,,,,,Santa Maria del Popolo (Rome) - Cappella Della Rovere,https://it.wikipedia.org/wiki/Cappella_del_Presepio
+http://www.wikidata.org/entity/Q3657468,Q3657468,cappella della Madonna dell'Archetto,Point(12.4828 41.8989),,,,,,,,,,,15263,,,1851-01-01T00:00:00Z,Madonna dell'archetto (Rome),https://it.wikipedia.org/wiki/Cappella_della_Madonna_dell%27Archetto
+http://www.wikidata.org/entity/Q3661787,Q3661787,Casina Valadier,Point(12.4797 41.9102),,,,,,,,,,,,,,,Casina Valadier,https://it.wikipedia.org/wiki/Casina_Valadier
+http://www.wikidata.org/entity/Q3668215,Q3668215,chiesa dei Santi Giuseppe e Orsola,Point(12.478416666 41.906666666),,,,,,,,,,,,,,1684-01-01T00:00:00Z,Giuseppe e Orsola (Rome),https://it.wikipedia.org/wiki/Chiesa_dei_Santi_Giuseppe_e_Orsola
+http://www.wikidata.org/entity/Q3668469,Q3668469,chiesa dei Santi Venanzio e Ansovino,Point(12.481111111 41.894694444),,,,,,,,,,,,,,,Santi Venanzio e Ansovino,https://it.wikipedia.org/wiki/Chiesa_dei_Santi_Venanzio_e_Ansovino
+http://www.wikidata.org/entity/Q3668683,Q3668683,chiesa del Santissimo Sudario dei Piemontesi,Point(12.475637 41.896004),,,,,,,,,,,,,,1605-01-01T00:00:00Z,Chiesa del Santissimo Sudario dei Piemontesi (Rome),https://it.wikipedia.org/wiki/Chiesa_del_Santissimo_Sudario_dei_Piemontesi
+http://www.wikidata.org/entity/Q3668073,Q3668073,chiesa dei Santi Angeli Custodi al Tritone,Point(12.484444444 41.9025),,,,,,,,,,,,,,1624-09-29T00:00:00Z,Santo Angelo Custode al Tritone,https://it.wikipedia.org/wiki/Chiesa_dei_Santi_Angeli_Custodi_al_Tritone
+http://www.wikidata.org/entity/Q3668097,Q3668097,chiesa dei Santi Cecilia e Biagio,Point(12.476277777 41.903111111),,,,,,,,,,,,,,1729-01-01T00:00:00Z,Divino Amore a Campo Marzio (Rome),https://it.wikipedia.org/wiki/Chiesa_di_Santa_Maria_del_Divino_Amore_(Roma)
+http://www.wikidata.org/entity/Q3668193,Q3668193,chiesa dei Santi Giorgio e Martiri inglesi,Point(12.4826 41.9066),,,,,,,,,,,,,,1885-01-01T00:00:00Z,San Giorgio e Martiri Inglesi,https://it.wikipedia.org/wiki/Chiesa_dei_Santi_Giorgio_e_Martiri_inglesi
+http://www.wikidata.org/entity/Q3669123,Q3669123,chiesa della Resurrezione di Nostro Signore Gesù Cristo,Point(12.482252 41.907354),,,,,,,,,,,,,,1889-01-01T00:00:00Z,Resurrezione di Nostro Signore Gesù Cristo (Campo Marzio),"https://it.wikipedia.org/wiki/Chiesa_della_Resurrezione_di_Nostro_Signore_Ges%C3%B9_Cristo_(Roma,_Campo_Marzio)"
+http://www.wikidata.org/entity/Q3669235,Q3669235,chiesa della Santissima Trinità della Missione,Point(12.478 41.901138888),,,,,,,,,,,,,,1642-01-01T00:00:00Z,Santissima Trinità della Missione,https://it.wikipedia.org/wiki/Chiesa_della_Santissima_Trinit%C3%A0_della_Missione
+http://www.wikidata.org/entity/Q3669315,Q3669315,chiesa di Gesù Nazareno,Point(12.475519032 41.895267226),,,,,,,,,,,,,,1722-01-01T00:00:00Z,Gesù Nazareno,https://it.wikipedia.org/wiki/Chiesa_di_Ges%C3%B9_Nazareno_(Roma)
+http://www.wikidata.org/entity/Q3669324,Q3669324,chiesa di Gesù e Maria,Point(12.477609 41.908009),,,,,,,,,,,,,,1675-01-28T00:00:00Z,Gesù e Maria (Rome),https://it.wikipedia.org/wiki/Chiesa_di_Ges%C3%B9_e_Maria_(Roma)
+http://www.wikidata.org/entity/Q3669448,Q3669448,chiesa di Ognissanti,Point(12.4789 41.9083),,,,,,,,,,,,,,1882-01-01T00:00:00Z,All Saints Church (Rome),https://it.wikipedia.org/wiki/Chiesa_di_Ognissanti_(chiesa_anglicana_di_Roma)
+http://www.wikidata.org/entity/Q3669706,Q3669706,chiesa di San Biagio de Mercato,Point(12.4822 41.894104),,,,,,,,,,,,,,,San Biagio de Mercato (Rome),https://it.wikipedia.org/wiki/Chiesa_di_San_Biagio_de_Mercato
+http://www.wikidata.org/entity/Q3670546,Q3670546,chiesa di San Giovanni della Ficozza,Point(12.484722222 41.902111111),,,,,,,,,,,,,,1846-01-01T00:00:00Z,San Giovanni della Ficozza,https://it.wikipedia.org/wiki/Chiesa_di_San_Giovanni_della_Ficozza
+http://www.wikidata.org/entity/Q3670550,Q3670550,chiesa di San Giovanni della Pigna,Point(12.478083333 41.897333333),,,,,,,,,,,,,,1624-01-01T00:00:00Z,San Giovanni della Pigna (Rome),https://it.wikipedia.org/wiki/Chiesa_di_San_Giovanni_della_Pigna
+http://www.wikidata.org/entity/Q3670675,Q3670675,chiesa di San Giuseppe a Capo le Case,Point(12.485805555 41.904027777),,,,,,,,,,,,,,,San Giuseppe a Capo le Case (Rome),https://it.wikipedia.org/wiki/Chiesa_di_San_Giuseppe_a_Capo_le_Case
+http://www.wikidata.org/entity/Q3670718,Q3670718,chiesa di San Gregorio Nazianzeno,Point(12.476805555 41.901972222),,,,,,,,,,,,,,,San Gregorio Nazianzeno (Rome),https://it.wikipedia.org/wiki/Chiesa_di_San_Gregorio_Nazianzeno
+http://www.wikidata.org/entity/Q3670719,Q3670719,chiesa di San Gregorio dei Muratori,Point(12.475027777 41.904305555),,,,,,,,,,,,,,,San Gregorio dei Muratori (Rome),https://it.wikipedia.org/wiki/Chiesa_di_San_Gregorio_dei_Muratori
+http://www.wikidata.org/entity/Q3671462,Q3671462,chiesa di San Nicola dei Cesarini,Point(12.47675 41.895666666),,,,,,,,,,,,,,1630-01-01T00:00:00Z,San Nicola dei Cesarini (Rome),https://it.wikipedia.org/wiki/Chiesa_di_San_Nicola_dei_Cesarini
+http://www.wikidata.org/entity/Q3671465,Q3671465,chiesa di San Nicola dei Prefetti,Point(12.476694444 41.9025),,,,,,,,,,,,,,1582-01-01T00:00:00Z,San Nicola ai Prefetti (Rome),https://it.wikipedia.org/wiki/Chiesa_di_San_Nicola_dei_Prefetti
+http://www.wikidata.org/entity/Q3671940,Q3671940,chiesa di San Rocco all'Augusteo,Point(12.4759 41.905458333),,7710857-7,,,,,,,,,15512,,,1654-01-01T00:00:00Z,San Rocco all'Augusteo (Rome),https://it.wikipedia.org/wiki/Chiesa_di_San_Rocco_all%27Augusteo
+http://www.wikidata.org/entity/Q3672146,Q3672146,chiesa di San Trifone in Posterula,Point(12.474888888 41.901611111),,,,,,,,,,,,,,1001-01-01T00:00:00Z,,https://it.wikipedia.org/wiki/Chiesa_di_San_Trifone_in_Posterula
+http://www.wikidata.org/entity/Q3672146,Q3672146,chiesa di San Trifone in Posterula,Point(12.474888888 41.901611111),,,,,,,,,,,,,,0701-01-01T00:00:00Z,,https://it.wikipedia.org/wiki/Chiesa_di_San_Trifone_in_Posterula
+http://www.wikidata.org/entity/Q3672477,Q3672477,chiesa di Sant'Andrea de Biberatica,Point(12.484777777 41.897722222),,,,,,,,,,,,,,,Sant'Andrea de Biberatica,https://it.wikipedia.org/wiki/Chiesa_di_Sant%27Andrea_de_Biberatica
+http://www.wikidata.org/entity/Q3672481,Q3672481,chiesa di Sant'Andrea della Colonna,Point(12.479944444 41.900944444),,,,,,,,,,,,,,,,https://it.wikipedia.org/wiki/Chiesa_di_Sant%27Andrea_della_Colonna
+http://www.wikidata.org/entity/Q3672553,Q3672553,chiesa di Sant'Anna dei Falegnami,Point(12.476444444 41.894472222),,,,,,,,,,,,,,,Sant'Anna dei Falegnami,https://it.wikipedia.org/wiki/Chiesa_di_Sant%27Anna_dei_Falegnami
+http://www.wikidata.org/entity/Q3672770,Q3672770,chiesa di Sant'Elena dei Credenzieri,Point(12.476472222 41.89475),,,,,,,,,,,,,,,Sant'Elena dei Credenzieri,https://it.wikipedia.org/wiki/Chiesa_di_Sant%27Elena_dei_Credenzieri
+http://www.wikidata.org/entity/Q3672881,Q3672881,chiesa di Sant'Urbano a Campo Carleo,Point(12.485738 41.894602),,,,,,,,,,,,,,,Sant'Urbano a Campo Carleo,https://it.wikipedia.org/wiki/Chiesa_di_Sant%27Urbano_a_Campo_Carleo
+http://www.wikidata.org/entity/Q3673136,Q3673136,chiesa di Santa Lucia alle Botteghe Oscure,Point(12.478027777 41.894972222),,,,,,,,,,,15429,,,1630-01-01T00:00:00Z,Santa Lucia alle Botteghe Oscure,https://it.wikipedia.org/wiki/Chiesa_di_Santa_Lucia_alle_Botteghe_Oscure
+http://www.wikidata.org/entity/Q3890536,Q3890536,Palazzo Muti Papazzurri,Point(12.4838 41.8988),,,,,,,,,,,,,,,Palazzo Muti Papazzurri,https://it.wikipedia.org/wiki/Palazzo_Muti_Papazzurri
+http://www.wikidata.org/entity/Q3890694,Q3890694,Palazzo Poli,Point(12.483182 41.901138),,,,,,,,,,,,,,,Palazzo Poli (Rome),https://it.wikipedia.org/wiki/Palazzo_Poli_(Roma)
+http://www.wikidata.org/entity/Q3890822,Q3890822,Palazzo San Macuto,Point(12.479402 41.89904),,,,,,,,,,,,1467415174907,,,Palazzo San Macuto (Rome),https://it.wikipedia.org/wiki/Palazzo_San_Macuto
+http://www.wikidata.org/entity/Q3890822,Q3890822,Palazzo San Macuto,Point(12.478454 41.89906),,,,,,,,,,,,1467415174907,,,Palazzo San Macuto (Rome),https://it.wikipedia.org/wiki/Palazzo_San_Macuto
+http://www.wikidata.org/entity/Q3891484,Q3891484,Palazzo della Sapienza,Point(12.47455 41.89817),,,,,,,,,,,,,,,Palazzo della Sapienza,https://it.wikipedia.org/wiki/Palazzo_della_Sapienza
+http://www.wikidata.org/entity/Q3902150,Q3902150,piazza Borghese,Point(12.47608 41.90378),,,,,,,,,,,,,,,Piazza Borghese (Rome),https://it.wikipedia.org/wiki/Piazza_Borghese_(Roma)
+http://www.wikidata.org/entity/Q3902369,Q3902369,piazza d'Aracoeli,Point(12.48102778 41.89440278),,,,,,,,,,,,,,,Piazza d'Aracoeli,https://it.wikipedia.org/wiki/Piazza_d%27Aracoeli
+http://www.wikidata.org/entity/Q3902403,Q3902403,piazza del Gesù,Point(12.479122 41.895677),,,,,,,,,,,,,,,Piazza del Gesù (Rome),https://it.wikipedia.org/wiki/Piazza_del_Ges%C3%B9_(Roma)
+http://www.wikidata.org/entity/Q3902472,Q3902472,piazza di San Silvestro,Point(12.48117 41.90258),,,,,,,,,,,,,,,Piazza di San Silvestro (Rome),https://it.wikipedia.org/wiki/Piazza_di_San_Silvestro
+http://www.wikidata.org/entity/Q3944600,Q3944600,Sacrario delle bandiere,Point(12.483711111 41.894963888),,,,,,,,,,,,,,1968-11-04T00:00:00Z,Sacrario delle bandiere,https://it.wikipedia.org/wiki/Sacrario_delle_Bandiere
+http://www.wikidata.org/entity/Q3955643,Q3955643,Sepolcro dei Domizi,Point(12.47644722 41.91137778),,,,,,,,,,,,,,,,https://it.wikipedia.org/wiki/Sepolcro_dei_Domizi
+http://www.wikidata.org/entity/Q3955644,Q3955644,sepolcro dei Sempronii,Point(12.48545 41.89979444),,,,,,,,,,,,,,,,https://it.wikipedia.org/wiki/Sepolcro_dei_Sempronii
+http://www.wikidata.org/entity/Q3968656,Q3968656,Statua del Facchino,Point(12.481378 41.898303),,,,,,,,,,,,,,1580-01-01T00:00:00Z,Fontana del Facchino (Rome),https://it.wikipedia.org/wiki/Fontana_del_Facchino
+http://www.wikidata.org/entity/Q3971979,Q3971979,stazione meteorologica di Roma Collegio Romano,Point(12.4806 41.8985),,,,,,,,,,,,,,,,https://it.wikipedia.org/wiki/Stazione_meteorologica_di_Roma_Collegio_Romano
+http://www.wikidata.org/entity/Q3971979,Q3971979,stazione meteorologica di Roma Collegio Romano,Point(12.480447222 41.897836111),,,,,,,,,,,,,,,,https://it.wikipedia.org/wiki/Stazione_meteorologica_di_Roma_Collegio_Romano
+http://www.wikidata.org/entity/Q3982125,Q3982125,Teatro Sala Umberto,Point(12.4817236 41.9030818),,,,,,,,,,,,,,,,https://it.wikipedia.org/wiki/Teatro_Sala_Umberto
+http://www.wikidata.org/entity/Q3983215,Q3983215,Tempio della Salus,Point(12.48555556 41.90082222),,,,,,,,,,,,,,,,https://it.wikipedia.org/wiki/Tempio_della_Salus
+http://www.wikidata.org/entity/Q3983269,Q3983269,Tempio di Iside,Point(12.48410556 41.89445556),,,,,,,,,,,,,,,,https://it.wikipedia.org/wiki/Tempio_di_Iside_(Campidoglio)
+http://www.wikidata.org/entity/Q3981921,Q3981921,Teatro Capranica,Point(12.4778 41.9002),,,,,,,,,,,,,,,Almo Collegio Capranica - Exterior,https://it.wikipedia.org/wiki/Teatro_Capranica
+http://www.wikidata.org/entity/Q3981980,Q3981980,Teatro Flaiano,Point(12.479146606 41.896773188),,,,,,,,,,,,,,,,https://it.wikipedia.org/wiki/Teatro_Flaiano
+http://www.wikidata.org/entity/Q3982110,Q3982110,Teatro Quirino,Point(12.482521 41.899858),,,,,,,,,,,,,,,Teatro Quirino (Rome),https://it.wikipedia.org/wiki/Teatro_Quirino
+http://www.wikidata.org/entity/Q4005587,Q4005587,Unione delle Province d'Italia,Point(12.47527778 41.90277778),,,,,,,,,,,,,,,,https://it.wikipedia.org/wiki/Unione_delle_province_d%27Italia
+http://www.wikidata.org/entity/Q4005887,Q4005887,"Università ""Universitas Mercatorum""",Point(12.477459815 41.8937875),,1227872127,,,,,,,,,,,,2006-01-01T00:00:00Z,,https://it.wikipedia.org/wiki/Universit%C3%A0_telematica_Universitas_Mercatorum
+http://www.wikidata.org/entity/Q4005949,Q4005949,Università telematica internazionale UniNettuno,Point(12.477485 41.8961758),,,,,,,,,,,,,,2005-01-01T00:00:00Z,,https://it.wikipedia.org/wiki/Universit%C3%A0_telematica_internazionale_%22UniNettuno%22
+http://www.wikidata.org/entity/Q318660,Q318660,basilica di Santa Maria in Aracoeli,Point(12.483333333 41.893888888),,4305824-3,,,,,,,10027,,15440,1467368712189,8015149,1300-01-01T00:00:00Z,Santa Maria in Aracoeli (Rome),https://it.wikipedia.org/wiki/Basilica_di_Santa_Maria_in_Aracoeli
+http://www.wikidata.org/entity/Q318660,Q318660,basilica di Santa Maria in Aracoeli,Point(12.483333333 41.893888888),,1086875974,,,,,,,10027,,15440,1467368712189,8015149,1300-01-01T00:00:00Z,Santa Maria in Aracoeli (Rome),https://it.wikipedia.org/wiki/Basilica_di_Santa_Maria_in_Aracoeli
+http://www.wikidata.org/entity/Q3891056,Q3891056,Palazzo Verospi Vitelleschi,Point(12.48183333 41.89722222),,,,,,,,,,,,,,,Palazzo Verospi Vitelleschi,https://it.wikipedia.org/wiki/Palazzo_Verospi_Vitelleschi
+http://www.wikidata.org/entity/Q3945740,Q3945740,Salone Margherita,Point(12.4836534 41.9044497),,,,,,,,,,,,,,,,https://it.wikipedia.org/wiki/Salone_Margherita_(Roma)
+http://www.wikidata.org/entity/Q265384,Q265384,Colonna di Marco Aurelio,Point(12.48 41.9008),,4620558-5,419125ACMA,15522,,,,,,,,,,0200-01-01T00:00:00Z,Column of Marcus Aurelius (Rome),https://it.wikipedia.org/wiki/Colonna_di_Marco_Aurelio
+http://www.wikidata.org/entity/Q265384,Q265384,Colonna di Marco Aurelio,Point(12.48 41.9008),,4620558-5,419125ACMA,15522,,,,,,,,,,0193-01-01T00:00:00Z,Column of Marcus Aurelius (Rome),https://it.wikipedia.org/wiki/Colonna_di_Marco_Aurelio
+http://www.wikidata.org/entity/Q283153,Q283153,Palazzo Nuovo,Point(12.48316389 41.89359444),,4687989-4,,,,,,,19479,,,,,,Palazzo Nuovo (Rome),https://it.wikipedia.org/wiki/Palazzo_Nuovo_(Roma)
+http://www.wikidata.org/entity/Q3955650,Q3955650,Sepolcro di Gaio Publicio Bibulo,Point(12.48150833 41.89486389),,,,,,,,,,,,,,,Tomb of Gaius Publicius Bibulus,https://it.wikipedia.org/wiki/Sepolcro_di_Gaio_Publicio_Bibulo
+http://www.wikidata.org/entity/Q3981970,Q3981970,Teatro Drammatico Nazionale,Point(12.48539 41.89726),,,,,,,,,,,,,,,Teatro drammatico nazionale (Rome),https://it.wikipedia.org/wiki/Teatro_Drammatico_Nazionale
+http://www.wikidata.org/entity/Q461997,Q461997,chiesa di Santa Maria di Loreto,Point(12.484166666 41.896111111),,,,,,,,,,,,,,1507-01-01T00:00:00Z,Santa Maria di Loreto (Rome),https://it.wikipedia.org/wiki/Chiesa_di_Santa_Maria_di_Loreto_(Roma)
+http://www.wikidata.org/entity/Q467025,Q467025,Pontificia Università Gregoriana,Point(12.484722222 41.898888888),,43053-5,,,,,,,,,,,,1551-01-01T00:00:00Z,Pontifical Gregorian University,https://it.wikipedia.org/wiki/Pontificia_Universit%C3%A0_Gregoriana
+http://www.wikidata.org/entity/Q506234,Q506234,Vittoriano,Point(12.482955785 41.894861015),,4263204-3,,,,,,,9659,107786,,,7303190,1925-01-01T00:00:00Z,Vittoriano (Rome),https://it.wikipedia.org/wiki/Vittoriano
+http://www.wikidata.org/entity/Q512703,Q512703,chiesa della Santissima Trinità degli Spagnoli,Point(12.4793 41.9045),,,,,,,,,,,,,,1741-01-01T00:00:00Z,Santissima Trinità degli Spagnoli (Rome),https://it.wikipedia.org/wiki/Chiesa_della_Santissima_Trinit%C3%A0_degli_Spagnoli_(Roma)
+http://www.wikidata.org/entity/Q518832,Q518832,Terme di Agrippa,Point(12.476997 41.896906),6596512,,419125BTAg,22073979,,,,2100162,,,,,,,Baths of Agrippa,https://it.wikipedia.org/wiki/Terme_di_Agrippa
+http://www.wikidata.org/entity/Q528019,Q528019,Almo collegio Capranica,Point(12.477632 41.900128),,,,,,,,,,,,,,1457-01-01T00:00:00Z,Almo Collegio Capranica,https://it.wikipedia.org/wiki/Almo_collegio_Capranica
+http://www.wikidata.org/entity/Q549998,Q549998,via Salaria,Point(12.483 41.9),,,,18271457,,,,,,,,,3168691,,Via Salaria,https://it.wikipedia.org/wiki/Via_Salaria
+http://www.wikidata.org/entity/Q550215,Q550215,Pincio,Point(12.479653 41.911763),,4337875-4,,,,,,,,,,,8015111,,Pincio (Rome),https://it.wikipedia.org/wiki/Pincio
+http://www.wikidata.org/entity/Q568194,Q568194,Obelisco Flaminio,Point(12.47635 41.9107),,,419125AOFl,,,,,,,,,,,-1400-01-01T00:00:00Z,Flaminio obelisk (Rome),https://it.wikipedia.org/wiki/Obelisco_Flaminio
+http://www.wikidata.org/entity/Q575012,Q575012,Antico Caffè Greco,Point(12.481436 41.905558),,4196957-1,,,,,,,,,,,,1760-01-01T00:00:00Z,Antico Caffè Greco,https://it.wikipedia.org/wiki/Antico_Caff%C3%A8_Greco
+http://www.wikidata.org/entity/Q588377,Q588377,Teatro Argentina,Point(12.476111111 41.895555555),,5269669-8,,,,,,,,,,,6946426,1732-01-31T00:00:00Z,Teatro Argentina,https://it.wikipedia.org/wiki/Teatro_Argentina
+http://www.wikidata.org/entity/Q590073,Q590073,cordonata capitolina,Point(12.48226389 41.893625),,,,,,,,,,,,,,,Cordonata,https://it.wikipedia.org/wiki/Cordonata_(Roma)
+http://www.wikidata.org/entity/Q599302,Q599302,Colonna di Antonino Pio,Point(12.47611111 41.90166667),,,,,,,,,,,,,,0161-01-01T00:00:00Z,Column of Antoninus Pius,https://it.wikipedia.org/wiki/Colonna_di_Antonino_Pio
+http://www.wikidata.org/entity/Q623612,Q623612,Ara Pacis,Point(12.475555555 41.906388888),,4310287-6,419125SAPa,,,,,2100183,14618,,,,6269265,,Ara Pacis,https://it.wikipedia.org/wiki/Ara_Pacis
+http://www.wikidata.org/entity/Q2430760,Q2430760,Porticus Vipsania,Point(12.482 41.9),,,,721487826,,,,,,,,,,,Porticus Vipsania,https://it.wikipedia.org/wiki/Porticus_Vipsania
+http://www.wikidata.org/entity/Q2459870,Q2459870,Tempio di Venere Genitrice,Point(12.4848 41.8942),,,419125SVeG,898745908,,,,2100078,,,,,,-0045-01-01T00:00:00Z,"Temple of Venus Genetrix, Rome",https://it.wikipedia.org/wiki/Tempio_di_Venere_Genitrice
+http://www.wikidata.org/entity/Q2489956,Q2489956,Villa publica,Point(12.4791 41.8975),,,,,,,,,,,,,,,,https://it.wikipedia.org/wiki/Villa_publica
+http://www.wikidata.org/entity/Q2518575,Q2518575,piazza della Minerva,Point(12.4775 41.89806),,7603336-3,,,,,,,,,,,,,Piazza della Minerva (Rome),https://it.wikipedia.org/wiki/Piazza_della_Minerva
+http://www.wikidata.org/entity/Q2521687,Q2521687,via del Babuino,Point(12.4795 41.9081),,4594875-6,,,,,,,,,,,,,Via del Babuino,https://it.wikipedia.org/wiki/Via_del_Babuino
+http://www.wikidata.org/entity/Q2579746,Q2579746,piazza di Monte Citorio,Point(12.47861111 41.90083333),,7690920-7,,,,,,,,,,,,,Piazza di Monte Citorio,https://it.wikipedia.org/wiki/Piazza_di_Monte_Citorio
+http://www.wikidata.org/entity/Q2704224,Q2704224,arco di Nerone,Point(12.483 41.8934),,,,,,,,,,,,,,,,https://it.wikipedia.org/wiki/Arco_di_Nerone
+http://www.wikidata.org/entity/Q2705933,Q2705933,Portico di Ottavio,Point(12.4757 41.8939),,,,,,,,,,,,,,,,https://it.wikipedia.org/wiki/Portico_di_Ottavio
+http://www.wikidata.org/entity/Q2734384,Q2734384,Teatro di Balbo,Point(12.4786 41.8944),,7682073-7,419125BTBa,,,,,2100188,,,,,,,Theatre of Balbus,https://it.wikipedia.org/wiki/Teatro_di_Balbo
+http://www.wikidata.org/entity/Q2791338,Q2791338,chiesa di San Girolamo dei Croati,Point(12.4757 41.905),,4461205-9,,,,,,,,,15409,,,1587-01-01T00:00:00Z,San Girolamo dei Croati (Rome),https://it.wikipedia.org/wiki/Chiesa_di_San_Girolamo_dei_Croati
+http://www.wikidata.org/entity/Q2859847,Q2859847,Arcus Novus,Point(12.48156 41.89817),,,,721487827,,,,,,,,,,0293-01-01T00:00:00Z,Arcus Novus,https://it.wikipedia.org/wiki/Arcus_Novus
+http://www.wikidata.org/entity/Q2859865,Q2859865,Arco di Marco Aurelio,Point(12.480472 41.9015),,,,,,,,,,,,,,,Arch of Marcus Aurelius (Rome),https://it.wikipedia.org/wiki/Arco_di_Marco_Aurelio_(Roma)
+http://www.wikidata.org/entity/Q2859865,Q2859865,Arco di Marco Aurelio,Point(12.4842 41.8944),,,,,,,,,,,,,,,Arch of Marcus Aurelius (Rome),https://it.wikipedia.org/wiki/Arco_di_Marco_Aurelio_(Roma)
+http://www.wikidata.org/entity/Q2892984,Q2892984,Sala da tè Babington's,Point(12.4823 41.906),,,,,,,,,,,,,,1893-01-01T00:00:00Z,Babington's tea room (Rome),https://it.wikipedia.org/wiki/Sala_da_t%C3%A8_Babington%27s
+http://www.wikidata.org/entity/Q2901253,Q2901253,Biblioteca di archeologia e storia dell'arte,Point(12.481825 41.896255),,2148900-2,,,,,,,,117445,,,,1922-01-01T00:00:00Z,,https://it.wikipedia.org/wiki/Biblioteca_di_archeologia_e_storia_dell%27arte
+http://www.wikidata.org/entity/Q2901253,Q2901253,Biblioteca di archeologia e storia dell'arte,Point(12.481825 41.896255),,117437-X,,,,,,,,117445,,,,1922-01-01T00:00:00Z,,https://it.wikipedia.org/wiki/Biblioteca_di_archeologia_e_storia_dell%27arte
+http://www.wikidata.org/entity/Q2901274,Q2901274,Biblioteca Casanatense,Point(12.479639 41.898148),,1023158-4,,,,,,,,20546,,,,1701-01-01T00:00:00Z,Biblioteca Casanatense (Rome),https://it.wikipedia.org/wiki/Biblioteca_Casanatense
+http://www.wikidata.org/entity/Q2901342,Q2901342,Biblioteca di storia moderna e contemporanea,Point(12.4761283 41.894051),,4274287-0,,,,,,,,111046,,,,1921-01-01T00:00:00Z,,https://it.wikipedia.org/wiki/Biblioteca_di_storia_moderna_e_contemporanea
+http://www.wikidata.org/entity/Q2901342,Q2901342,Biblioteca di storia moderna e contemporanea,Point(12.4761283 41.894051),,1090233-8,,,,,,,,111046,,,,1921-01-01T00:00:00Z,,https://it.wikipedia.org/wiki/Biblioteca_di_storia_moderna_e_contemporanea
+http://www.wikidata.org/entity/Q2932912,Q2932912,Caffè Aragno,Point(12.479983 41.902443),,,,,,,,,,,,,,1886-01-01T00:00:00Z,,https://it.wikipedia.org/wiki/Caff%C3%A8_Aragno
+http://www.wikidata.org/entity/Q2940954,Q2940954,Castra di Roma antica,Point(12.485175 41.904257),,,,,,,,,,,,,,,,https://it.wikipedia.org/wiki/Castra_di_Roma_antica
+http://www.wikidata.org/entity/Q2946161,Q2946161,Centro Storico,Point(12.4766 41.899),,,,,,,,,,,,,,1977-07-30T00:00:00Z,,https://it.wikipedia.org/wiki/Centro_Storico_(zona_di_Roma)
+http://www.wikidata.org/entity/Q3005742,Q3005742,crypta Balbi,Point(12.4786 41.8944),,6023375-8,,756231346,,,,,,20234,,ICCD_CF_9935496422251,,,Crypta Balbi,https://it.wikipedia.org/wiki/Crypta_Balbi
+http://www.wikidata.org/entity/Q3007659,Q3007659,curia di Pompeo,Point(12.475 41.8953),,,,,,,,,,,,,,-0061-01-01T00:00:00Z,,https://it.wikipedia.org/wiki/Curia_di_Pompeo
+http://www.wikidata.org/entity/Q3074203,Q3074203,Tempio di Traiano,Point(12.48583333 41.89555556),,,,,,,,,,,,,,,,https://it.wikipedia.org/wiki/Tempio_di_Traiano
+http://www.wikidata.org/entity/Q3831897,Q3831897,Liceo Artistico Statale Via Di Ripetta,Point(12.4756 41.907),,,,,,,,,,,,,,1974-01-01T00:00:00Z,,https://it.wikipedia.org/wiki/Liceo_artistico_Ripetta
+http://www.wikidata.org/entity/Q3831911,Q3831911,Liceo classico Ennio Quirino Visconti,Point(12.480543829 41.8981144),,,,,,,,,,,,,,,Liceo ginnasio statale Ennio Quirino Visconti (Rome),https://it.wikipedia.org/wiki/Liceo_classico_Ennio_Quirino_Visconti
+http://www.wikidata.org/entity/Q3840756,Q3840756,lungotevere in Augusta,Point(12.474486 41.908017),,,,,,,,,,,,,,,Lungotevere in Augusta,https://it.wikipedia.org/wiki/Lungotevere_in_Augusta
+http://www.wikidata.org/entity/Q3867752,Q3867752,Museo centrale del Risorgimento,Point(12.483925 41.893902777),,,,,,,,,,101538,,,,1970-01-01T00:00:00Z,Museo Centrale del Risorgimento al Vittoriano,https://it.wikipedia.org/wiki/Museo_centrale_del_Risorgimento_al_Vittoriano
+http://www.wikidata.org/entity/Q3867996,Q3867996,Museo dell'Ara Pacis,Point(12.474738 41.907654),,,,,,,,,,101552,,,,2006-01-01T00:00:00Z,Ara Pacis museum (Rome),https://it.wikipedia.org/wiki/Museo_dell%27Ara_Pacis
+http://www.wikidata.org/entity/Q3868139,Q3868139,Museo delle cere,Point(12.483281 41.897644),,,,,,,,,,101556,,,,1958-01-01T00:00:00Z,Museo delle Cere (Rome),https://it.wikipedia.org/wiki/Museo_delle_cere_(Roma)
+http://www.wikidata.org/entity/Q3868428,Q3868428,Museo nazionale delle paste alimentari,Point(12.485 41.900889),,,,,,,,,,,,,,1992-01-01T00:00:00Z,,https://it.wikipedia.org/wiki/Museo_nazionale_delle_paste_alimentari
+http://www.wikidata.org/entity/Q3884473,Q3884473,oratorio del Santissimo Sacramento,Point(12.482297222 41.901894444),,,,,,,,,,,,,,1727-01-01T00:00:00Z,Santissimo Sacramento (Rome),https://it.wikipedia.org/wiki/Oratorio_del_Santissimo_Sacramento_(Roma)
+http://www.wikidata.org/entity/Q3884476,Q3884476,oratorio del Santissimo Sacramento di San Lorenzo in Lucina,Point(12.479861111 41.904611111),,,,,,,,,,,,,,1578-01-01T00:00:00Z,Oratorio del Santissimo Sacramento di San Lorenzo in Lucina,https://it.wikipedia.org/wiki/Oratorio_del_Santissimo_Sacramento_di_San_Lorenzo_in_Lucina
+http://www.wikidata.org/entity/Q3886133,Q3886133,Orologio ad acqua,Point(12.480711111 41.911772222),,,,,,,,,,,,,,,Hydrochronometer (Giambattista Embriaco),https://it.wikipedia.org/wiki/Orologio_ad_acqua_(Roma)
+http://www.wikidata.org/entity/Q3889422,Q3889422,Palazzetto del Burcardo,Point(12.47538889 41.89586111),,,,,,,,,,,15265,,,,Casa del Burcardo,https://it.wikipedia.org/wiki/Palazzetto_del_Burcardo
+http://www.wikidata.org/entity/Q3889549,Q3889549,Palazzo Aragona Gonzaga,Point(12.4751 41.903),,,,,,,,,,,,,,,Palazzo Aragonia-Gonzaga,https://it.wikipedia.org/wiki/Palazzo_Aragona_Gonzaga
+http://www.wikidata.org/entity/Q3889569,Q3889569,Palazzo Astalli,Point(12.4805 41.89488889),,,,,,,,,,,,,,,Palazzo Astalli,https://it.wikipedia.org/wiki/Palazzo_Astalli
+http://www.wikidata.org/entity/Q3889585,Q3889585,Palazzo Baldassini,Point(12.47555556 41.90055556),,,,,,,,,10918,,,1467302504548,,,Palazzo Baldassini (Rome),https://it.wikipedia.org/wiki/Palazzo_Baldassini
+http://www.wikidata.org/entity/Q3889585,Q3889585,Palazzo Baldassini,Point(12.475206 41.900525),,,,,,,,,10918,,,1467302504548,,,Palazzo Baldassini (Rome),https://it.wikipedia.org/wiki/Palazzo_Baldassini
+http://www.wikidata.org/entity/Q3889693,Q3889693,Palazzo Bonaparte,Point(12.4818 41.8975),,,,,,,,,,,,,,,Palazzo Bonaparte (Rome),https://it.wikipedia.org/wiki/Palazzo_Bonaparte_(Roma)
+http://www.wikidata.org/entity/Q3889765,Q3889765,Palazzo Canova,Point(12.47705556 41.90730556),,,,,,,,,,,,,,,Studio Canova (Rome),https://it.wikipedia.org/wiki/Studio_Canova
+http://www.wikidata.org/entity/Q3889770,Q3889770,Palazzo Capilupi,Point(12.47680556 41.90241667),,,,,,,,,,,,,,,,https://it.wikipedia.org/wiki/Palazzo_Capilupi
+http://www.wikidata.org/entity/Q3889852,Q3889852,Palazzo Chigi-Odescalchi,Point(12.482527777 41.898222222),,7533809-9,,,,,,,10919,,15733,,,,Palazzo Chigi-Odescalchi (Rome),https://it.wikipedia.org/wiki/Palazzo_Chigi-Odescalchi
+http://www.wikidata.org/entity/Q3889980,Q3889980,Palazzo De Carolis,Point(12.48113 41.89857),,,,,,,,,,,,,,,Palazzo de Carolis (Rome),https://it.wikipedia.org/wiki/Palazzo_De_Carolis
+http://www.wikidata.org/entity/Q3890121,Q3890121,Palazzo Firenze,Point(12.475903 41.90257),,,,,,,,,,,,1467389268288,,,Palazzo Firenze (Rome),https://it.wikipedia.org/wiki/Palazzo_Firenze
+http://www.wikidata.org/entity/Q3890240,Q3890240,Palazzo Giustiniani,Point(12.475297222 41.899222222),,,,,,,,,,,15747,1467352880812,,1580-01-01T00:00:00Z,Palazzo Giustiniani (Rome),https://it.wikipedia.org/wiki/Palazzo_Giustiniani_(Roma)
+http://www.wikidata.org/entity/Q3890296,Q3890296,Palazzo Incontro,Point(12.4765 41.90236111),,,,,,,,,,,,,,,Palazzo Incontro (Rome),https://it.wikipedia.org/wiki/Palazzo_Incontro
+http://www.wikidata.org/entity/Q3890366,Q3890366,Palazzo Maccarani Stati,Point(12.47536111 41.89827778),,,,,,,,,,,,,,,Palazzo Maccarani Stati (Rome),https://it.wikipedia.org/wiki/Palazzo_Maccarani_Stati
+http://www.wikidata.org/entity/Q3890457,Q3890457,Palazzo Mazzetti di Pietralata,Point(12.47605556 41.9),,,,,,,,,,,,,,,,https://it.wikipedia.org/wiki/Palazzo_Mazzetti_di_Pietralata
+http://www.wikidata.org/entity/Q3890480,Q3890480,Palazzo Mengarini,Point(12.485877 41.897759),,,,,,,,,,,,,,,Palazzo Mengarini (Rome),https://it.wikipedia.org/wiki/Palazzo_Mengarini
+http://www.wikidata.org/entity/Q3890534,Q3890534,Palazzo Muti Bussi,Point(12.48083333 41.89469444),,7588775-7,,,,,,,,,,,,1585-01-01T00:00:00Z,Palazzo Muti Bussi,https://it.wikipedia.org/wiki/Palazzo_Muti_Bussi
+http://www.wikidata.org/entity/Q3890539,Q3890539,Palazzo Nainer,Point(12.47741667 41.90963889),,,,,,,,,,,,,,,Palazzo Nainer,https://it.wikipedia.org/wiki/Palazzo_Nainer
+http://www.wikidata.org/entity/Q16532512,Q16532512,Biblioteca della Camera dei deputati,Point(12.47864 41.8991),,,,,,,,,,,,,,1848-01-01T00:00:00Z,Chamber of Deputies (Italy) - Library,https://it.wikipedia.org/wiki/Biblioteca_della_Camera_dei_deputati
+http://www.wikidata.org/entity/Q16586044,Q16586044,Palazzo Capranica,Point(12.477711288 41.900141442),,,,,,,,,10032,,,,,,,https://it.wikipedia.org/wiki/Palazzo_Capranica
+http://www.wikidata.org/entity/Q16590058,Q16590058,piazza Santi Apostoli,Point(12.48299 41.89779),,,,,,,,,,,,,,,,https://it.wikipedia.org/wiki/Piazza_Santi_Apostoli
+http://www.wikidata.org/entity/Q17051524,Q17051524,Palazzo Núñez-Torlonia,Point(12.480802 41.904761),,,,,,,,,,,,,,1650-01-01T00:00:00Z,Palazzo Nunez Torlonia,https://it.wikipedia.org/wiki/Palazzo_N%C3%BA%C3%B1ez-Torlonia
+http://www.wikidata.org/entity/Q18210535,Q18210535,Cappella Theodoli,Point(12.476389 41.911389),,,,,,,,,,,,,,1575-01-01T00:00:00Z,Santa Maria del Popolo (Rome) - Cappella Theodoli,https://it.wikipedia.org/wiki/Cappella_Theodoli_(Santa_Maria_del_Popolo)
+http://www.wikidata.org/entity/Q18380224,Q18380224,Palazzo Caetani (Roma),Point(12.4782 41.8942),,,,,,,,,,,,,,,Palazzo Mattei Caetani (Rome),https://it.wikipedia.org/wiki/Palazzo_Caetani_(Roma)
+http://www.wikidata.org/entity/Q19545606,Q19545606,via del Nazareno,Point(12.483206 41.902876),,,,,,,,,,,,,,,,https://it.wikipedia.org/wiki/Via_del_Nazareno
+http://www.wikidata.org/entity/Q19593814,Q19593814,chiesa di San Carlo ai Catinari,Point(12.47525 41.894188888),,4461208-4,,,,,,,,,15369,,,1722-01-01T00:00:00Z,San Carlo ai Catinari,https://it.wikipedia.org/wiki/Chiesa_di_San_Carlo_ai_Catinari
+http://www.wikidata.org/entity/Q19885973,Q19885973,piazza dei Calcarari,Point(12.477392 41.894981),,,,,,,,,,,,,,,Piazza dei Calcarari (Rome),https://it.wikipedia.org/wiki/Piazza_dei_Calcarari
+http://www.wikidata.org/entity/Q20088658,Q20088658,Palazzo Cornaro,Point(12.483402 41.901977),,,,,,,,,,,,,,,Palazzo della Stamperia,https://it.wikipedia.org/wiki/Palazzo_Cornaro
+http://www.wikidata.org/entity/Q20650127,Q20650127,Palazzo Maffei Marescotti,Point(12.477 41.897),,7679444-1,,,,,,,10941,,,,,,Palazzo Maffei Marescotti (Rome),https://it.wikipedia.org/wiki/Palazzo_Maffei_Marescotti
+http://www.wikidata.org/entity/Q20926493,Q20926493,cappella dei Re Magi,Point(12.483222222 41.904111111),,,,,,,,,7454,,15494,,,1662-01-01T00:00:00Z,Cappella dei Re Magi,https://it.wikipedia.org/wiki/Cappella_dei_Re_Magi
+http://www.wikidata.org/entity/Q21294341,Q21294341,Porticus Divorum,Point(12.479117 41.897502),,,,,,,,,,,,,,,,https://it.wikipedia.org/wiki/Porticus_Divorum
+http://www.wikidata.org/entity/Q21711223,Q21711223,Anfiteatro di Caligola,Point(12.477744 41.899819),,,419125BACg,,,,23776,,,,,,,,,https://it.wikipedia.org/wiki/Anfiteatro_di_Caligola
+http://www.wikidata.org/entity/Q22442829,Q22442829,Ospedale di San Giacomo degli Incurabili,Point(12.47713 41.90741),,4549266-9,,,,,,,,,,,,1339-01-01T00:00:00Z,Arcispedale di San Giacomo degli Incurabili (Rome),https://it.wikipedia.org/wiki/Ospedale_di_San_Giacomo_degli_Incurabili
+http://www.wikidata.org/entity/Q22691868,Q22691868,Palazzo Ferrajoli,Point(12.48009998 41.900675948),,,,,,,,,,,,,,,Palazzo Ferrajoli,https://it.wikipedia.org/wiki/Palazzo_Ferrajoli
+http://www.wikidata.org/entity/Q22946197,Q22946197,Tevere con Romolo e Remo,Point(12.4791 41.8972),,,,,,,,,,,,,,,Tiber river with Romulus and Remus (Louvre Ma593),https://it.wikipedia.org/wiki/Tevere_con_Romolo_e_Remo
+http://www.wikidata.org/entity/Q24934951,Q24934951,Palazzo Besso,Point(12.476955 41.896258),,,,,,,,,,,,,,,Palazzo Besso (Rome),https://it.wikipedia.org/wiki/Palazzo_Besso
+http://www.wikidata.org/entity/Q24941453,Q24941453,Istituto centrale per la grafica,Point(12.483486 41.90154),,,,,,,,,,129628,,,,2014-01-01T00:00:00Z,,https://it.wikipedia.org/wiki/Istituto_centrale_per_la_grafica
+http://www.wikidata.org/entity/Q24941453,Q24941453,Istituto centrale per la grafica,Point(12.483486 41.90154),,,,,,,,,,125047,,,,2014-01-01T00:00:00Z,,https://it.wikipedia.org/wiki/Istituto_centrale_per_la_grafica
+http://www.wikidata.org/entity/Q751480,Q751480,chiesa di Sant'Antonio in Campo Marzio,Point(12.474472222 41.901972222),,4618325-5,,,,,,,,,15351,,,1695-01-01T00:00:00Z,Sant'Antonio in Campo Marzio,https://it.wikipedia.org/wiki/Chiesa_di_Sant%27Antonio_in_Campo_Marzio
+http://www.wikidata.org/entity/Q755454,Q755454,Ateneo di Adriano,Point(12.48326 41.89591),,,419125BAth,914715153,,,,,,131017,,,,,Hadrian's Athenaeum,https://it.wikipedia.org/wiki/Ateneo_di_Adriano
+http://www.wikidata.org/entity/Q769964,Q769964,cappella Carafa,Point(12.478194 41.898029),,4199107-2,,,,,,,,,,,,,Santa Maria sopra Minerva (Rome) - Carafa chapel,https://it.wikipedia.org/wiki/Cappella_Carafa
+http://www.wikidata.org/entity/Q770847,Q770847,Mausoleo di Augusto,Point(12.47639 41.90611),,4349570-9,419125GMAu,281368358,,,,2103110,10080,,,,6269266,-0027-01-01T00:00:00Z,Mausoleo d'Augusto (Rome),https://it.wikipedia.org/wiki/Mausoleo_di_Augusto
+http://www.wikidata.org/entity/Q3585449,Q3585449,chiesa di Santo Stanislao dei Polacchi,Point(12.479277777 41.894805555),,,,,,,,,,,,,,1582-01-01T00:00:00Z,San Stanislao dei Polacchi (Rome),https://it.wikipedia.org/wiki/Chiesa_di_Santo_Stanislao_dei_Polacchi
+http://www.wikidata.org/entity/Q676788,Q676788,cappella Chigi,Point(12.47638889 41.91138889),,,,,,,,,,,,,,1401-01-01T00:00:00Z,Santa Maria del Popolo (Rome) - Chigi chapel,https://it.wikipedia.org/wiki/Cappella_Chigi
+http://www.wikidata.org/entity/Q7190418,Q7190418,Piazzale Flaminio,Point(12.476048 41.911811),,,,,,,,,,,,,,,Piazzale Flaminio (Rome),https://it.wikipedia.org/wiki/Piazzale_Flaminio
+http://www.wikidata.org/entity/Q784104,Q784104,Obelisco Sallustiano,Point(12.4832 41.9061),,,,,,,,,,,,,,0100-01-01T00:00:00Z,Sallustiano obelisk,https://it.wikipedia.org/wiki/Obelisco_Sallustiano
+http://www.wikidata.org/entity/Q785275,Q785275,via di Ripetta,Point(12.475694444 41.906388888),,4845442-4,,,,,,,,,,,,,Via di Ripetta,https://it.wikipedia.org/wiki/Via_di_Ripetta
+http://www.wikidata.org/entity/Q823685,Q823685,basilica di Santa Maria sopra Minerva,Point(12.478333333 41.898055555),,4199104-7,,,,,,,10938,117242,15456,1467309809490,8015142,1370-01-01T00:00:00Z,Santa Maria sopra Minerva (Rome),https://it.wikipedia.org/wiki/Basilica_di_Santa_Maria_sopra_Minerva
+http://www.wikidata.org/entity/Q824997,Q824997,piazza del Popolo,Point(12.476317 41.910714),,4461192-4,,,,,,,9523,,,,6954102,1818-01-01T00:00:00Z,Piazza del Popolo (Rome),https://it.wikipedia.org/wiki/Piazza_del_Popolo_(Roma)
+http://www.wikidata.org/entity/Q826635,Q826635,Obelisco della Minerva,Point(12.47753 41.89797),,,,,,,,,,,,,,1667-01-01T00:00:00Z,Pulcino della Minerva,https://it.wikipedia.org/wiki/Obelisco_della_Minerva
+http://www.wikidata.org/entity/Q826635,Q826635,Obelisco della Minerva,Point(12.47753 41.89797),,,,,,,,,,,,,,-0600-01-01T00:00:00Z,Pulcino della Minerva,https://it.wikipedia.org/wiki/Obelisco_della_Minerva
+http://www.wikidata.org/entity/Q831467,Q831467,Marforio,Point(12.4832277 41.893548),,,,,,,,,,,,,,,Marforio,https://it.wikipedia.org/wiki/Marforio
+http://www.wikidata.org/entity/Q846559,Q846559,basilica di Santa Maria in Via Lata,Point(12.481455455 41.898228565),,4199098-5,,,,,,,4956,,15482,1467388612530,,0401-01-01T00:00:00Z,Santa Maria in Via Lata (Rome),https://it.wikipedia.org/wiki/Basilica_di_Santa_Maria_in_Via_Lata
+http://www.wikidata.org/entity/Q846559,Q846559,basilica di Santa Maria in Via Lata,Point(12.481455455 41.898228565),,4199098-5,,,,,,,4956,,15482,1467375385364,,0401-01-01T00:00:00Z,Santa Maria in Via Lata (Rome),https://it.wikipedia.org/wiki/Basilica_di_Santa_Maria_in_Via_Lata
+http://www.wikidata.org/entity/Q856968,Q856968,Foro di Cesare,Point(12.484936 41.894008),,4220870-1,419125SFJu,445545537,,,,,10081,,15668,,,-0045-01-01T00:00:00Z,Forum Iulium,https://it.wikipedia.org/wiki/Foro_di_Cesare
+http://www.wikidata.org/entity/Q869513,Q869513,basilica di Santa Maria del Popolo,Point(12.476388888 41.911388888),,4310297-9,,,,,,,10031,,15471,1467388795643,8015113,1239-01-01T00:00:00Z,Santa Maria del Popolo (Rome),https://it.wikipedia.org/wiki/Basilica_di_Santa_Maria_del_Popolo
+http://www.wikidata.org/entity/Q869513,Q869513,basilica di Santa Maria del Popolo,Point(12.476388888 41.911388888),,4310297-9,,,,,,,10031,,15471,1467388795643,8015113,1099-01-01T00:00:00Z,Santa Maria del Popolo (Rome),https://it.wikipedia.org/wiki/Basilica_di_Santa_Maria_del_Popolo
+http://www.wikidata.org/entity/Q874832,Q874832,piazza Venezia,Point(12.4825 41.89639),,4458971-2,,,,,,,,,,,6954095,,Piazza Venezia (Rome),https://it.wikipedia.org/wiki/Piazza_Venezia
+http://www.wikidata.org/entity/Q908759,Q908759,Palazzo Altieri,Point(12.478844 41.895957),,4624775-0,,,,,,,,,,1467303049797,,,Palazzo Altieri (Rome),https://it.wikipedia.org/wiki/Palazzo_Altieri
+http://www.wikidata.org/entity/Q908759,Q908759,Palazzo Altieri,Point(12.47902778 41.89633333),,4624775-0,,,,,,,,,,1467303049797,,,Palazzo Altieri (Rome),https://it.wikipedia.org/wiki/Palazzo_Altieri
+http://www.wikidata.org/entity/Q934416,Q934416,chiesa di Santa Maria dei Miracoli,Point(12.47638889 41.91083333),,4679498-0,,,,,,,9656,,,,,1675-01-01T00:00:00Z,Santa Maria dei Miracoli (Rome),https://it.wikipedia.org/wiki/Chiesa_di_Santa_Maria_dei_Miracoli_(Roma)
+http://www.wikidata.org/entity/Q936296,Q936296,Fontana delle Tartarughe,Point(12.4775 41.893805555),,7687821-1,,,,,,,,,,,,,Fontana delle Tartarughe (Rome),https://it.wikipedia.org/wiki/Fontana_delle_Tartarughe
+http://www.wikidata.org/entity/Q951089,Q951089,Tempio di Giunone Moneta,Point(12.48317 41.89385),,,419125SJuM,,,,,,,,,,,,,https://it.wikipedia.org/wiki/Tempio_di_Giunone_Moneta
+http://www.wikidata.org/entity/Q26256694,Q26256694,Santa Maria in Campo Carleo,Point(12.485833 41.895),,,,,,,,,,,,,,,Santa Maria in Campo Carleo,https://it.wikipedia.org/wiki/Chiesa_di_Santa_Maria_in_Campo_Carleo
+http://www.wikidata.org/entity/Q26258039,Q26258039,Palazzo Della Valle,Point(12.474778 41.896456),,4578766-9,,,,,,,,,,1467377374693,,,Palazzo della Valle,https://it.wikipedia.org/wiki/Palazzo_Della_Valle
+http://www.wikidata.org/entity/Q26706625,Q26706625,Palazzo Costaguti,Point(12.477389 41.89375),,7679415-5,,,,,,,,,15725,,,,Palazzo Costaguti (Rome),https://it.wikipedia.org/wiki/Palazzo_Costaguti
+http://www.wikidata.org/entity/Q28224734,Q28224734,Palazzo Theodoli-Bianchelli,Point(12.479633 41.902391),,,,,,,,,,,,,,,,https://it.wikipedia.org/wiki/Palazzo_Theodoli-Bianchelli
+http://www.wikidata.org/entity/Q31856922,Q31856922,Santa Maria Maddalena delle Convertite,Point(12.480472 41.902306),,,,,,,,,,,,,,,Santa Maria Maddalena delle Convertite,https://it.wikipedia.org/wiki/Chiesa_di_Santa_Maria_Maddalena_delle_Convertite_(Roma)
+http://www.wikidata.org/entity/Q31856922,Q31856922,Santa Maria Maddalena delle Convertite,Point(12.480083 41.902361),,,,,,,,,,,,,,,Santa Maria Maddalena delle Convertite,https://it.wikipedia.org/wiki/Chiesa_di_Santa_Maria_Maddalena_delle_Convertite_(Roma)
+http://www.wikidata.org/entity/Q31889614,Q31889614,chiesa di San Leonardo de Albis,Point(12.477139 41.893611),,,,,,,,,,,,,,,San Leonardo de Albis,https://it.wikipedia.org/wiki/Chiesa_di_San_Leonardo_de_Albis
+http://www.wikidata.org/entity/Q42195908,Q42195908,Santa Susanna (Duquesnoy),Point(12.484166666 41.896111111),,,,,,,,,,,,,,1630-01-01T00:00:00Z,Sainte-Suzanne by François Duquesnoy,https://it.wikipedia.org/wiki/Santa_Susanna_(Duquesnoy)
+http://www.wikidata.org/entity/Q48623920,Q48623920,Palazzo Carpegna,Point(12.4836124 41.9016775),,,,,,,,,8503,,,,,,Palazzo Carpegna (Rome),https://it.wikipedia.org/wiki/Palazzo_Carpegna
+http://www.wikidata.org/entity/Q48809118,Q48809118,Palazzo Rondinini,Point(12.477 41.90891667),,,,,,,,,,,,,,,Palazzo Rondinini,https://it.wikipedia.org/wiki/Palazzo_Rondinini
+http://www.wikidata.org/entity/Q53678373,Q53678373,Torre dei Margani,Point(12.479982 41.894213),,,,,,,,,,,,1467351527574,,,,https://it.wikipedia.org/wiki/Torre_dei_Margani
+http://www.wikidata.org/entity/Q54863408,Q54863408,Palazzo Fiano al Corso,Point(12.479194444 41.9035),,,,,,,,,,,,1467388129869,,,Palazzo Peretti Ottoboni Fiano,https://it.wikipedia.org/wiki/Palazzo_Fiano_al_Corso
+http://www.wikidata.org/entity/Q55076019,Q55076019,Palazzo Cenci-Bolognetti,Point(12.479119444 41.895503555),,,,,,,,,,,,,,1745-01-01T00:00:00Z,Palazzo Cenci-Bolognetti (Rome),https://it.wikipedia.org/wiki/Palazzo_Cenci-Bolognetti
+http://www.wikidata.org/entity/Q55589765,Q55589765,Gilda Club,Point(12.4820417 41.9036715),,,,,,,,,,,,,,1987-01-01T00:00:00Z,,https://it.wikipedia.org/wiki/Gilda_Club
+http://www.wikidata.org/entity/Q55831561,Q55831561,Organo della chiesa di San Luigi dei Francesi a Roma,Point(12.474666666 41.899583333),,,,,,,,,,,,,,,,https://it.wikipedia.org/wiki/Organo_della_chiesa_di_San_Luigi_dei_Francesi_a_Roma
+http://www.wikidata.org/entity/Q55833241,Q55833241,Palazzetto Venezia,Point(12.480944444 41.895472222),,,,,,,,,,,,,,1467-01-01T00:00:00Z,Palazzetto Venezia (Rome),https://it.wikipedia.org/wiki/Palazzetto_Venezia
+http://www.wikidata.org/entity/Q56224451,Q56224451,Palazzo Fani Pecci Blunt,Point(12.481388888 41.893888888),,,,,,,,,,,,,,,Palazzo Fani Pecci Blunt,https://it.wikipedia.org/wiki/Palazzo_Fani
+http://www.wikidata.org/entity/Q56235574,Q56235574,Palazzo Massimo di Rignano,Point(12.481528 41.893815),,,,,,,,,,,,,,,Palazzo Massimo di Rignano (Rome),https://it.wikipedia.org/wiki/Palazzo_Massimo_di_Rignano
+http://www.wikidata.org/entity/Q56252104,Q56252104,Palazzo Guglielmi Chiablese,Point(12.477305555 41.894472222),,,,,,,,,,,,,,,Palazzo Guglielmi Chiablese,https://it.wikipedia.org/wiki/Palazzo_Guglielmi_Chiablese
+http://www.wikidata.org/entity/Q56256238,Q56256238,Area archeologica di via delle Botteghe Oscure,Point(12.4769 41.8953),,,419125BPMi,,,,,,,,,,,,Porticus Minucia,https://it.wikipedia.org/wiki/Porticus_Minucia
+http://www.wikidata.org/entity/Q56638128,Q56638128,Palazzo Castellani,Point(12.483694 41.900889),,,,,,,,,,,,,,,Palazzo Castellani (Rome),https://it.wikipedia.org/wiki/Palazzo_Castellani_(Roma)
+http://www.wikidata.org/entity/Q56650659,Q56650659,Palazzo Sciarra Colonna di Carbognano,Point(12.48119444 41.89961111),1764095,,,,,,,,,,,,,,Palazzo Sciarra Colonna di Carbognano (Rome),https://it.wikipedia.org/wiki/Palazzo_Sciarra_Colonna_di_Carbognano
+http://www.wikidata.org/entity/Q56686044,Q56686044,Collegio dei Bergamaschi,Point(12.479913 41.900171),,,,,,,,,,,,,,,Collegio dei Bergamaschi,https://it.wikipedia.org/wiki/Collegio_dei_Bergamaschi
+http://www.wikidata.org/entity/Q56695227,Q56695227,Palazzi Bernini,Point(12.482972 41.903667),,,,,,,,,,,,,,,Palazzi Bernini (Rome),https://it.wikipedia.org/wiki/Palazzi_Bernini
+http://www.wikidata.org/entity/Q56705912,Q56705912,palazzo Bocconi,Point(12.4802405 41.9017075),,,,,,,,,,,,,,,Palazzo La Rinascente 1920 (Rome),https://it.wikipedia.org/wiki/Palazzo_Bocconi
+http://www.wikidata.org/entity/Q56706499,Q56706499,Palazzo Marignoli,Point(12.4805 41.902333333),,,,,,,,,,,,,,1883-01-01T00:00:00Z,Palazzo Marignoli (Rome),https://it.wikipedia.org/wiki/Palazzo_Marignoli
+http://www.wikidata.org/entity/Q56732950,Q56732950,Palazzo delle Poste in Piazza di San Silvestro,Point(12.481111 41.903028),,,,,,,,,,,,,,,Roma San Silvestro post office,https://it.wikipedia.org/wiki/Palazzo_delle_Poste_a_Piazza_di_San_Silvestro
+http://www.wikidata.org/entity/Q56879588,Q56879588,Palazzo dell'Ex Unione Militare,Point(12.47852778 41.90486111),,,,,,,,,,,,,,,Unione Militare Palace (Rome),https://it.wikipedia.org/wiki/Palazzo_dell%27ex_Unione_Militare
+http://www.wikidata.org/entity/Q58056197,Q58056197,Palazzo Lavaggi Pacelli,Point(12.47598926 41.89616257),,,,,,,,,,,,,,,"Hotel Tiziano, Rome",https://it.wikipedia.org/wiki/Palazzo_Lavaggi_Pacelli
+http://www.wikidata.org/entity/Q58241802,Q58241802,Casa di Stefano Porcari,Point(12.47775 41.897111),,,,,,,,,,,,,,,Casa di Stefano Porcari,https://it.wikipedia.org/wiki/Casa_di_Stefano_Porcari
+http://www.wikidata.org/entity/Q58331534,Q58331534,Palazzo delle Assicurazioni Generali (Roma),Point(12.482944 41.896333),,4458970-0,,,,,,,,,,,,,Assicurazioni Generali Palace (Rome),https://it.wikipedia.org/wiki/Palazzo_delle_Assicurazioni_Generali_(Roma)
+http://www.wikidata.org/entity/Q60429961,Q60429961,Palazzo della Calcografia,Point(12.483417 41.9015),,,,,,,,,,,,,,,Palazzo della Calcografia Nazionale,https://it.wikipedia.org/wiki/Palazzo_della_Calcografia
+http://www.wikidata.org/entity/Q60839683,Q60839683,Orfanotrofio di Santa Maria in Aquiro e Collegio Salviati,Point(12.478527777 41.900027777),,,,,,,,,,,,,,,,https://it.wikipedia.org/wiki/Orfanotrofio_di_Santa_Maria_in_Aquiro_e_Collegio_Salviati
+http://www.wikidata.org/entity/Q60840884,Q60840884,Piazza di Pietra,Point(12.479361111 41.900025),,,,,,,,,,,,,,,,https://it.wikipedia.org/wiki/Piazza_di_Pietra
+http://www.wikidata.org/entity/Q60840978,Q60840978,Torre del Papito,Point(12.477204 41.89498495),,,,327838685,,,,,,,,,,,Torre del Papito,https://it.wikipedia.org/wiki/Torre_del_Papito
+http://www.wikidata.org/entity/Q63526428,Q63526428,Colombario di Scribonio Menofilo,Point(12.4839 41.894738888),,,,,,,,2108243,,,,,,,,https://it.wikipedia.org/wiki/Colombario_di_Scribonio_Menofilo
+http://www.wikidata.org/entity/Q63759614,Q63759614,Statua equestre di Vittorio Emanuele II del Vittoriano,Point(12.482994444 41.894755555),,,,,,,,,,,,,,1900-01-01T00:00:00Z,"Equestrian statue of Victor Emmanuel II, Vittoriano (Rome)",https://it.wikipedia.org/wiki/Statua_equestre_di_Vittorio_Emanuele_II_del_Vittoriano
+http://www.wikidata.org/entity/Q77952942,Q77952942,Biblioteca del Pontificio Istituto Biblico,Point(12.4834509 41.8988192),,,,,,,,,,,,,,1909-05-07T00:00:00Z,,https://it.wikipedia.org/wiki/Biblioteca_del_Pontificio_Istituto_Biblico
+http://www.wikidata.org/entity/Q85634695,Q85634695,Sala Lancisiana di San Giacomo in Augusta,Point(12.47612 41.90795),,,,,,,,,,,,,,1593-01-01T00:00:00Z,,https://it.wikipedia.org/wiki/Sala_Lancisiana
+http://www.wikidata.org/entity/Q86664068,Q86664068,Organo della basilica di Sant'Eustachio a Roma,Point(12.475756388 41.898490555),,,,,,,,,,,,,,,,https://it.wikipedia.org/wiki/Organo_della_basilica_di_Sant%27Eustachio_a_Roma
+http://www.wikidata.org/entity/Q104761703,Q104761703,Fontana dell'Organo,Point(12.48575427 41.90069339),,,,,,,,,,,,,,,Fontana dell'Organo (Rome),https://it.wikipedia.org/wiki/Fontana_dell%27Organo
+http://www.wikidata.org/entity/Q105989516,Q105989516,Monumento a Cola di Rienzo,Point(12.482324 41.893721),,,,,,,,,,,,,,1871-01-01T00:00:00Z,Monument to Cola di Rienzo (Rome),https://it.wikipedia.org/wiki/Monumento_a_Cola_di_Rienzo
+http://www.wikidata.org/entity/Q129169,Q129169,Q129169,Point(12.48483333 41.90066667),,,,,,,,,,,,,,,,
+http://www.wikidata.org/entity/Q615542,Q615542,Pontificio collegio croato di San Girolamo,Point(12.477823 41.904742),,,,,,,,,,,,,,1901-08-01T00:00:00Z,,
+http://www.wikidata.org/entity/Q615542,Q615542,Pontificio collegio croato di San Girolamo,Point(12.477823 41.904742),,,,,,,,,,,,,,1453-01-01T00:00:00Z,,
+http://www.wikidata.org/entity/Q848072,Q848072,Scalinata di Trinità dei Monti,Point(12.48278 41.90611),,4260130-7,,,,,,,4525,,,,6619447,1725-01-01T00:00:00Z,Trinità dei Monti (Rome) - Scalinata,
+http://www.wikidata.org/entity/Q1954260,Q1954260,Q1954260,Point(12.484822 41.90078),,,,,,,,,,,,,,,,
+http://www.wikidata.org/entity/Q2109010,Q2109010,Q2109010,Point(12.480583333 41.897611111),,,,,,,,,,,,,,,,
+http://www.wikidata.org/entity/Q2197345,Q2197345,via del Plebiscito,Point(12.48166 41.89653),,,,,,,,,,,,,,,Via del Plebiscito (Rome),
+http://www.wikidata.org/entity/Q2409612,Q2409612,Q2409612,Point(12.4768 41.8986),,,,,,,,,,,,,,,,
+http://www.wikidata.org/entity/Q2868686,Q2868686,Q2868686,Point(12.48301 41.893389),,,,,,,,,,,,,,,,
+http://www.wikidata.org/entity/Q2873434,Q2873434,Q2873434,Point(12.48 41.8975),,,,,,,,,,,,,,,,
+http://www.wikidata.org/entity/Q2879950,Q2879950,Q2879950,Point(12.479095 41.895074),,,,,,,,,,,,,,,,
+http://www.wikidata.org/entity/Q2901311,Q2901311,Q2901311,Point(12.4844 41.8957),,,,,,,,,,,,,,,Biblioteca Ulpia,
+http://www.wikidata.org/entity/Q2901410,Q2901410,Q2901410,Point(12.4772 41.8984),,,,,,,,,,,,,,,,
+http://www.wikidata.org/entity/Q4009607,Q4009607,Venezia,Point(12.482778 41.895528),,,,,,,,,,,,,,,,
+http://www.wikidata.org/entity/Q4329991,Q4329991,Osservatorio del Collegio Romano,Point(12.48044722 41.89783611),,,,,,,,,,,,,,,,
+http://www.wikidata.org/entity/Q4802565,Q4802565,Q4802565,Point(12.48333333 41.89388889),,,,,,,,,,,,,,,,
+http://www.wikidata.org/entity/Q2932918,Q2932918,Caffè Sant'Eustachio,Point(12.475277777 41.898333333),,,,,,,,,,,,,,1938-01-01T00:00:00Z,Caffè Sant'Eustachio,
+http://www.wikidata.org/entity/Q2983439,Q2983439,Q2983439,Point(12.4834 41.8942),,,,,,,,,,,,,,,,
+http://www.wikidata.org/entity/Q3747367,Q3747367,fontana del Trullo,Point(12.47475 41.90315),,,,,,,,,,,,,,,Fontana del Trullo (Rome),
+http://www.wikidata.org/entity/Q5465137,Q5465137,Fontana del Nettuno,Point(12.475515 41.910509),,,,,,,,,,,,,,1821-01-01T00:00:00Z,Piazza del Popolo (Rome) - Fontana del Nettuno,
+http://www.wikidata.org/entity/Q5563355,Q5563355,Q5563355,Point(12.47733 41.90107),,,,,,,,,,,,,,,,
+http://www.wikidata.org/entity/Q6488938,Q6488938,Q6488938,Point(12.4767898 41.894948),,,419125SLPe,593462325,,,,2103627,,,,,,,Sacred area in Largo di Torre Argentina - Temple D,
+http://www.wikidata.org/entity/Q9054484,Q9054484,Palazzo di Spagna,Point(12.482629 41.904994),,,,,,,,,,,,,,,Palazzo di Spagna,
+http://www.wikidata.org/entity/Q9149570,Q9149570,Q9149570,Point(12.4792 41.8939),,,,,,,,,,,,,,,Embassy of Poland to the Holy See,
+http://www.wikidata.org/entity/Q9170849,Q9170849,Q9170849,Point(12.4814 41.8972),,,,,,,,,,,,,,1927-01-01T00:00:00Z,,
+http://www.wikidata.org/entity/Q12885104,Q12885104,Q12885104,Point(12.477 41.89955556),,,,,,,,,,,,,,,Albergo del Sole al Pantheon (Rome),
+http://www.wikidata.org/entity/Q15150081,Q15150081,Q15150081,Point(12.480905 41.902181),,,,,,,,,,,,,,,,
+http://www.wikidata.org/entity/Q15181138,Q15181138,Q15181138,Point(12.48352778 41.90361111),,,,,,,,,,,,,,1667-01-01T00:00:00Z,Angel with the Superscription (Bernini),
+http://www.wikidata.org/entity/Q15787987,Q15787987,Q15787987,Point(12.477567 41.897977),,,,,,,,,,,,,,,,
+http://www.wikidata.org/entity/Q16060284,Q16060284,Q16060284,Point(12.479444444 41.895833333),,,,,,,,,,,,,,1621-01-01T00:00:00Z,Bust of Cardinal Roberto Bellarmine by Gian Lorenzo Bernini,
+http://www.wikidata.org/entity/Q17001919,Q17001919,Q17001919,Point(12.476656 41.911503),,,,,,,,,,,,,,,Santa Maria del Popolo (Rome) - Cappella Cybo,
+http://www.wikidata.org/entity/Q17009959,Q17009959,Q17009959,Point(12.476389 41.911389),,,,,,,,,,,,,,1628-01-01T00:00:00Z,,
+http://www.wikidata.org/entity/Q17011413,Q17011413,Q17011413,Point(12.476389 41.911389),,,,,,,,,,,,,,,Santa Maria del Popolo (Rome) - Cappella Montemirabile,
+http://www.wikidata.org/entity/Q17512474,Q17512474,Q17512474,Point(12.476389 41.911389),,,,,,,,,,,,,,1636-01-01T00:00:00Z,Santa Maria del Popolo (Rome) - Cappella Cybo-Soderini,
+http://www.wikidata.org/entity/Q17637957,Q17637957,Palazzo Cavalletti,Point(12.47933333 41.89355556),,,,,,,,,,,,,,,Palazzo Cavalletti,
+http://www.wikidata.org/entity/Q18350121,Q18350121,Hotel d'Inghilterra,Point(12.480799804 41.904689345),,,,,,,,,,,,,,1845-01-01T00:00:00Z,,
+http://www.wikidata.org/entity/Q18612719,Q18612719,Q18612719,Point(12.4837 41.9016),,,,,,,,,,,,,,,,
+http://www.wikidata.org/entity/Q19611775,Q19611775,Q19611775,Point(12.483513987 41.90241945),,,,,,,,,,,,,,2007-01-01T00:00:00Z,,
+http://www.wikidata.org/entity/Q19631546,Q19631546,San Nicola in Arcione,Point(12.485888888 41.902333333),,,,,,,,,,,,,,,San Nicola in Arcione,
+http://www.wikidata.org/entity/Q19721395,Q19721395,Q19721395,Point(12.4785 41.9074),,5173111-3,,,,,,,,,,,,,,
+http://www.wikidata.org/entity/Q19798857,Q19798857,Polo Museale del Lazio,Point(12.4815694 41.8961806),,,,,,,,,,,,,,,,
+http://www.wikidata.org/entity/Q21509880,Q21509880,giardini della Villa Medici,Point(12.4824 41.9092),,,,,,,,,,,,,,,Villa Medici (Rome) - Gardens,
+http://www.wikidata.org/entity/Q22692420,Q22692420,Istituto Nazionale di Archeologia e Storia dell’Arte (INASA),Point(12.4794838 41.8961699),,1020316-3,,,,,,,,,,,,,,
+http://www.wikidata.org/entity/Q23011493,Q23011493,Goffredo Mameli ritratto dal vivo,Point(12.48425 41.893752777),,,,,,,,,,,,,,1849-01-01T00:00:00Z,,
+http://www.wikidata.org/entity/Q23073978,Q23073978,Q23073978,Point(12.48305556 41.89944444),,,,,,,,,,,,,,1953-01-01T00:00:00Z,,
+http://www.wikidata.org/entity/Q23646277,Q23646277,Q23646277,Point(12.48533333 41.90575),,,,,,,,,,,,,,,Villa Malta (Rome),
+http://www.wikidata.org/entity/Q25396513,Q25396513,Q25396513,Point(12.483585 41.893623),,,,,,,,,,,,,,,,
+http://www.wikidata.org/entity/Q25419337,Q25419337,Q25419337,Point(12.48083333 41.89638889),,,,,,,,,,,,,,,,
+http://www.wikidata.org/entity/Q25419839,Q25419839,Q25419839,Point(12.48138889 41.90736111),,,,,,,,,,,,,,,,
+http://www.wikidata.org/entity/Q25419914,Q25419914,Q25419914,Point(12.476972 41.894444),,,,,,,,,,,,,,,Santi Sebastiano e Valentino,
+http://www.wikidata.org/entity/Q25419914,Q25419914,Q25419914,Point(12.476917 41.894389),,,,,,,,,,,,,,,Santi Sebastiano e Valentino,
+http://www.wikidata.org/entity/Q26256758,Q26256758,Q26256758,Point(12.485194 41.9005),,,,,,,,,,,,,,,,
+http://www.wikidata.org/entity/Q26256801,Q26256801,Q26256801,Point(12.482194 41.903528),,,,,,,,,,,,,,,San Giovanni in Capite,
+http://www.wikidata.org/entity/Q30271467,Q30271467,Q30271467,Point(12.481833 41.898081),,,,,,,,,,,,,,2006-01-01T00:00:00Z,,
+http://www.wikidata.org/entity/Q30279579,Q30279579,Q30279579,Point(12.485863 41.902832),,,,,,,,,,,,,,2001-01-01T00:00:00Z,,
+http://www.wikidata.org/entity/Q30285091,Q30285091,Q30285091,Point(12.476124 41.909367),,,,,,,,,,,,,,1987-01-01T00:00:00Z,,
+http://www.wikidata.org/entity/Q30290323,Q30290323,Istituto Sperimentale per la Valorizzazione Tecnologica dei Prodotti Agricoli,Point(12.484767 41.910481),,,,,,,,,,,,,,1967-01-01T00:00:00Z,,
+http://www.wikidata.org/entity/Q30294637,Q30294637,Q30294637,Point(12.475359 41.899311),,,,,,,,,,,,,,1975-01-01T00:00:00Z,,
+http://www.wikidata.org/entity/Q30295563,Q30295563,Q30295563,Point(12.475922 41.900031),,,,,,,,,,,,,,2001-01-01T00:00:00Z,,
+http://www.wikidata.org/entity/Q30593994,Q30593994,Q30593994,Point(12.481111111 41.898055555),,,,,,,,,,,,,,,,
+http://www.wikidata.org/entity/Q31197971,Q31197971,Q31197971,Point(12.477415 41.902194),,,,,,,,,,,,,,,,
+http://www.wikidata.org/entity/Q31889764,Q31889764,Q31889764,Point(12.479722 41.902889),,,,,,,,,,,,,,,Madonna della Carità del Letterato,
+http://www.wikidata.org/entity/Q31889764,Q31889764,Q31889764,Point(12.479722 41.902806),,,,,,,,,,,,,,,Madonna della Carità del Letterato,
+http://www.wikidata.org/entity/Q37000399,Q37000399,Cinema Imperiale,Point(12.4798011 41.9043666),,,,,,,,,,,,,,,,
+http://www.wikidata.org/entity/Q37000453,Q37000453,Cinema Metropolitan,Point(12.4768134 41.9095871),,,,,,,,,,,,,,,,
+http://www.wikidata.org/entity/Q37000496,Q37000496,Cinema Nuovo Olimpia,Point(12.4789173 41.902848),,,,,,,,,,,,,,,,
+http://www.wikidata.org/entity/Q37000537,Q37000537,Cinema Sala Trevi - Alberto Sordi,Point(12.484188 41.9004374),,,,,,,,,,,,,,,,
+http://www.wikidata.org/entity/Q37000676,Q37000676,Spazio Etoile,Point(12.4779059 41.9036597),,7643899-5,,,,,,,,,,,,,,
+http://www.wikidata.org/entity/Q45730389,Q45730389,Santa Maria dei Miracoli e Santa Maria in Montesanto,Point(12.476722 41.909722),,,,,,,,,,,,,,,Santa Maria dei Miracoli e Santa Maria in Montesanto (Rome),
+http://www.wikidata.org/entity/Q48773846,Q48773846,Spelacchio,Point(12.483055555 41.894583333),,,,,,,,,,,,,,,Spelacchio,
+http://www.wikidata.org/entity/Q49139312,Q49139312,Q49139312,Point(12.482111 41.894972),,,,,,,,,,,,,,,,
+http://www.wikidata.org/entity/Q50039992,Q50039992,Consorzio Interuniversitario Nazionale per la Fisica delle Atmosfere e delle Idrosfere,Point(12.476146 41.904145),,,,,,,,,,,,,,,,
+http://www.wikidata.org/entity/Q50379463,Q50379463,Istituto Superiore per le Industrie Artistiche,Point(12.476721 41.900134),,,,,,,,,,,,,,1965-01-01T00:00:00Z,,
+http://www.wikidata.org/entity/Q52348026,Q52348026,Q52348026,Point(12.48318 41.90883),,,,,,,,,,,,,,,Obelisk in Villa Medici gardens (Rome),
+http://www.wikidata.org/entity/Q53673171,Q53673171,Palazzo Doria Pamphili,Point(12.48162 41.897997),,,,,,,,,,,,1467300211808,,,,
+http://www.wikidata.org/entity/Q53673191,Q53673191,chiesa di S. Maria in Trivio,Point(12.482743 41.901028),,,,,,,,,,,,1467305794326,,,,
+http://www.wikidata.org/entity/Q53673189,Q53673189,convento  di Santa Maria in Trivio,Point(12.482743 41.901028),,,,,,,,,,,,1467305753422,,,,
+http://www.wikidata.org/entity/Q53673195,Q53673195,chiesa di Gesù e Maria,Point(12.477445 41.9081),,,,,,,,,,,,1467306368023,,,,
+http://www.wikidata.org/entity/Q53673211,Q53673211,chiesa di S. Maria di Loreto,Point(12.483517 41.895911),,,,,,,,,,,,1467313037419,,,,
+http://www.wikidata.org/entity/Q53673216,Q53673216,chiesa del SS. Nome di Gesù all'Argentina,Point(12.479155 41.895652),,,,,,,,,,,,1467314044036,,,,
+http://www.wikidata.org/entity/Q53673226,Q53673226,chiesa di S. Giacomo in Augusta,Point(12.477429 41.908136),,,,,,,,,,,,1467323915936,,,,
+http://www.wikidata.org/entity/Q54087690,Q54087690,chiesa di S. Caterina dei Funari,Point(12.478478 41.893785),,,,,,,,,,,,1467354226324,,,,
+http://www.wikidata.org/entity/Q54860395,Q54860395,chiesa di Santa Maria Maddalena,Point(12.476526 41.900082),,,,,,,,,,,,1467348349083,,,,
+http://www.wikidata.org/entity/Q54860431,Q54860431,chiesa di Gesù Nazareno all'Argentina,Point(12.475614 41.8952),,,,,,,,,,,,1467349879812,,,,
+http://www.wikidata.org/entity/Q54860495,Q54860495,Palazzo Patrizi Clementi,Point(12.479248 41.89363),,,,,,,,,,,,1467353693710,,,,
+http://www.wikidata.org/entity/Q54860518,Q54860518,convento  di S. Caterina dei Funari,Point(12.478478 41.893785),,,,,,,,,,,,1467354221936,,,,
+http://www.wikidata.org/entity/Q54860532,Q54860532,chiesa di San Giovanni della Pigna,Point(12.477978 41.897128),,,,,,,,,,,,1467354668278,,,,
+http://www.wikidata.org/entity/Q54860548,Q54860548,chiesa di San Girolamo dei Croati,Point(12.476337 41.90483),,,,,,,,,,,,1467354925026,,,,
+http://www.wikidata.org/entity/Q54860564,Q54860564,chiesa della Santissima Trinità degli Spagnoli,Point(12.480901 41.9053),,,,,,,,,,,,1467355493344,,,,
+http://www.wikidata.org/entity/Q54860565,Q54860565,chiesa di San Giuseppe a Capo le Case,Point(12.485826 41.906142),,,,,,,,,,,,1467355852535,,,,
+http://www.wikidata.org/entity/Q54860574,Q54860574,chiesa dei Santi Vincenzo e Anastasio,Point(12.484143 41.900552),,,,,,,,,,,,1467355963353,,,,
+http://www.wikidata.org/entity/Q54860582,Q54860582,convento  dei SS. Biagio e Carlo ai Catinari,Point(12.474986 41.894033),,,,,,,,,,,,1467356034279,,,,
+http://www.wikidata.org/entity/Q54860583,Q54860583,chiesa dei Santi Biagio e Carlo ai Catinari,Point(12.474986 41.894033),,,,,,,,,,,,1467356063523,,,,
+http://www.wikidata.org/entity/Q54860751,Q54860751,chiesa di Santa Maria in Monterone,Point(12.475686 41.896955),,,,,,,,,,,,1467358652917,,,,
+http://www.wikidata.org/entity/Q54860756,Q54860756,chiesa di Santo Stefano del Cacco,Point(12.479163 41.896784),,,,,,,,,,,,1467359937687,,,,
+http://www.wikidata.org/entity/Q54860761,Q54860761,chiesa di Sant'Andrea della Valle,Point(12.47468 41.896469),,,,,,,,,,,,1467360338638,,,,
+http://www.wikidata.org/entity/Q54860766,Q54860766,chiesa di San Silvestro in Capite,Point(12.480883 41.902499),,,,,,,,,,,,1467360426704,,,,
+http://www.wikidata.org/entity/Q54860829,Q54860829,convento  di S. Marcello al Corso,Point(12.481567 41.898799),,,,,,,,,,,,1467362626757,,,,
+http://www.wikidata.org/entity/Q54860974,Q54860974,chiesa di Santa Maria Portae Paradisi,Point(12.475314 41.904087),,,,,,,,,,,,1467367353835,,,,
+http://www.wikidata.org/entity/Q54860982,Q54860982,monastero di S. Maria della Concezione in Campo Marzio,Point(12.476256 41.901422),,,,,,,,,,,,1467367368560,,,,
+http://www.wikidata.org/entity/Q54860999,Q54860999,chiesa di Santa Maria dei Miracoli,Point(12.476537 41.910157),,,,,,,,,,,15460,1467367462672,,,,
+http://www.wikidata.org/entity/Q54861013,Q54861013,convento  di Santa Maria in Ara Coeli,Point(12.482627 41.893447),,,,,,,,,,,,1467368774778,,,,
+http://www.wikidata.org/entity/Q54861042,Q54861042,chiesa di Santa Maria Odigitria di Costantinopoli,Point(12.485875 41.902899),,,,,,,,,,,,1467370816278,,,,
+http://www.wikidata.org/entity/Q54861047,Q54861047,chiesa di Santa Rita delle Vergini,Point(12.481413 41.899042),,,,,,,,,,,,1467371140416,,,,
+http://www.wikidata.org/entity/Q54861053,Q54861053,chiesa di San Salvatore alle Coppelle,Point(12.476029 41.900819),,,,,,,,,,,,1467371180131,,,,
+http://www.wikidata.org/entity/Q54861481,Q54861481,chiesa di San Gregorio Nazianzeno,Point(12.476188 41.902086),,,,,,,,,,,,1467372173361,,,,
+http://www.wikidata.org/entity/Q54861490,Q54861490,chiesa di Santa Maria in Aquiro,Point(12.478622 41.899922),,,,,,,,,,,,1467372211381,,,,
+http://www.wikidata.org/entity/Q54861495,Q54861495,chiesa del SS. Sudario,Point(12.475328 41.895981),,,,,,,,,,,,1467372379079,,,,
+http://www.wikidata.org/entity/Q54863130,Q54863130,chiesa della Santissima Trinità della Missione,Point(12.478096 41.901641),,,,,,,,,,,,1467376371939,,,,
+http://www.wikidata.org/entity/Q54863391,Q54863391,chiesa dei Santi Andrea e Claudio dei Borgognoni,Point(12.481339 41.902024),,,,,,,,,,,,1467382427236,,,,
+http://www.wikidata.org/entity/Q54863397,Q54863397,chiesa di San Luigi dei Francesi,Point(12.474933 41.899719),,,,,,,,,,,,1467382688527,,,,
+http://www.wikidata.org/entity/Q54863423,Q54863423,chiesa di San Nicola dei Prefetti,Point(12.476682 41.902458),,,,,,,,,,,,1467389852182,,,,
+http://www.wikidata.org/entity/Q54863421,Q54863421,chiesa di San Rocco all'Augusteo,Point(12.47584 41.905292),,,,,,,,,,,,1467389779135,,,,
+http://www.wikidata.org/entity/Q54863459,Q54863459,chiesa di Santa Maria in Montesanto,Point(12.476537 41.910157),,,,,,,,,,,,1467394228367,,,,
+http://www.wikidata.org/entity/Q54863462,Q54863462,palazzo di S. Luigi dei Francesi,Point(12.47449 41.900094),,,,,,,,,,,,1467401819184,,,,
+http://www.wikidata.org/entity/Q54863565,Q54863565,Palazzo Arciconfraternita dei Bergamaschi,Point(12.480116 41.899998),,,,,,,,,,,,1467415161915,,,,
+http://www.wikidata.org/entity/Q54863429,Q54863429,chiesa di Santa Maria della Concezione in Campo Marzio,Point(12.476256 41.901422),,,,,,,,,,,,1467390009827,,,,
+http://www.wikidata.org/entity/Q54863434,Q54863434,chiesa di S. Croce e S. Bonaventura dei Lucchesi,Point(12.484249 41.899801),,,,,,,,,,,,1467390570837,,,,
+http://www.wikidata.org/entity/Q54863436,Q54863436,chiesa dei Santi Bartolomeo e Alessandro dei Bergamaschi,Point(12.479727 41.900578),,,,,,,,,,,,1467390614507,,,,
+http://www.wikidata.org/entity/Q54863578,Q54863578,Palazzo Avvocatura dello Stato,Point(12.474772 41.901693),,,,,,,,,,,,1467415206104,,,,
+http://www.wikidata.org/entity/Q55101266,Q55101266,ambasciata di Spagna in Italia,Point(12.476494444 41.903886111),,,,,,,,,,,,,,1865-01-01T00:00:00Z,"Spanish Embassy, Rome",
+http://www.wikidata.org/entity/Q55183762,Q55183762,chiesa di San Giovanni della Pigna,Point(12.47805694 41.897220202),,,,,,,,,,,15407,,,,,
+http://www.wikidata.org/entity/Q55184937,Q55184937,Palazzo Casali del Drago,Point(12.47572222 41.90155556),,,,,,,,,,,15741,,,,Palazzo Casali Pelagallo,
+http://www.wikidata.org/entity/Q55360066,Q55360066,collezione storica Federico Buccellati,Point(12.479983 41.90495),,,,,,,,,,101523,,,,,,
+http://www.wikidata.org/entity/Q55360087,Q55360087,Musei capitolini Museo Palazzo dei Conservatori,Point(12.475321 41.896603),,,,,,,,,,101533,,,,,,
+http://www.wikidata.org/entity/Q55360123,Q55360123,Museo del Teatro Argentina,Point(12.47606 41.896168),,,,,,,,,,101547,,,,,,
+http://www.wikidata.org/entity/Q55360120,Q55360120,Museo del Corso - Fondazione Cassa di Risparmio di Roma,Point(12.480986 41.899567),,,,,,,,,,101544,,,,,,
+http://www.wikidata.org/entity/Q55360193,Q55360193,biblioteca teatrale SIAE del Burcardo,Point(12.47541 41.89598),,,,,,,,,,101598,,,,,,
+http://www.wikidata.org/entity/Q55377976,Q55377976,Museo Canova Tadolini,Point(12.47981 41.90769),,,,,,,,,,103960,,,,,,
+http://www.wikidata.org/entity/Q55379101,Q55379101,Museo dell’ordine dei Ministri degli infermi Camilliani,Point(12.476591 41.90018),,,,,,,,,,104899,,,,,,
+http://www.wikidata.org/entity/Q55678286,Q55678286,Santa Maria del Popolo,Point(12.476033 41.911358),,,,,,,,,,117253,,,,,,
+http://www.wikidata.org/entity/Q55678289,Q55678289,Sant'Andrea della Valle,Point(12.474692 41.895977),,,,,,,,,,117256,,,,,Sant'Andrea della Valle (Rome) - Façade,
+http://www.wikidata.org/entity/Q55678426,Q55678426,chiesa di Sant'Ignazio,Point(12.47996 41.899193),,,,,,,,,,118827,,,,,,
+http://www.wikidata.org/entity/Q55678430,Q55678430,chiesa di San Luigi dei Francesi,Point(12.47489 41.899517),,,,,,,,,,118828,,,,,,
+http://www.wikidata.org/entity/Q55686594,Q55686594,chiesa di Santa Marta,Point(12.480688 41.897903),,,,,,,,,,20755,,,,,,
+http://www.wikidata.org/entity/Q55741606,Q55741606,fitolacca arborea,Point(12.482533 41.893797),,,,,,,,,,,,,,,,
+http://www.wikidata.org/entity/Q55741605,Q55741605,ippocastano,Point(12.482189 41.893403),,,,,,,,,,,,,,,,
+http://www.wikidata.org/entity/Q55778942,Q55778942,Palazzo Vitelli,Point(12.47801 41.90568),,,,,,,,,,,,,,,Palazzo Vitelli (Roma),
+http://www.wikidata.org/entity/Q56037332,Q56037332,palazzo Santacroce alla Regola,Point(12.475000703 41.893951394),,,,,,,,,,,,,,,Palazzo Santacroce alla Regola (o ai Catinari) (Rome),
+http://www.wikidata.org/entity/Q56155691,Q56155691,palazzo Severoli,Point(12.477277777 41.897944444),,,,,,,,,,,,,,1600-01-01T00:00:00Z,Palazzo Severoli (Rome),
+http://www.wikidata.org/entity/Q56256245,Q56256245,Fontana in piazza Cairoli,Point(12.475229 41.893515),,,,,,,,,,,,,,,Piazza Cairoli (Rome) - fountain,
+http://www.wikidata.org/entity/Q56256255,Q56256255,Fontana-sarcofago in piazza del Popolo,Point(12.47599 41.91112),,,,,,,,,,,,,,,,
+http://www.wikidata.org/entity/Q56256961,Q56256961,Q56256961,Point(12.4775 41.894444444),,,,,,,,,,,,,,,Palazzo Mattei Paganica (Rome),
+http://www.wikidata.org/entity/Q56326462,Q56326462,ambasciata di Spagna presso la Santa Sede,Point(12.4826 41.905),,671944-2,,,,,,,,,,,,,Embassy of Spain to the Holy See,
+http://www.wikidata.org/entity/Q56326899,Q56326899,ambasciata di Panama presso la Santa Sede,Point(12.477 41.8963),,,,,,,,,,,,,,,,
+http://www.wikidata.org/entity/Q56557883,Q56557883,Palazzo della Panetteria,Point(12.48558333 41.89997222),,,,,,,,,,,,,,,Palazzo della Panetteria,
+http://www.wikidata.org/entity/Q56600578,Q56600578,Q56600578,Point(12.4808992 41.8976628),,,,,,,,,,,,,,,Palazzo Della Rovere alle Piazza dei Santi Apostoli,
+http://www.wikidata.org/entity/Q56636318,Q56636318,Q56636318,Point(12.48088889 41.90036111),,,,,,,,,,,,,,,Palazzo della Banca Commerciale Italiana (Roma),
+http://www.wikidata.org/entity/Q56705216,Q56705216,Palazzo Ferrini Cini,Point(12.478922719 41.900030857),,,,,,,,,,,,,,,Palazzo Ferrini (Rome),
+http://www.wikidata.org/entity/Q56879508,Q56879508,Q56879508,Point(12.4772 41.905),,,,,,,,,,,,,,,Palazzetto Torlonia a Via Tomacelli,
+http://www.wikidata.org/entity/Q58337531,Q58337531,Palazzo Fonseca a Pigna,Point(12.47755556 41.89775),,,,,,,,,,,,,,1700-01-01T00:00:00Z,Grand Hotel de la Minerve (Rome),
+http://www.wikidata.org/entity/Q58337859,Q58337859,Q58337859,Point(12.47761111 41.89822222),,,,,,,,,,,,,,1600-01-01T00:00:00Z,Palazzo della Minerva,
+http://www.wikidata.org/entity/Q58365944,Q58365944,Palazzo Frangipane,Point(12.47880556 41.89727778),,,,,,,,,,,,,,,Palazzo Frangipane (Rome),
+http://www.wikidata.org/entity/Q60823154,Q60823154,Q60823154,Point(12.479583 41.900639),,,,,,,,,,,,,,,San Paolo alla Colonna,
+http://www.wikidata.org/entity/Q60970091,Q60970091,Q60970091,Point(12.479833 41.900111),,,,,,,,,,,,,,,Santo Stefano del Trullo,
+http://www.wikidata.org/entity/Q60999985,Q60999985,Palazzo Maruscelli Lepri,Point(12.48139242 41.90541944),,,,,,,,,,,,,,1660-01-01T00:00:00Z,,
+http://www.wikidata.org/entity/Q61051795,Q61051795,Q61051795,Point(12.482806 41.906889),,,,,,,,,,,,,,,Fontana del Bottino dell'Acqua Vergine (Rome),
+http://www.wikidata.org/entity/Q61274417,Q61274417,Q61274417,Point(12.479667 41.898583),,,,,,,,,,,,,,,,
+http://www.wikidata.org/entity/Q61368639,Q61368639,Q61368639,Point(12.479778 41.899),,,,,,,,,,,,,,,Santa Maria Annunziata al Collegio Romano,
+http://www.wikidata.org/entity/Q61368639,Q61368639,Q61368639,Point(12.479667 41.898583),,,,,,,,,,,,,,,Santa Maria Annunziata al Collegio Romano,
+http://www.wikidata.org/entity/Q62023780,Q62023780,Unioncamere Lazio,Point(12.476128 41.894865),,,,,,,,,,,,,,,,
+http://www.wikidata.org/entity/Q62393792,Q62393792,Q62393792,Point(12.4792 41.8972),,,,,,,,,,,,,,,,
+http://www.wikidata.org/entity/Q64494802,Q64494802,Via del Vaccaro,Point(12.483222 41.898601),,,,,,,,,,,,,,,Via del Vaccaro (Rome),
+http://www.wikidata.org/entity/Q65048822,Q65048822,Q65048822,Point(12.475305555 41.89775),,,,,,,,,,,,,,,Palazzo Medici Lante (Rome),
+http://www.wikidata.org/entity/Q65171839,Q65171839,Q65171839,Point(12.476638888 41.897694444),,,,,,,,,,,,,,,Casa di Santa Caterina,
+http://www.wikidata.org/entity/Q69800603,Q69800603,Piazza di San Lorenzo in Lucina,Point(12.477776 41.903346),,,,,,,,,,,,,,,Piazza San Lorenzo in Lucina (Rome),
+http://www.wikidata.org/entity/Q76938631,Q76938631,Q76938631,Point(12.4835483 41.9009122),,,,,,,,,,,,,,,,
+http://www.wikidata.org/entity/Q76938649,Q76938649,Fontana delle tre cannelle,Point(12.4859132 41.8967142),,,,,,,,,,,,,,,,
+http://www.wikidata.org/entity/Q76939564,Q76939564,Q76939564,Point(12.4849325 41.9013552),,,,,,,,,,,,,,,,
+http://www.wikidata.org/entity/Q76939583,Q76939583,Q76939583,Point(12.485754 41.9016622),,,,,,,,,,,,,,,,
+http://www.wikidata.org/entity/Q76939866,Q76939866,Q76939866,Point(12.4769332 41.9045357),,,,,,,,,,,,,,,,
+http://www.wikidata.org/entity/Q76940031,Q76940031,Q76940031,Point(12.475948 41.9073697),,,,,,,,,,,,,,,,
+http://www.wikidata.org/entity/Q76940870,Q76940870,Q76940870,Point(12.4804101 41.90786),,,,,,,,,,,,,,,,
+http://www.wikidata.org/entity/Q76940932,Q76940932,Q76940932,Point(12.4772625 41.8957129),,,,,,,,,,,,,,,,
+http://www.wikidata.org/entity/Q76941879,Q76941879,Q76941879,Point(12.4815737 41.8953721),,,,,,,,,,,,,,,,
+http://www.wikidata.org/entity/Q76942465,Q76942465,Q76942465,Point(12.4778808 41.9114167),,,,,,,,,,,,,,,,
+http://www.wikidata.org/entity/Q76943531,Q76943531,Q76943531,Point(12.481382 41.8983031),,,,,,,,,,,,,,,,
+http://www.wikidata.org/entity/Q76943586,Q76943586,Q76943586,Point(12.4786635 41.8936532),,,,,,,,,,,,,,,,
+http://www.wikidata.org/entity/Q76946337,Q76946337,Q76946337,Point(12.4797698 41.8999505),,,,,,,,,,,,,,,,
+http://www.wikidata.org/entity/Q76947103,Q76947103,Q76947103,Point(12.4766148 41.9002012),,,,,,,,,,,,,,,,
+http://www.wikidata.org/entity/Q76947219,Q76947219,Q76947219,Point(12.4797159 41.9032046),,,,,,,,,,,,,,,,
+http://www.wikidata.org/entity/Q76947395,Q76947395,Q76947395,Point(12.4832907 41.9030148),,,,,,,,,,,,,,,,
+http://www.wikidata.org/entity/Q76950528,Q76950528,Q76950528,Point(12.4857598 41.9006777),,,,,,,,,,,,,,,,
+http://www.wikidata.org/entity/Q76950577,Q76950577,Q76950577,Point(12.4763574 41.9112267),,,,,,,,,,,,,,,,
+http://www.wikidata.org/entity/Q76950626,Q76950626,Q76950626,Point(12.4759694 41.9111368),,,,,,,,,,,,,,,,
+http://www.wikidata.org/entity/Q76952264,Q76952264,Q76952264,Point(12.4830301 41.9066282),,,,,,,,,,,,,,,,
+http://www.wikidata.org/entity/Q76952380,Q76952380,Q76952380,Point(12.4761698 41.9009517),,,,,,,,,,,,,,,,
+http://www.wikidata.org/entity/Q76952570,Q76952570,Q76952570,Point(12.4840684 41.9005432),,,,,,,,,,,,,,,,
+http://www.wikidata.org/entity/Q76952830,Q76952830,Q76952830,Point(12.4749362 41.9016506),,,,,,,,,,,,,,,,
+http://www.wikidata.org/entity/Q76953613,Q76953613,Q76953613,Point(12.477104 41.9047364),,,,,,,,,,,,,,,,
+http://www.wikidata.org/entity/Q76955803,Q76955803,Q76955803,Point(12.4846755 41.9002564),,,,,,,,,,,,,,,,
+http://www.wikidata.org/entity/Q76956026,Q76956026,Q76956026,Point(12.4807826 41.9027043),,,,,,,,,,,,,,,,
+http://www.wikidata.org/entity/Q76957154,Q76957154,Q76957154,Point(12.4822602 41.9081216),,,,,,,,,,,,,,,,
+http://www.wikidata.org/entity/Q76957197,Q76957197,Q76957197,Point(12.482087 41.9059715),,,,,,,,,,,,,,,,
+http://www.wikidata.org/entity/Q76958317,Q76958317,Q76958317,Point(12.4759791 41.9052695),,,,,,,,,,,,,,,,
+http://www.wikidata.org/entity/Q76958548,Q76958548,Q76958548,Point(12.4855319 41.9024909),,,,,,,,,,,,,,,,
+http://www.wikidata.org/entity/Q76958575,Q76958575,Q76958575,Point(12.4846068 41.9016843),,,,,,,,,,,,,,,,
+http://www.wikidata.org/entity/Q76958869,Q76958869,Q76958869,Point(12.4752772 41.9032327),,,,,,,,,,,,,,,,
+http://www.wikidata.org/entity/Q76960642,Q76960642,Q76960642,Point(12.4768045 41.894381),,,,,,,,,,,,,,,,
+http://www.wikidata.org/entity/Q76960773,Q76960773,Q76960773,Point(12.4835292 41.9010723),,,,,,,,,,,,,,,,
+http://www.wikidata.org/entity/Q76961774,Q76961774,Q76961774,Point(12.4795284 41.9076916),,,,,,,,,,,,,,,,
+http://www.wikidata.org/entity/Q76964602,Q76964602,Q76964602,Point(12.4755263 41.9114631),,,,,,,,,,,,,,,,
+http://www.wikidata.org/entity/Q76964630,Q76964630,Q76964630,Point(12.4797208 41.9064805),,,,,,,,,,,,,,,,
+http://www.wikidata.org/entity/Q76969045,Q76969045,Q76969045,Point(12.4779559 41.8994982),,,,,,,,,,,,,,,,
+http://www.wikidata.org/entity/Q76969060,Q76969060,Q76969060,Point(12.4776281 41.9029623),,,,,,,,,,,,,,,,
+http://www.wikidata.org/entity/Q76969547,Q76969547,Q76969547,Point(12.4780295 41.9041637),,,,,,,,,,,,,,,,
+http://www.wikidata.org/entity/Q76969756,Q76969756,Q76969756,Point(12.4818403 41.9037885),,,,,,,,,,,,,,,,
+http://www.wikidata.org/entity/Q76971161,Q76971161,Q76971161,Point(12.4746912 41.9084858),,,,,,,,,,,,,,,,
+http://www.wikidata.org/entity/Q76972137,Q76972137,Q76972137,Point(12.4814682 41.90157),,,,,,,,,,,,,,,,
+http://www.wikidata.org/entity/Q76972578,Q76972578,Q76972578,Point(12.4756049 41.9093037),,,,,,,,,,,,,,,,
+http://www.wikidata.org/entity/Q76973289,Q76973289,Q76973289,Point(12.4796055 41.8946273),,,,,,,,,,,,,,,,
+http://www.wikidata.org/entity/Q76974157,Q76974157,Q76974157,Point(12.4839181 41.8986925),,,,,,,,,,,,,,,,
+http://www.wikidata.org/entity/Q76974198,Q76974198,Q76974198,Point(12.4767299 41.8993844),,,,,,,,,,,,,,,,
+http://www.wikidata.org/entity/Q76975915,Q76975915,Q76975915,Point(12.4754479 41.8935647),,,,,,,,,,,,,,,,
+http://www.wikidata.org/entity/Q76976312,Q76976312,Q76976312,Point(12.4820117 41.8937976),,,,,,,,,,,,,,,,
+http://www.wikidata.org/entity/Q76976327,Q76976327,Q76976327,Point(12.4819494 41.8937282),,,,,,,,,,,,,,,,
+http://www.wikidata.org/entity/Q77259319,Q77259319,Fontana della Dea di Roma,Point(12.477212852 41.910927587),,,,,,,,,,,,,,1814-01-01T00:00:00Z,Piazza del Popolo (Rome) - Fontana della dea Roma,
+http://www.wikidata.org/entity/Q77259319,Q77259319,Fontana della Dea di Roma,Point(12.477199 41.910925),,,,,,,,,,,,,,1814-01-01T00:00:00Z,Piazza del Popolo (Rome) - Fontana della dea Roma,
+http://www.wikidata.org/entity/Q85726773,Q85726773,Biblioteca de la Escuela Española de Historia y Arqueología a Roma (CSIC),Point(12.476366 41.896486),,,,,,,,,,,,,,2010-01-01T00:00:00Z,,
+http://www.wikidata.org/entity/Q88968810,Q88968810,Q88968810,Point(12.475538888 41.896769444),,,,,,,,,,,,,,,,
+http://www.wikidata.org/entity/Q93444184,Q93444184,Fontana della Pigna,Point(12.481555555 41.895388888),,,,,,,,,,,,,,,Fontana della Pigna (Rome),
+http://www.wikidata.org/entity/Q97704755,Q97704755,Q97704755,Point(12.483227694 41.893548),,,,,,,,,,,,,,0200-01-01T00:00:00Z,Pan Della Valle (Musei Capitolini),
+http://www.wikidata.org/entity/Q97791766,Q97791766,Q97791766,Point(12.483227694 41.893548),,,,,,,,,,,,,,,Palazzo Nuovo (Rome) - Courtyard,
+http://www.wikidata.org/entity/Q98898931,Q98898931,Q98898931,Point(12.47714 41.906479),,,,,,,,,,,,,,1937-11-20T00:00:00Z,,
+http://www.wikidata.org/entity/Q102397356,Q102397356,Q102397356,Point(12.476694444 41.893861111),,,,,,,,,,,,,,,Vicolo in Publicolis,
+http://www.wikidata.org/entity/Q103822639,Q103822639,ambasciata della Georgia in Italia,Point(12.4805 41.8965),,,,,,,,,,,,,,,Embassy of Georgia to Italy,
+http://www.wikidata.org/entity/Q103830614,Q103830614,ambasciata del Guatemala in Italia,Point(12.4749 41.9123),,,,,,,,,,,,,,,,
+http://www.wikidata.org/entity/Q103839860,Q103839860,Palazzo del Gallo di Roccagiovine,Point(12.485096 41.89565),,,,,,,,,,,,,,1864-01-01T00:00:00Z,,
+http://www.wikidata.org/entity/Q103869127,Q103869127,ambasciata di Panama in Italia,Point(12.477 41.8963),,,,,,,,,,,,,,,,
+http://www.wikidata.org/entity/Q103919598,Q103919598,Piazza Capranica,Point(12.477738 41.899999),,,,,,,,,,,,,,,Piazza Capranica (Rome),
+http://www.wikidata.org/entity/Q104585698,Q104585698,"Fortuna Huiusce Diei, Aedes",Point(12.4769134 41.8954071),,,419125SFor,635795593,,,,,,,,,,,Sacred area in Largo di Torre Argentina - Temple B,
+http://www.wikidata.org/entity/Q104586001,Q104586001,Tempio C,Point(12.4766288 41.8952077),,,419125SFer,820369856,,,,2100302,,,,,,,Sacred area in Largo di Torre Argentina - Temple C,
+http://www.wikidata.org/entity/Q106204614,Q106204614,Palazzo del Collegio Nazareno,Point(12.483753 41.903003),,,,,,,,,,,,,,,,
+http://www.wikidata.org/entity/Q106297955,Q106297955,Aula minore del Collegio Nazareno,Point(12.483663333 41.902933333),,,,,,,,,,,,,,,,
+http://www.wikidata.org/entity/Q106311056,Q106311056,Aula maggiore del Collegio Nazareno,Point(12.483663333 41.902933333),,,,,,,,,,,,,,,,
+http://www.wikidata.org/entity/Q106451961,Q106451961,Q106451961,Point(12.4839 41.89474),,,,,,,,,,,,,,,,
+http://www.wikidata.org/entity/Q107677697,Q107677697,Q107677697,Point(12.475869444 41.905297222),,,,,,,,,,,,,,,Fontana della Botticella,
+http://www.wikidata.org/entity/Q108265012,Q108265012,Q108265012,Point(12.480583333 41.904888888),,,,,,,,,,,,,,,Fontana Bocca di Leone,
+http://www.wikidata.org/entity/Q108304341,Q108304341,Q108304341,Point(12.475277777 41.90325),,,,,,,,,,,,,,,Fontana Clementina,
+http://www.wikidata.org/entity/Q108395669,Q108395669,Q108395669,Point(12.474972222 41.901666666),,,,,,,,,,,,,,,Fontana della Scrofa (Rome),
+http://www.wikidata.org/entity/Q108033517,Q108033517,Q108033517,Point(12.475333333 41.905083333),,,,,,,,,,,,,,,Fontana del Museo dell'Ara Pacis,
+http://www.wikidata.org/entity/Q108107007,Q108107007,Q108107007,Point(12.480388888 41.907833333),,,,,,,,,,,,,,,Fontana degli Artisti (Rome),
+http://www.wikidata.org/entity/Q108195121,Q108195121,Q108195121,Point(12.477722222 41.905611111),,,,,,,,,,,,,,,,
+http://www.wikidata.org/entity/Q108434815,Q108434815,Q108434815,Point(12.476833333 41.902527777),,,,,,,,,,,,,,,Fontana della Lupa,
+http://www.wikidata.org/entity/Q108494744,Q108494744,Q108494744,Point(12.477972222 41.8995),,,,,,,,,,,,,,,Fontanella di Vicolo della Spada d'Orlando,
+http://www.wikidata.org/entity/Q108554369,Q108554369,Fontana del Bufalo,Point(12.4832907 41.9030148),,,,,,,,,,,,,,1957-01-01T00:00:00Z,Fontana Del Bufalo (Rome),
+http://www.wikidata.org/entity/Q108566386,Q108566386,Q108566386,Point(12.476277777 41.901611111),,,,,,,,,,,,,,,Ara di Piazza in Campo Marzio,
+http://www.wikidata.org/entity/Q108581243,Q108581243,Q108581243,Point(12.475472222 41.9115),,,,,,,,,,,,,,,Fontana di Piazzale Flaminio,
+http://www.wikidata.org/entity/Q108737472,Q108737472,Q108737472,Point(12.483414 41.897402),,,,,,,,,,,,,,2016-01-01T00:00:00Z,,
+http://www.wikidata.org/entity/Q109362163,Q109362163,Palazzo Raggi,Point(12.4796 41.90294),,,,,,,,,,,,,,1730-01-01T00:00:00Z,,
+http://www.wikidata.org/entity/Q109924263,Q109924263,Vicus Caprarius,Point(12.4841 41.9004),,,,,,,,,,,,,,,,
+http://www.wikidata.org/entity/Q110088705,Q110088705,Fontana della palla di cannone,Point(12.4822296 41.9080842),,,,,,,,,,,,,,,Fontana della palla di cannone (Rome),
+http://www.wikidata.org/entity/Q111037909,Q111037909,Q111037909,Point(12.485083333 41.896833333),,,,,,,,,,,,,,,San Lorenzo de Biberatica,
+http://www.wikidata.org/entity/Q111088926,Q111088926,Q111088926,Point(12.480861111 41.899166666),,,,,,,,,,,,,,,San Nicola de Forbitoribus,
+http://www.wikidata.org/entity/Q111395393,Q111395393,Palazzo Buonaccorsi di via del Corso,Point(12.480949 41.900608),,,,,,,,,,,,,,1601-01-01T00:00:00Z,,
+http://www.wikidata.org/entity/Q111412366,Q111412366,Q111412366,Point(12.47921 41.90387),,,,,,,,,,,,,,,,
+http://www.wikidata.org/entity/Q111412376,Q111412376,Q111412376,Point(12.48256 41.90267),,,,,,,,,,,,,,,,
+http://www.wikidata.org/entity/Q111412384,Q111412384,Q111412384,Point(12.478 41.90093),,,,,,,,,,,,,,,,
+http://www.wikidata.org/entity/Q111412389,Q111412389,Q111412389,Point(12.48564 41.9019),,,,,,,,,,,,,,,,
+http://www.wikidata.org/entity/Q111412395,Q111412395,Q111412395,Point(12.4775418 41.8993783),,,,,,,,,,,,,,,,
+http://www.wikidata.org/entity/Q111412392,Q111412392,Q111412392,Point(12.48497 41.90146),,,,,,,,,,,,,,,,
+http://www.wikidata.org/entity/Q111412393,Q111412393,Q111412393,Point(12.48478 41.9014),,,,,,,,,,,,,,,,
+http://www.wikidata.org/entity/Q111412402,Q111412402,Q111412402,Point(12.48115 41.89894),,,,,,,,,,,,,,,,
+http://www.wikidata.org/entity/Q111412402,Q111412402,Q111412402,Point(12.4811401 41.8989415),,,,,,,,,,,,,,,,
+http://www.wikidata.org/entity/Q111412411,Q111412411,Q111412411,Point(12.48267 41.89748),,,,,,,,,,,,,,,,
+http://www.wikidata.org/entity/Q111412412,Q111412412,Q111412412,Point(12.482053 41.897167),,,,,,,,,,,,,,,,
+http://www.wikidata.org/entity/Q111412418,Q111412418,Q111412418,Point(12.47895 41.89579),,,,,,,,,,,,,,,,
+http://www.wikidata.org/entity/Q111412417,Q111412417,Q111412417,Point(12.47626 41.89525),,,,,,,,,,,,,,,,
+http://www.wikidata.org/entity/Q111412421,Q111412421,Q111412421,Point(12.48411 41.89678),,,,,,,,,,,,,,,,
+http://www.wikidata.org/entity/Q111412987,Q111412987,Q111412987,Point(12.47795 41.90929),,,,,,,,,,,,,,,,
+http://www.wikidata.org/entity/Q111412984,Q111412984,Q111412984,Point(12.477362 41.909912),,,,,,,,,,,,,,,,
+http://www.wikidata.org/entity/Q111412985,Q111412985,Q111412985,Point(12.47742 41.90926),,,,,,,,,,,,,,,,
+http://www.wikidata.org/entity/Q111412988,Q111412988,Q111412988,Point(12.47555 41.90864),,,,,,,,,,,,,,,,
+http://www.wikidata.org/entity/Q111413118,Q111413118,Q111413118,Point(12.47794 41.90731),,,,,,,,,,,,,,,,
+http://www.wikidata.org/entity/Q111413117,Q111413117,Q111413117,Point(12.47933 41.90811),,,,,,,,,,,,,,,,
+http://www.wikidata.org/entity/Q111413234,Q111413234,Q111413234,Point(12.48062 41.90625),,,,,,,,,,,,,,,,
+http://www.wikidata.org/entity/Q111413235,Q111413235,Q111413235,Point(12.48103 41.90579),,,,,,,,,,,,,,,,
+http://www.wikidata.org/entity/Q111413314,Q111413314,Q111413314,Point(12.480382 41.90534),,,,,,,,,,,,,,,,
+http://www.wikidata.org/entity/Q111413319,Q111413319,Q111413319,Point(12.48369 41.90591),,,,,,,,,,,,,,,,
+http://www.wikidata.org/entity/Q111413316,Q111413316,Q111413316,Point(12.47693 41.90434),,,,,,,,,,,,,,,,
+http://www.wikidata.org/entity/Q111413326,Q111413326,Q111413326,Point(12.4806 41.90478),,,,,,,,,,,,,,,,
+http://www.wikidata.org/entity/Q111413326,Q111413326,Q111413326,Point(12.4806045 41.9047114),,,,,,,,,,,,,,,,
+http://www.wikidata.org/entity/Q111878134,Q111878134,Q111878134,Point(12.48094 41.90444),,,,,,,,,,,,,,,,
+http://www.wikidata.org/entity/Q111878138,Q111878138,Q111878138,Point(12.47721 41.9031),,,,,,,,,,,,,,,,
+http://www.wikidata.org/entity/Q111878139,Q111878139,Q111878139,Point(12.48582 41.90513),,,,,,,,,,,,,,,,
+http://www.wikidata.org/entity/Q111878136,Q111878136,Q111878136,Point(12.4813 41.90426),,,,,,,,,,,,,,,,
+http://www.wikidata.org/entity/Q111878137,Q111878137,Q111878137,Point(12.47939 41.90375),,,,,,,,,,,,,,,,
+http://www.wikidata.org/entity/Q111878140,Q111878140,Q111878140,Point(12.47973 41.90321),,,,,,,,,,,,,,,,
+http://www.wikidata.org/entity/Q111878151,Q111878151,Q111878151,Point(12.48561 41.90324),,,,,,,,,,,,,,,,
+http://www.wikidata.org/entity/Q111878149,Q111878149,Q111878149,Point(12.48508 41.90338),,,,,,,,,,,,,,,,
+http://www.wikidata.org/entity/Q111878159,Q111878159,Q111878159,Point(12.47642 41.9001),,,,,,,,,,,,,,,,
+http://www.wikidata.org/entity/Q111878162,Q111878162,Q111878162,Point(12.47924 41.90048),,,,,,,,,,,,,,,,
+http://www.wikidata.org/entity/Q111878167,Q111878167,Q111878167,Point(12.48015 41.90003),,,,,,,,,,,,,,,,
+http://www.wikidata.org/entity/Q111878170,Q111878170,Q111878170,Point(12.47761 41.89898),,,,,,,,,,,,,,,,
+http://www.wikidata.org/entity/Q111878171,Q111878171,Q111878171,Point(12.48496 41.90065),,,,,,,,,,,,,,,,
+http://www.wikidata.org/entity/Q111878172,Q111878172,Q111878172,Point(12.48379 41.90032),,,,,,,,,,,,,,,,
+http://www.wikidata.org/entity/Q111878173,Q111878173,Q111878173,Point(12.47639 41.89832),,,,,,,,,,,,,,,,
+http://www.wikidata.org/entity/Q111878183,Q111878183,Q111878183,Point(12.4764 41.89632),,,,,,,,,,,,,,,,
+http://www.wikidata.org/entity/Q111878181,Q111878181,Q111878181,Point(12.47925 41.89765),,,,,,,,,,,,,,,,
+http://www.wikidata.org/entity/Q111878186,Q111878186,Q111878186,Point(12.48199 41.89731),,,,,,,,,,,,,,,,
+http://www.wikidata.org/entity/Q111878185,Q111878185,Q111878185,Point(12.48227 41.897438),,,,,,,,,,,,,,,,
+http://www.wikidata.org/entity/Q111878190,Q111878190,Q111878190,Point(12.47823 41.89603),,,,,,,,,,,,,,,,
+http://www.wikidata.org/entity/Q111878189,Q111878189,Q111878189,Point(12.47825 41.89604),,,,,,,,,,,,,,,,
+http://www.wikidata.org/entity/Q111878195,Q111878195,Q111878195,Point(12.47602 41.89511),,,,,,,,,,,,,,,,
+http://www.wikidata.org/entity/Q111878198,Q111878198,Q111878198,Point(12.47936 41.89548),,,,,,,,,,,,,,,,
+http://www.wikidata.org/entity/Q111878199,Q111878199,Q111878199,Point(12.47679 41.89484),,,,,,,,,,,,,,,,
+http://www.wikidata.org/entity/Q111878196,Q111878196,Q111878196,Point(12.47544 41.89466),,,,,,,,,,,,,,,,
+http://www.wikidata.org/entity/Q111878202,Q111878202,Q111878202,Point(12.47705 41.89483),,,,,,,,,,,,,,,,
+http://www.wikidata.org/entity/Q111878203,Q111878203,Q111878203,Point(12.47699 41.89479),,,,,,,,,,,,,,,,
+http://www.wikidata.org/entity/Q111878200,Q111878200,Q111878200,Point(12.47665 41.89475),,,,,,,,,,,,,,,,
+http://www.wikidata.org/entity/Q111878206,Q111878206,Q111878206,Point(12.484805 41.89609),,,,,,,,,,,,,,,,
+http://www.wikidata.org/entity/Q111878204,Q111878204,Q111878204,Point(12.47614 41.89451),,,,,,,,,,,,,,,,
+http://www.wikidata.org/entity/Q111878205,Q111878205,Q111878205,Point(12.48015 41.89491),,,,,,,,,,,,,,,,
+http://www.wikidata.org/entity/Q111878860,Q111878860,Q111878860,Point(12.47473 41.90966),,,,,,,,,,,,,,,,
+http://www.wikidata.org/entity/Q111878864,Q111878864,Q111878864,Point(12.47688 41.90972),,,,,,,,,,,,,,,,
+http://www.wikidata.org/entity/Q111879019,Q111879019,Q111879019,Point(12.47926 41.90895),,,,,,,,,,,,,,,,
+http://www.wikidata.org/entity/Q111879022,Q111879022,Q111879022,Point(12.4772 41.90719),,,,,,,,,,,,,,,,
+http://www.wikidata.org/entity/Q111879024,Q111879024,Q111879024,Point(12.4779 41.90714),,,,,,,,,,,,,,,,
+http://www.wikidata.org/entity/Q111879308,Q111879308,Q111879308,Point(12.48026 41.90747),,,,,,,,,,,,,,,,
+http://www.wikidata.org/entity/Q111879317,Q111879317,Q111879317,Point(12.48075 41.90621),,,,,,,,,,,,,,,,
+http://www.wikidata.org/entity/Q111879322,Q111879322,Q111879322,Point(12.48156 41.90601),,,,,,,,,,,,,,,,
+http://www.wikidata.org/entity/Q111879320,Q111879320,Q111879320,Point(12.4828 41.9064),,,,,,,,,,,,,,,,
+http://www.wikidata.org/entity/Q111879324,Q111879324,Q111879324,Point(12.47476 41.90413),,,,,,,,,,,,,,,,
+http://www.wikidata.org/entity/Q111879633,Q111879633,Q111879633,Point(12.47652 41.90451),,,,,,,,,,,,,,,,
+http://www.wikidata.org/entity/Q111879637,Q111879637,Q111879637,Point(12.4782 41.90491),,,,,,,,,,,,,,,,
+http://www.wikidata.org/entity/Q111879643,Q111879643,Q111879643,Point(12.48189 41.90568),,,,,,,,,,,,,,,,
+http://www.wikidata.org/entity/Q111879641,Q111879641,Q111879641,Point(12.48272 41.9059),,,,,,,,,,,,,,,,
+http://www.wikidata.org/entity/Q111879647,Q111879647,Q111879647,Point(12.48372 41.90591),,,,,,,,,,,,,,,,
+http://www.wikidata.org/entity/Q111879649,Q111879649,Q111879649,Point(12.47801 41.90427),,,,,,,,,,,,,,,,
+http://www.wikidata.org/entity/Q111879654,Q111879654,Q111879654,Point(12.47852 41.90435),,,,,,,,,,,,,,,,
+http://www.wikidata.org/entity/Q112017966,Q112017966,Q112017966,Point(12.47798 41.90345),,,,,,,,,,,,,,,,
+http://www.wikidata.org/entity/Q112017967,Q112017967,Q112017967,Point(12.47985 41.90386),,,,,,,,,,,,,,,,
+http://www.wikidata.org/entity/Q112017965,Q112017965,Q112017965,Point(12.478315 41.90371),,,,,,,,,,,,,,,,
+http://www.wikidata.org/entity/Q112017971,Q112017971,Q112017971,Point(12.48505 41.9043),,,,,,,,,,,,,,,,
+http://www.wikidata.org/entity/Q112017968,Q112017968,Q112017968,Point(12.48177 41.90431),,,,,,,,,,,,,,,,
+http://www.wikidata.org/entity/Q112017969,Q112017969,Q112017969,Point(12.47507 41.90217),,,,,,,,,,,,,,,,
+http://www.wikidata.org/entity/Q112017977,Q112017977,Q112017977,Point(12.47682 41.90112),,,,,,,,,,,,,,,,
+http://www.wikidata.org/entity/Q112017982,Q112017982,Q112017982,Point(12.48454 41.90174),,,,,,,,,,,,,,,,
+http://www.wikidata.org/entity/Q112017980,Q112017980,Q112017980,Point(12.47701 41.90039),,,,,,,,,,,,,,,,
+http://www.wikidata.org/entity/Q112017986,Q112017986,Q112017986,Point(12.47731 41.8995),,,,,,,,,,,,,,,,
+http://www.wikidata.org/entity/Q112017985,Q112017985,Q112017985,Point(12.48534 41.90167),,,,,,,,,,,,,,,,
+http://www.wikidata.org/entity/Q112017990,Q112017990,Q112017990,Point(12.477619 41.897297),,,,,,,,,,,,,,,,
+http://www.wikidata.org/entity/Q112017989,Q112017989,Q112017989,Point(12.476341 41.89718),,,,,,,,,,,,,,,,
+http://www.wikidata.org/entity/Q112017994,Q112017994,Q112017994,Point(12.4782 41.896),,,,,,,,,,,,,,,,
+http://www.wikidata.org/entity/Q112017992,Q112017992,Q112017992,Point(12.47603 41.89596),,,,,,,,,,,,,,,,
+http://www.wikidata.org/entity/Q112017998,Q112017998,Q112017998,Point(12.480635 41.894596),,,,,,,,,,,,,,,,
+http://www.wikidata.org/entity/Q112017999,Q112017999,Q112017999,Point(12.47745 41.8937),,,,,,,,,,,,,,,,
+http://www.wikidata.org/entity/Q112017996,Q112017996,Q112017996,Point(12.47788 41.89557),,,,,,,,,,,,,,,,
+http://www.wikidata.org/entity/Q112018261,Q112018261,Q112018261,Point(12.47536 41.91198),,,,,,,,,,,,,,,,
+http://www.wikidata.org/entity/Q112018339,Q112018339,Q112018339,Point(12.47584 41.90973),,,,,,,,,,,,,,,,
+http://www.wikidata.org/entity/Q112018343,Q112018343,Q112018343,Point(12.475 41.90925),,,,,,,,,,,,,,,,
+http://www.wikidata.org/entity/Q112018344,Q112018344,Q112018344,Point(12.476 41.90924),,,,,,,,,,,,,,,,
+http://www.wikidata.org/entity/Q112018345,Q112018345,Q112018345,Point(12.47707 41.90929),,,,,,,,,,,,,,,,
+http://www.wikidata.org/entity/Q112018406,Q112018406,Q112018406,Point(12.478348 41.908367),,,,,,,,,,,,,,,,
+http://www.wikidata.org/entity/Q112018405,Q112018405,Q112018405,Point(12.477378 41.908325),,,,,,,,,,,,,,,,
+http://www.wikidata.org/entity/Q112018410,Q112018410,Q112018410,Point(12.47928 41.90823),,,,,,,,,,,,,,,,
+http://www.wikidata.org/entity/Q112018468,Q112018468,Q112018468,Point(12.4808 41.90616),,,,,,,,,,,,,,,,
+http://www.wikidata.org/entity/Q112018469,Q112018469,Q112018469,Point(12.47866 41.90559),,,,,,,,,,,,,,,,
+http://www.wikidata.org/entity/Q112018546,Q112018546,Q112018546,Point(12.48373 41.90559),,,,,,,,,,,,,,,,
+http://www.wikidata.org/entity/Q112018414,Q112018414,Q112018414,Point(12.48011 41.90755),,,,,,,,,,,,,,,,
+http://www.wikidata.org/entity/Q112018466,Q112018466,Q112018466,Point(12.48028 41.90628),,,,,,,,,,,,,,,,
+http://www.wikidata.org/entity/Q112018471,Q112018471,Q112018471,Point(12.48226 41.90619),,,,,,,,,,,,,,,,
+http://www.wikidata.org/entity/Q112146475,Q112146475,Mascioni opus 569,Point(12.481761111 41.898680555),,,,,,,,,,,,,,1942-01-01T00:00:00Z,,
+http://www.wikidata.org/entity/Q112146783,Q112146783,Mascioni opus 871,Point(12.478333333 41.898055555),,,,,,,,,,,,,,1965-01-01T00:00:00Z,,
+http://www.wikidata.org/entity/Q112147103,Q112147103,Mascioni opus 1181,Point(12.474472222 41.901972222),,,,,,,,,,,,,,2008-01-01T00:00:00Z,,
+http://www.wikidata.org/entity/Q112146199,Q112146199,Mascioni opus 307,Point(12.47622 41.89379),,,,,,,,,,,,,,1912-01-01T00:00:00Z,,
+http://www.wikidata.org/entity/Q112146263,Q112146263,Mascioni opus 369,Point(12.483205555 41.898105555),,,,,,,,,,,,,,1925-01-01T00:00:00Z,,
+http://www.wikidata.org/entity/Q112146443,Q112146443,Mascioni opus 535,Point(12.47865 41.90679),,,,,,,,,,,,,,1940-01-01T00:00:00Z,,
+http://www.wikidata.org/entity/Q112874812,Q112874812,Bibliobus Roma Nord,Point(12.4823243 41.8954656),,,,,,,,,,,,,,,,
+http://www.wikidata.org/entity/Q112962373,Q112962373,organo del Conservatorio Santa Cecilia - Roma,Point(12.478943 41.907501),,,,,,,,,,,,,,2011-01-01T00:00:00Z,,
+http://www.wikidata.org/entity/Q113003322,Q113003322,Q113003322,Point(12.47978 41.89886),,,,,,,,,,,,,,1935-01-01T00:00:00Z,,
+http://www.wikidata.org/entity/Q113086183,Q113086183,Biblioteca 'Romana Sarti',Point(12.4837868 41.9015129),,,,,,,,,,,,,,,,
+http://www.wikidata.org/entity/Q113086191,Q113086191,Biblioteca del Centro ricerca e documentazione arti visive - CRDAV,Point(12.4858251 41.9038663),,,,,,,,,,,,,,,,
+http://www.wikidata.org/entity/Q113086194,Q113086194,Biblioteca della Galleria d'arte moderna di Roma,Point(12.4856929 41.9040589),,,,,,,,,,,,,,,,
+http://www.wikidata.org/entity/Q113092954,Q113092954,Biblioteca Capranicense,Point(12.4779031 41.8998678),,,,,,,,,,,,,,,,
+http://www.wikidata.org/entity/Q113092972,Q113092972,Biblioteca della Pontificia Università Gregoriana,Point(12.4843464 41.8990006),,,,,,,,,,,,,,,,
+http://www.wikidata.org/entity/Q113092982,Q113092982,Biblioteca del Pontificio Seminario francese,Point(12.4768741 41.8975841),,,,,,,,,,,,,,,,
+http://www.wikidata.org/entity/Q113092985,Q113092985,Biblioteca d'Arte Sacra 'Beato Angelico',Point(12.4777874 41.8978568),,,,,,,,,,,,,,,,
+http://www.wikidata.org/entity/Q113093013,Q113093013,Biblioteca dell'Archivio generale dei Ministri degli infermi,Point(12.4765911 41.9001809),,,,,,,,,,,,,,,,
+http://www.wikidata.org/entity/Q113093043,Q113093043,Biblioteca Demerodiana,Point(12.4820156 41.9067808),,,,,,,,,,,,,,,,
+http://www.wikidata.org/entity/Q113093049,Q113093049,Biblioteca Generalizia del Centro Studi Storici PP. Barnabiti,Point(12.4753538 41.8941448),,,,,,,,,,,,,,,,
+http://www.wikidata.org/entity/Q113319678,Q113319678,Biblioteca di studi sul federalismo europeo Altiero Spinelli,Point(12.474473 41.9093952),,,,,,,,,,,,,,,,
+http://www.wikidata.org/entity/Q113319677,Q113319677,Biblioteca Archivio arte contemporanea Crispolti,Point(12.4753213 41.9035425),,,,,,,,,,,,,,,,
+http://www.wikidata.org/entity/Q113319697,Q113319697,Biblioteca della nonviolenza,Point(12.4763419 41.8971794),,,,,,,,,,,,,,,,
+http://www.wikidata.org/entity/Q113319721,Q113319721,Biblioteca Italo Viglianesi,Point(12.484929715 41.905217632),,,,,,,,,,,,,,,,
+http://www.wikidata.org/entity/Q113359827,Q113359827,Biblioteca del Liceo ginnasio statale Ennio Quirino Visconti,Point(12.480301 41.8979813),,,,,,,,,,,,,,,,
+http://www.wikidata.org/entity/Q113359924,Q113359924,"Biblioteca del Liceo artistico ""Via di Ripetta""",Point(12.4756923 41.9069749),,,,,,,,,,,,,,,,
+http://www.wikidata.org/entity/Q113515593,Q113515593,Biblioteca dell'Istituto italiano degli attuari,Point(12.4770118 41.906855),,,,,,,,,,,,,,,,
+http://www.wikidata.org/entity/Q113169672,Q113169672,Biblioteca del Dipartimento di Architettura e progetto. Sede Piazza Borghese. Università degli studi di Roma La Sapienza,Point(12.475901 41.9040435),,,,,,,,,,,,,,,,
+http://www.wikidata.org/entity/Q113169673,Q113169673,Biblioteca del Dipartimento di Storia disegno e restauro dell'Università degli studi di Roma La Sapienza. Sede Disegno e rilievo,Point(12.475901 41.9040435),,,,,,,,,,,,,,,,
+http://www.wikidata.org/entity/Q113169676,Q113169676,Biblioteca del Dipartimento di Storia disegno e restauro. Università degli studi di Roma La Sapienza,Point(12.475743 41.9039893),,,,,,,,,,,,,,,,
+http://www.wikidata.org/entity/Q113319657,Q113319657,Biblioteca dell'Associazione Bancaria Italiana,Point(12.4788697 41.8959251),,,,,,,,,,,,,,,,
+http://www.wikidata.org/entity/Q113319672,Q113319672,Biblioteca dell'Istituto per la documentazione e gli studi legislativi,Point(12.4818649 41.8980305),,,,,,,,,,,,,,,,
+http://www.wikidata.org/entity/Q113515599,Q113515599,Biblioteca dell'Istituto italiano per la storia della musica,Point(12.478709 41.906796),,,,,,,,,,,,,,,,
+http://www.wikidata.org/entity/Q113515600,Q113515600,Biblioteca Gabriele De Rosa dell'Istituto Luigi Sturzo,Point(12.4753763 41.9005923),,,,,,,,,,,,,,,,
+http://www.wikidata.org/entity/Q113515605,Q113515605,Biblioteca dell'Istituto per la storia del Risorgimento italiano,Point(12.4825739 41.8957663),,,,,,,,,,,,,,,,
+http://www.wikidata.org/entity/Q113515610,Q113515610,Biblioteca Marco Besso,Point(12.47738024 41.89625821),,,,,,,,,,,,,,,,
+http://www.wikidata.org/entity/Q113515609,Q113515609,Biblioteca della Fondazione Ernesta Besso,Point(12.4769041 41.8962638),,,,,,,,,,,,,,,,
+http://www.wikidata.org/entity/Q113515626,Q113515626,Biblioteca dell'Istituto affari internazionali,Point(12.4804674 41.8995625),,,,,,,,,,,,,,,,
+http://www.wikidata.org/entity/Q113515632,Q113515632,Biblioteca Keats Shelley memorial library,Point(12.4823161 41.9057634),,,,,,,,,,,,,,,,
+http://www.wikidata.org/entity/Q113515639,Q113515639,Biblioteca del Centro di studio sulle cause di deperimento e sui metodi di conservazione delle opere d'arte del Consiglio nazionale delle ricerche,Point(12.4769393 41.9040636),,,,,,,,,,,,,,,,
+http://www.wikidata.org/entity/Q113515643,Q113515643,Biblioteca dell'Accademia nazionale di San Luca,Point(12.4837868 41.9015129),,,,,,,,,,,,,,,,
+http://www.wikidata.org/entity/Q113515661,Q113515661,Biblioteca del Centro studi di politica internazionale,Point(12.4803483 41.8947987),,,,,,,,,,,,,,,,
+http://www.wikidata.org/entity/Q113515671,Q113515671,Biblioteca della Casa di Goethe,Point(12.4770406 41.9089768),,,,,,,,,,,,,,,,
+http://www.wikidata.org/entity/Q113515673,Q113515673,Biblioteca della Fondazione Camillo Caetani,Point(12.4781455 41.894919),,,,,,,,,,,,,,,,
+http://www.wikidata.org/entity/Q113525981,Q113525981,Biblioteca dell'Istituto centrale per la grafica,Point(12.4833165 41.9015456),,,,,,,,,,,,,,,,
+http://www.wikidata.org/entity/Q113526428,Q113526428,"Biblioteca della Soprintendenza Archeologia, belle arti e paesaggio per l'area metropolitana di Roma, la provincia di Viterbo e l'Etruria meridionale",Point(12.4792186 41.893661),,,,,,,,,,,,,,,,
+http://www.wikidata.org/entity/Q113526434,Q113526434,Biblioteca del Polo Museale del Lazio,Point(12.481669 41.895743),,,,,,,,,,,,,,,,
+http://www.wikidata.org/entity/Q113526437,Q113526437,Biblioteca del Museo nazionale di Palazzo Venezia,Point(12.481669 41.895743),,,,,,,,,,,,,,,,
+http://www.wikidata.org/entity/Q113527542,Q113527542,Biblioteca della Fondazione Lelio e Lisli Basso. Onlus,Point(12.4752273 41.8988688),,,,,,,,,,,,,,,,
+http://www.wikidata.org/entity/Q113527543,Q113527543,Biblioteca della Società italiana per l'Organizzazione Internazionale,Point(12.4813684 41.8955303),,,,,,,,,,,,,,,,
+http://www.wikidata.org/entity/Q113527544,Q113527544,Biblioteca di Studi meridionali Giustino Fortunato,Point(12.47742 41.894368),,,,,,,,,,,,,,,,
+http://www.wikidata.org/entity/Q113527550,Q113527550,Biblioteca dell'Università popolare romana,Point(12.4775164 41.8969607),,,,,,,,,,,,,,,,
+http://www.wikidata.org/entity/Q113527548,Q113527548,Biblioteca dell'Istituto storico italiano per l'età moderna e contemporanea,Point(12.4783147 41.8940173),,,,,,,,,,,,,,,,
+http://www.wikidata.org/entity/Q113528747,Q113528747,Biblioteca Chigiana di Roma,Point(12.4798447 41.9015648),,,,,,,,,,,,,,,,
+http://www.wikidata.org/entity/Q113528771,Q113528771,Biblioteca affari regionali della Presidenza del consiglio dei ministri,Point(12.4838874 41.9022013),,,,,,,,,,,,,,,,
+http://www.wikidata.org/entity/Q113528778,Q113528778,Biblioteca dell'Accademia di belle arti di Roma,Point(12.4758531 41.9075569),,,,,,,,,,,,,,,,
+http://www.wikidata.org/entity/Q113528777,Q113528777,Biblioteca dell'Istituto superiore per le industrie artistiche di Roma,Point(12.4762835 41.9001042),,,,,,,,,,,,,,,,
+http://www.wikidata.org/entity/Q113535627,Q113535627,Biblioteca del Conservatorio di Santa Cecilia,Point(12.4782114 41.9073405),,,,,,,,,,,,,,,,
+http://www.wikidata.org/entity/Q113535946,Q113535946,Biblioteca dell'Opera pia collegio Nazareno,Point(12.4835586 41.9028426),,,,,,,,,,,,,,,,
+http://www.wikidata.org/entity/Q113535948,Q113535948,Biblioteca della Fondazione Ugo La Malfa,Point(12.4757839 41.8946351),,,,,,,,,,,,,,,,
+http://www.wikidata.org/entity/Q113610985,Q113610985,Biblioteca dell'Avvocatura generale dello Stato,Point(12.4747623 41.901687),,,,,,,,,,,,,,,,
+http://www.wikidata.org/entity/Q113639832,Q113639832,"Biblioteca della Camera di commercio, industria, artigianato e agricoltura di Roma",Point(12.4795301 41.8995625),,,,,,,,,,,,,,,,
+http://www.wikidata.org/entity/Q113639839,Q113639839,Biblioteca del Centro di studi americani,Point(12.4783147 41.8940173),,,,,,,,,,,,,,,,
+http://www.wikidata.org/entity/Q113639858,Q113639858,Biblioteca dell'Accademia di Francia A Roma-Villa Medici,Point(12.4825695 41.907922),,,,,,,,,,,,,,,,
+http://www.wikidata.org/entity/Q113639860,Q113639860,Biblioteca del Ministero della Cultura,Point(12.4807872 41.8985998),,,,,,,,,,,,,,,,
+http://www.wikidata.org/entity/Q113639871,Q113639871,Biblioteca privata e Archivio Doria Pamphili,Point(12.4805441 41.8972128),,,,,,,,,,,,,,,,
+http://www.wikidata.org/entity/Q113639868,Q113639868,Biblioteca della Escuela española de historia y arqueologia,Point(12.4763842 41.8964529),,,,,,,,,,,,,,,,
+http://www.wikidata.org/entity/Q114128874,Q114128874,Arenula/Cairoli,Point(12.4757141 41.89369705),,,,,,,,,,,,,,,,
+http://www.wikidata.org/entity/Q114128942,Q114128942,Flaminio (MA),Point(12.47563115 41.912305),,,,,,,,,,,,,,,,
+http://www.wikidata.org/entity/Q114129085,Q114129085,Venezia,Point(12.4810153 41.895170726),,,,,,,,,,,,,,,,
+http://www.wikidata.org/entity/Q114658341,Q114658341,Q114658341,Point(12.480472222 41.9015),,,,,,,,,,,,,,,,
+http://www.wikidata.org/entity/Q116029788,Q116029788,Q116029788,Point(12.4799 41.90942),,,,,,,,,,,,,,,,
+http://www.wikidata.org/entity/Q116150700,Q116150700,fontana della Ninfa,Point(12.483290694 41.903014805),,,,,,,,,,,,,,,,
+http://www.wikidata.org/entity/Q116786016,Q116786016,piazza Benedetto Cairoli,Point(12.475376355 41.893781845),,,,,,,,,,,,,,,Piazza Cairoli (Rome),
+http://www.wikidata.org/entity/Q781417,Q781417,Palazzo Montecitorio,Point(12.478650254 41.90106127),,4409400-0,,,,,,,10921,,,,,,Palazzo Montecitorio,https://it.wikipedia.org/wiki/Palazzo_Montecitorio
