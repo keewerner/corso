@@ -108,3 +108,11 @@ WHERE name not null and wikidata not null
 Load the result in QGIS as QueryLayer:Wikidata-ID
 
 Buildings with no Wikidata ID (maybe they are regarded as unimportant) ... well, stay as they are for now.
+
+## Follow Ups
+
+Add more materiel into a new table (in QGIS, connecting via wdata/osm-relation-id) from eg. following sites:
+
+- https://dati.beniculturali.it/applicazioni_/applicazione-fotografico/?FFC031013
+- https://www.romasparita.eu/foto-roma-sparita/?s=via+del+corso
+&c.
