@@ -1,5 +1,9 @@
 # Rome: Corso
 
+# UPDATE PLEAE LOOK HERE:
+
+https://github.com/biblhertz/Corso
+
 ## Step 1
 
 Querying OSM for polygons.
